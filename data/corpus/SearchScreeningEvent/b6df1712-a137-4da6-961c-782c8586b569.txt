@@ -1,0 +1,100 @@
+Is Babar: King of the Elephants playing #!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name o
+Is The Ghost playing#!#SearchScreeningEvent#!#o b-movie_name i-movie_name o
+Is Bartok the Magnificent playing at seven AM?#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name o o b-timeRange i-timeRange o
+What's the movie schedule#!#SearchScreeningEvent#!#o o b-object_type i-object_type
+i want to see JLA Adventures: Trapped In Time#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name
+when is The Fox and the Child playing in this cinema#!#SearchScreeningEvent#!#o o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name o o o b-object_location_type
+show me the schedule for Rat Rod Rockers!#!#SearchScreeningEvent#!#o o o b-object_type o b-movie_name i-movie_name i-movie_name o
+Is Any Which Way You Can playing in 15 seconds#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name o b-timeRange i-timeRange i-timeRange
+I want to see The Portrait of a Lady at the nearest cinema.#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name o o b-spatial_relation b-object_location_type o
+Where can I see The Prime Ministers: The Pioneers#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name
+I need to find the movie theatre showing The Crooked Web closest to me#!#SearchScreeningEvent#!#o o o o o b-object_location_type i-object_location_type o b-movie_name i-movie_name i-movie_name b-spatial_relation o o
+I want to see While the Sun Shines at the closest movie house.#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name o o b-spatial_relation b-object_location_type i-object_location_type o
+I want to see Those Kids from Town, when will it be showing?#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name o o o o o o
+Find the schedule for The Comedian at Santikos Theatres.#!#SearchScreeningEvent#!#o o b-object_type o b-movie_name i-movie_name o b-location_name i-location_name o
+What are the movie schedules for my favorite theaters #!#SearchScreeningEvent#!#o o o b-object_type i-object_type o o o b-location_name
+What are the movies showing in the neighbourhood #!#SearchScreeningEvent#!#o o o b-movie_type o b-spatial_relation i-spatial_relation i-spatial_relation
+Is Without Witness playing twenty two hours from now#!#SearchScreeningEvent#!#o b-movie_name i-movie_name o b-timeRange i-timeRange i-timeRange i-timeRange i-timeRange
+I need animated movies in the area for dinner time#!#SearchScreeningEvent#!#o o b-movie_type i-movie_type b-spatial_relation i-spatial_relation i-spatial_relation o b-timeRange o
+i want to see I Dream of Jeanie in a movie theatre#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name o o b-object_location_type i-object_location_type
+Can I see Ellis Island Revisited in 1 minute#!#SearchScreeningEvent#!#o o o b-movie_name i-movie_name i-movie_name b-timeRange i-timeRange i-timeRange
+I want animated movies at MJR Theatres#!#SearchScreeningEvent#!#o o b-movie_type i-movie_type o b-location_name i-location_name
+show me the schedule for The Oblong Box#!#SearchScreeningEvent#!#o o o b-object_type o b-movie_name i-movie_name i-movie_name
+I want to know if there are any movies playing in the area.#!#SearchScreeningEvent#!#o o o o o o o o b-movie_type o b-spatial_relation i-spatial_relation i-spatial_relation o
+Is What a Wonderful Place showing at Cinemark Theatres#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name i-movie_name o o b-location_name i-location_name
+show the closest movie theatre that shows Boycott#!#SearchScreeningEvent#!#o o b-spatial_relation b-object_location_type i-object_location_type o o b-movie_name
+I want to see DOA: Dead or Alive at Loews Cineplex Entertainment.#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name o b-location_name i-location_name i-location_name o
+is The Nightmare showing six hours from now at the nearest cinema.#!#SearchScreeningEvent#!#o b-movie_name i-movie_name o b-timeRange i-timeRange i-timeRange i-timeRange o o b-spatial_relation b-object_location_type o
+What is the nearest movie house with Window Connection playing at lunch#!#SearchScreeningEvent#!#o o o b-spatial_relation b-object_location_type i-object_location_type o b-movie_name i-movie_name o o b-timeRange
+Is Patrick Still Lives showing at AMC Theaters#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name o o b-location_name i-location_name
+Fine the movie schedules for the Wanda Group.#!#SearchScreeningEvent#!#o o b-object_type i-object_type o o b-location_name i-location_name o
+Give me the movie schedule nearby#!#SearchScreeningEvent#!#o o o b-object_type i-object_type b-spatial_relation
+Find the schedule at the Douglas Theatre Company.#!#SearchScreeningEvent#!#o o b-object_type o o b-location_name i-location_name i-location_name o
+Show me the movies at Harkins Theatres.#!#SearchScreeningEvent#!#o o o b-movie_type o b-location_name i-location_name o
+what movies at Star Theatres.#!#SearchScreeningEvent#!#o b-movie_type o b-location_name i-location_name o
+I want a movie schedule.#!#SearchScreeningEvent#!#o o o b-object_type i-object_type o
+Can I get the movie times#!#SearchScreeningEvent#!#o o o o b-object_type i-object_type
+I want to see Medal for the General#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name
+Can I get the times for movies in the neighbourhood#!#SearchScreeningEvent#!#o o o o b-object_type o b-movie_type b-spatial_relation i-spatial_relation i-spatial_relation
+May I have the movie schedules for Speakeasy Theaters#!#SearchScreeningEvent#!#o o o o b-object_type i-object_type o b-location_name i-location_name
+Find animated movies close by#!#SearchScreeningEvent#!#o b-movie_type i-movie_type b-spatial_relation i-spatial_relation
+Is American Primitive showing in Santikos Theatres#!#SearchScreeningEvent#!#o b-movie_name i-movie_name o o b-location_name i-location_name
+what are the movie schedules in the neighborhood#!#SearchScreeningEvent#!#o o o b-object_type i-object_type b-spatial_relation i-spatial_relation i-spatial_relation
+Check the schedule for Bow Tie Cinemas.#!#SearchScreeningEvent#!#o o b-object_type o b-location_name i-location_name i-location_name o
+Check the timings for Snowbound at the closest movie theatre.#!#SearchScreeningEvent#!#o o o o b-movie_name o o b-spatial_relation b-object_location_type i-object_location_type o
+What are the movie times at Caribbean Cinemas#!#SearchScreeningEvent#!#o o o b-object_type i-object_type o b-location_name i-location_name
+I need films in the neighborhood#!#SearchScreeningEvent#!#o o b-movie_type b-spatial_relation i-spatial_relation i-spatial_relation
+Show the movie schedules in the neighborhood#!#SearchScreeningEvent#!#o o b-object_type i-object_type b-spatial_relation i-spatial_relation i-spatial_relation
+where's the nearest movie house showing foreign films#!#SearchScreeningEvent#!#o o b-spatial_relation b-object_location_type i-object_location_type o o b-movie_type
+What movies are showing now at the closest cinema?#!#SearchScreeningEvent#!#o b-movie_type o o b-timeRange o o b-spatial_relation b-object_location_type o
+Is Rumor Has It playing#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name o
+I need a list of Speakeasy Theaters movie times#!#SearchScreeningEvent#!#o o o o o b-location_name i-location_name b-object_type i-object_type
+When is The Outer Space Connection playing at the nearest cinema.#!#SearchScreeningEvent#!#o o b-movie_name i-movie_name i-movie_name i-movie_name o o o b-spatial_relation b-object_location_type o
+Find the movie times at Harkins Theatres.#!#SearchScreeningEvent#!#o o b-object_type i-object_type o b-location_name i-location_name o
+Find the films at Century Theatres.#!#SearchScreeningEvent#!#o o b-movie_type o b-location_name i-location_name o
+show the animated movies playing in the neighbourhood#!#SearchScreeningEvent#!#o o b-movie_type i-movie_type o b-spatial_relation i-spatial_relation i-spatial_relation
+I want to see Fear Chamber.#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name o
+Show me Southern Theatres movie times#!#SearchScreeningEvent#!#o o b-location_name i-location_name b-object_type i-object_type
+Is The Unnaturals showing at 13.#!#SearchScreeningEvent#!#o b-movie_name i-movie_name o o b-timeRange o
+Is No Time to Be Young showing at AMC Theaters#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name o o b-location_name i-location_name
+Find the movie schedules for Regal Entertainment Group.#!#SearchScreeningEvent#!#o o b-object_type i-object_type o b-location_name i-location_name i-location_name o
+I want to see Shattered Image.#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name o
+Find the schedule at Star Theatres.#!#SearchScreeningEvent#!#o o b-object_type o b-location_name i-location_name o
+Will I Think I Do be playing at 7 PM?#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name i-movie_name o o o b-timeRange i-timeRange o
+Show me the schedule for ArcLight Hollywood for only animated movies#!#SearchScreeningEvent#!#o o o b-object_type o b-location_name i-location_name o o b-movie_type i-movie_type
+Find the schedule for Great Mail Robbery.#!#SearchScreeningEvent#!#o o b-object_type o b-movie_name i-movie_name i-movie_name o
+Give me the movies in the neighborhood #!#SearchScreeningEvent#!#o o o b-movie_type b-spatial_relation i-spatial_relation i-spatial_relation
+What movies are playing close by#!#SearchScreeningEvent#!#o b-movie_type o o b-spatial_relation i-spatial_relation
+Is The Two Gladiators playing#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name o
+What's the movie schedule for Great Escape Theatres#!#SearchScreeningEvent#!#o o b-object_type i-object_type o b-location_name i-location_name i-location_name
+Find the movie schedule close by#!#SearchScreeningEvent#!#o o b-object_type i-object_type b-spatial_relation i-spatial_relation
+I want to see Outcast.#!#SearchScreeningEvent#!#o o o o b-movie_name o
+show me the schedule of movie The Great Gildersleeve near movie house#!#SearchScreeningEvent#!#o o o b-object_type o o b-movie_name i-movie_name i-movie_name o b-object_location_type i-object_location_type
+I need times for A Yiddish World Remembered at Dipson Theatres#!#SearchScreeningEvent#!#o o b-object_type o b-movie_name i-movie_name i-movie_name i-movie_name o b-location_name i-location_name
+Find the movie schedules at Goodrich Quality Theaters.#!#SearchScreeningEvent#!#o o b-object_type i-object_type o b-location_name i-location_name i-location_name o
+show me the movie schedule in the neighbourhood #!#SearchScreeningEvent#!#o o o b-object_type i-object_type b-spatial_relation i-spatial_relation i-spatial_relation
+show me the movie times for films  nearby#!#SearchScreeningEvent#!#o o o b-object_type i-object_type o b-movie_type b-spatial_relation
+show the movie times for animated movies in the neighbourhood#!#SearchScreeningEvent#!#o o b-object_type i-object_type o b-movie_type i-movie_type b-spatial_relation i-spatial_relation i-spatial_relation
+Is The Eye â Infinity playing at General Cinema Corporation#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name i-movie_name o o b-location_name i-location_name i-location_name
+Can you check the timings for Super Sweet 16: The Movie?#!#SearchScreeningEvent#!#o o o o o o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name o
+is We Are Northern Lights playing in any movie theatre#!#SearchScreeningEvent#!#o b-movie_name i-movie_name i-movie_name i-movie_name o o o b-object_location_type i-object_location_type
+What times will The Young Swordsman be showing at my cinema?#!#SearchScreeningEvent#!#o b-object_type o b-movie_name i-movie_name i-movie_name o o o o b-object_location_type o
+Show the Sexy Dance 2times at the  closest movie house#!#SearchScreeningEvent#!#o o b-movie_name i-movie_name i-movie_name b-object_type o o b-spatial_relation b-object_location_type i-object_location_type
+what are some close by animated movies showing#!#SearchScreeningEvent#!#o o o b-spatial_relation i-spatial_relation b-movie_type i-movie_type o
+movie schedules close by for animated movies#!#SearchScreeningEvent#!#b-object_type i-object_type b-spatial_relation i-spatial_relation o b-movie_type i-movie_type
+what films are playing close by#!#SearchScreeningEvent#!#o b-movie_type o o b-spatial_relation i-spatial_relation
+Find the movie schedule in the area.#!#SearchScreeningEvent#!#o o b-object_type i-object_type b-spatial_relation i-spatial_relation i-spatial_relation o
+Is Cowboy Canteen playing#!#SearchScreeningEvent#!#o b-movie_name i-movie_name o
+Is Rare Birds showing at the nearest movie theatre at noon.#!#SearchScreeningEvent#!#o b-movie_name i-movie_name o o o b-spatial_relation b-object_location_type i-object_location_type o b-timeRange o
+What are the movie times#!#SearchScreeningEvent#!#o o o b-object_type i-object_type
+Where can I find the movie schedules#!#SearchScreeningEvent#!#o o o o o b-object_type i-object_type
+Find the movie schedule for North American Cinemas in eleven seconds.#!#SearchScreeningEvent#!#o o b-object_type i-object_type o b-location_name i-location_name i-location_name b-timeRange i-timeRange i-timeRange o
+Find the nearest cinema with movies playing#!#SearchScreeningEvent#!#o o b-spatial_relation b-object_location_type o b-movie_type o
+what are the movie times#!#SearchScreeningEvent#!#o o o b-object_type i-object_type
+what are the times for The Gingerbread Man#!#SearchScreeningEvent#!#o o o b-object_type o b-movie_name i-movie_name i-movie_name
+What films are playing close by#!#SearchScreeningEvent#!#o b-movie_type o o b-spatial_relation i-spatial_relation
+Is any cinema playing The Spirit of Youth#!#SearchScreeningEvent#!#o o b-object_location_type o b-movie_name i-movie_name i-movie_name i-movie_name
+What are the movie times for animated movies in the neighbourhood#!#SearchScreeningEvent#!#o o o b-object_type i-object_type o b-movie_type i-movie_type b-spatial_relation i-spatial_relation i-spatial_relation
+What's the movie schedule at Great Escape Theatres#!#SearchScreeningEvent#!#o o b-object_type i-object_type o b-location_name i-location_name i-location_name
+Show the times for Cheers for Miss Bishop at Dipson Theatres.#!#SearchScreeningEvent#!#o o b-object_type o b-movie_name i-movie_name i-movie_name i-movie_name o b-location_name i-location_name o
+I want to see Married to the Enemy 2 at a cinema.#!#SearchScreeningEvent#!#o o o o b-movie_name i-movie_name i-movie_name i-movie_name i-movie_name o o b-object_location_type o

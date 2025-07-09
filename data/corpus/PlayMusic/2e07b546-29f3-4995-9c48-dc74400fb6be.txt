@@ -1,0 +1,2000 @@
+I need to hear the song  Aspro Mavro from Bill Szymczyk on Youtube#!#PlayMusic#!#o o o o o b-music_item b-track i-track o b-artist i-artist o b-service
+play Yo Ho from the new york pops on Youtube#!#PlayMusic#!#o b-track i-track o b-artist i-artist i-artist i-artist o b-service
+Play some seventies music by Janne Puurtinen on Youtube .#!#PlayMusic#!#o o b-year o o b-artist i-artist o b-service o
+play the MÃºsica Da SÃ©rie De Filmes O Hobbit  album by Alex Otaola#!#PlayMusic#!#o o b-album i-album i-album i-album i-album i-album i-album b-music_item o b-artist i-artist
+Play Magic Sam from the thirties#!#PlayMusic#!#o b-artist i-artist o o b-year
+Play The Soft Parade .#!#PlayMusic#!#o b-track i-track i-track o
+Play music by blowfly from the seventies#!#PlayMusic#!#o o o b-artist o o b-year
+play Jeff Pilson on Youtube#!#PlayMusic#!#o b-artist i-artist o b-service
+play a tune by Syreeta Wright from twenties from the top#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-year o o b-sort
+Please play me Jerry Lee Lewis 's If You Say So  track .#!#PlayMusic#!#o o o b-artist i-artist i-artist o b-track i-track i-track i-track b-music_item o
+play the newest by Exuma#!#PlayMusic#!#o o b-sort o b-artist
+Play the album  alas y raÃ­ces by Dave Pybus .#!#PlayMusic#!#o o b-music_item b-album i-album i-album o b-artist i-artist o
+play music by Helen Ward#!#PlayMusic#!#o o o b-artist i-artist
+Play some sixties music.#!#PlayMusic#!#o o b-year o
+Plan an album by Roni Duani .#!#PlayMusic#!#o o b-music_item o b-artist i-artist o
+I want to listen to Born On The Bayou on Iheart#!#PlayMusic#!#o o o o o b-track i-track i-track i-track o b-service
+Play the best music by Arthur Johnston .#!#PlayMusic#!#o o b-sort o o b-artist i-artist o
+Play the song  gangsta ? by Siavash Ghomayshi#!#PlayMusic#!#o o b-music_item b-track o o b-artist i-artist
+Play Lukasz Gottwald  album on Zvooq#!#PlayMusic#!#o b-artist i-artist b-music_item o b-service
+Play me some music by Prince Alla from the twenties#!#PlayMusic#!#o o o o o b-artist i-artist o o b-year
+Play the newest  2016  ep from Boaz Mauda .#!#PlayMusic#!#o o b-sort b-year b-music_item o b-artist i-artist o
+play Escapada#!#PlayMusic#!#o b-playlist
+I'd like to hear music from 1951 , preferably a soundtrack .#!#PlayMusic#!#o o o o o o b-year o o o b-music_item o
+Play 2003  Ben Burnley on Spotify#!#PlayMusic#!#o b-year b-artist i-artist o b-service
+Play Marche Lorraine by Rachael Lampa#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play some soul music#!#PlayMusic#!#o o b-genre o
+Play Robin Hood Rescuing Three Squires by Bhupinder Singh#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-artist i-artist
+Play the top-5 songs from Paddy Reilly on zvooq#!#PlayMusic#!#o o b-sort o o b-artist i-artist o b-service
+Open Groove Shark and play native us#!#PlayMusic#!#o b-service i-service o o b-genre i-genre
+play chant by Prurient#!#PlayMusic#!#o b-music_item o b-artist
+play Shake Your Head#!#PlayMusic#!#o b-track i-track i-track
+Play Justin Broadrick 's music on Slacker .#!#PlayMusic#!#o b-artist i-artist o o o b-service o
+Play some 1954 songs on my Itunes .#!#PlayMusic#!#o o b-year o o o b-service o
+Play a 2011  ballad by Evil Jared Hasselhoff on Lastfm .#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist i-artist o b-service o
+play laura love songs from 1959#!#PlayMusic#!#o b-artist i-artist o o b-year
+Play Inside The Eye by twinkie clark#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist
+Play Goa music on Google Music .#!#PlayMusic#!#o b-genre o o b-service i-service o
+Play The Way It Has To Be by Tom G Warrior on Zvooq#!#PlayMusic#!#o b-album i-album i-album i-album i-album i-album o b-artist i-artist i-artist o b-service
+Play some nineties  chant music from Nicoleta Nicola#!#PlayMusic#!#o o b-year b-music_item o o b-artist i-artist
+Play Alone, Again from Mike Viola#!#PlayMusic#!#o b-album i-album o b-artist i-artist
+open Spotify and play a couple of celtic songs#!#PlayMusic#!#o b-service o o o o o b-genre o
+Play a concerto by Thekra .#!#PlayMusic#!#o o b-music_item o b-artist o
+play The Trail Of The Lonesome Pine on Netflix#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track o b-service
+Please play the newest music by Evil Jared Hasselhoff#!#PlayMusic#!#o o o b-sort o o b-artist i-artist i-artist
+Play NoctÃ¡mbulo pl#!#PlayMusic#!#o b-playlist o
+Open up Lastfm and play some songs.#!#PlayMusic#!#o o b-service o o o o
+Can you play a top 5  song by Manos Hadjidakis#!#PlayMusic#!#o o o o b-sort i-sort b-music_item o b-artist i-artist
+Play sixties on Spotify#!#PlayMusic#!#o b-year o b-service
+Play music by Antonella Barba from the album  Bath#!#PlayMusic#!#o o o b-artist i-artist o o b-music_item b-album
+Play melody music from the fourties .#!#PlayMusic#!#o b-music_item o o o b-year o
+Play some Katiejane Garside on Vimeo .#!#PlayMusic#!#o o b-artist i-artist o b-service o
+Play me a top-ten  song by Phil Ochs on Groove Shark#!#PlayMusic#!#o o o b-sort b-music_item o b-artist i-artist o b-service i-service
+Play Out From Under from Hurricane Chris#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist
+Play a sound track by Pee Wee Russell on Zvooq .#!#PlayMusic#!#o o b-music_item i-music_item o b-artist i-artist i-artist o b-service o
+Play One Way Ticket by Ray Kennedy .#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o
+Play my entertaining playlist#!#PlayMusic#!#o o b-playlist o
+Will you pull up my Jueves de AntaÃ±o playlist#!#PlayMusic#!#o o o o o b-playlist i-playlist i-playlist o
+Play some eighties  movement music#!#PlayMusic#!#o o b-year b-music_item o
+Use Spotify to play me music#!#PlayMusic#!#o b-service o o o o
+use Deezer to play top five  Moya Brennan#!#PlayMusic#!#o b-service o o b-sort i-sort b-artist i-artist
+I'd like to hear Nas 's greatest  ballad#!#PlayMusic#!#o o o o b-artist o b-sort b-music_item
+Open Netflix and find a movie with the song  heartful#!#PlayMusic#!#o b-service o o o o o o b-music_item b-playlist
+PLay some fourties music from Erin Harkes#!#PlayMusic#!#o o b-year o o b-artist i-artist
+Play dhafer youssef  top-twenty on netflix#!#PlayMusic#!#o b-artist i-artist b-sort o b-service
+I'd like to play the top ten  Mickdeth on Google Music#!#PlayMusic#!#o o o o o b-sort i-sort b-artist o b-service i-service
+play music by Don Reno#!#PlayMusic#!#o o o b-artist i-artist
+Play some Last Fm music like the 1992  ep from Peaches#!#PlayMusic#!#o o b-service i-service o o o b-year b-music_item o b-artist
+Play some indie music on spotify .#!#PlayMusic#!#o o b-genre o o b-service o
+Play a cohesive playlist for me#!#PlayMusic#!#o o b-playlist o o o
+Play 1966  theme music on Slacker .#!#PlayMusic#!#o b-year b-music_item o o b-service o
+Play some jpop on Google Music .#!#PlayMusic#!#o o b-genre o b-service i-service o
+Play music from 2002#!#PlayMusic#!#o o o b-year
+play Lastfm  pop tunes#!#PlayMusic#!#o b-service b-genre o
+play a concerto that was most popular in 1958 by mickey hart#!#PlayMusic#!#o o b-music_item o o b-sort i-sort o b-year o b-artist i-artist
+Let me listen to Rouhollah Khaleghi on deezer .#!#PlayMusic#!#o o o o b-artist i-artist o b-service o
+Please play music from Itunes#!#PlayMusic#!#o o o o b-service
+Play me the most popular  Peja  song on Slacker#!#PlayMusic#!#o o o b-sort i-sort b-artist b-music_item o b-service
+Play my 70s Smash Hits playlist.#!#PlayMusic#!#o o b-playlist i-playlist i-playlist o
+Play me a song from the fourties#!#PlayMusic#!#o o o b-music_item o o b-year
+Play celtic music#!#PlayMusic#!#o b-genre o
+play Moustapha Amar  Make It Rain#!#PlayMusic#!#o b-artist i-artist b-track i-track i-track
+I want to hear a top ten  soundtrack from 1984 by Shinehead#!#PlayMusic#!#o o o o o b-sort i-sort b-music_item o b-year o b-artist
+Play the 1951  ballad#!#PlayMusic#!#o o b-year b-music_item
+I want to hear Dave Seaman 's ep#!#PlayMusic#!#o o o o b-artist i-artist o b-music_item
+Play music from artist Ashley#!#PlayMusic#!#o o o o b-artist
+play Miguelito  top charting album#!#PlayMusic#!#o b-artist b-sort o b-music_item
+I want to hear Papa Mali 's songs from the fifties#!#PlayMusic#!#o o o o b-artist i-artist o o o o b-year
+play some tango on iheart#!#PlayMusic#!#o o b-genre o b-service
+Play jazz music by Zvooq#!#PlayMusic#!#o b-genre o o b-service
+play songs by Wise#!#PlayMusic#!#o o o b-artist
+Play music from the eighties on Slacker .#!#PlayMusic#!#o o o o b-year o b-service o
+I want to hear Ready by Frankenstein Drag Queens From Planet 13#!#PlayMusic#!#o o o o b-album o b-artist i-artist i-artist i-artist i-artist i-artist
+Play a song from the seventies by Pepe Aguilar#!#PlayMusic#!#o o b-music_item o o b-year o b-artist i-artist
+Play something by Brian Chase .#!#PlayMusic#!#o o o b-artist i-artist o
+open Fadl Shaker on Spotify and play a melody starting with the newest#!#PlayMusic#!#o b-artist i-artist o b-service o o o b-music_item o o o b-sort
+Play a Scott Lafaro  soundtrack#!#PlayMusic#!#o o b-artist i-artist b-music_item
+play songs from the sixties#!#PlayMusic#!#o o o o b-year
+Play a tune from Space Mandino .#!#PlayMusic#!#o o b-music_item o b-artist i-artist o
+Open Vimeo and paly every  song released in 1986#!#PlayMusic#!#o b-service o o b-track b-music_item o o b-year
+Find me music by Kaori Utatsuki off the album that has top-twenty hits#!#PlayMusic#!#o o o o b-artist i-artist o o b-music_item o o b-sort o
+Play my playlist TGIF on itunes#!#PlayMusic#!#o o o b-playlist o b-service
+Play some thrash metal .#!#PlayMusic#!#o o b-genre i-genre o
+play a top-10  ballad from 1995#!#PlayMusic#!#o o b-sort b-music_item o b-year
+Play ballad from Mandy Moore#!#PlayMusic#!#o b-music_item o b-artist i-artist
+Play movement music from Sheryfa Luna#!#PlayMusic#!#o b-music_item o o b-artist i-artist
+Play the artist Joe#!#PlayMusic#!#o o o b-artist
+play some Prabha Atre#!#PlayMusic#!#o o b-artist i-artist
+Play ballad music by Jeff Lynne .#!#PlayMusic#!#o b-music_item o o b-artist i-artist o
+Play me a 1957  ep#!#PlayMusic#!#o o o b-year b-music_item
+Play Pease Porridge Hot by Johnny Vicious on Zvooq#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+play a 1994  tune by Lena Horne#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+Play a tune by Houston on Spotify#!#PlayMusic#!#o o b-music_item o b-artist o b-service
+Play a top fifty  track from the twenties#!#PlayMusic#!#o o b-sort i-sort b-music_item o o b-year
+Play Sense Tu from Ebi Hamedi#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+play a good  John Maher  record with Netflix#!#PlayMusic#!#o o b-sort b-artist i-artist b-music_item o b-service
+use netflix to play Bizzy Bone  Kiss Me Goodnight, Sergeant Major#!#PlayMusic#!#o b-service o o b-artist i-artist b-track i-track i-track i-track i-track
+Play music from 1969 on lastfm .#!#PlayMusic#!#o o o b-year o b-service o
+play something from 1981#!#PlayMusic#!#o o o b-year
+play Heavy Machinery by Phil Spector on Zvooq#!#PlayMusic#!#o b-album i-album o b-artist i-artist o b-service
+Play i believe from Chico Buarque off of iheart#!#PlayMusic#!#o b-track i-track o b-artist i-artist o o b-service
+Play some symphonic rock .#!#PlayMusic#!#o o b-genre i-genre o
+Play some twenties  chant music on Slacker#!#PlayMusic#!#o o b-year b-music_item o o b-service
+Play some songs from the fifties#!#PlayMusic#!#o o o o o b-year
+Play a song by Electric Tones from their Kurutta TaiyÅ  album on Last Fm#!#PlayMusic#!#o o b-music_item o b-artist i-artist o o b-album i-album b-music_item o b-service i-service
+play some Bertine Zetlitz  record#!#PlayMusic#!#o o b-artist i-artist b-music_item
+Play my Hardstyle, Baby playlist on Netflix#!#PlayMusic#!#o o b-playlist i-playlist o o b-service
+Play the top  symphony music from Ejigayehu Shibabaw#!#PlayMusic#!#o o b-sort b-music_item o o b-artist i-artist
+Open Itunes and play Heath music from 1981#!#PlayMusic#!#o b-service o o b-artist o o b-year
+I want to listen to a concerto from Timour Moutsouraev .#!#PlayMusic#!#o o o o o o b-music_item o b-artist i-artist o
+Play me the dinner playlist#!#PlayMusic#!#o o o b-playlist o
+play music by Shinji Miyazaki#!#PlayMusic#!#o o o b-artist i-artist
+Play any music on Spotify#!#PlayMusic#!#o o o o b-service
+Play a record from the seventies#!#PlayMusic#!#o o b-music_item o o b-year
+open the Canciones del Recuerdo playlist and play songs#!#PlayMusic#!#o o b-playlist i-playlist i-playlist o o o o
+Play the top-10  chant by Caetano Veloso on Pandora#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+Play Water Under The Bridge by Hariprasad Chaurasia .#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist o
+play Matt Uelmen songs from 1965 on Slacker#!#PlayMusic#!#o b-artist i-artist o o b-year o b-service
+I want to hear Shooby Taylor 's Tearing Up The Album Charts .#!#PlayMusic#!#o o o o b-artist i-artist o b-album i-album i-album i-album i-album o
+Play Niko from the fourties#!#PlayMusic#!#o b-artist o o b-year
+Play ClÃ¡sicos del Hip Hop EspaÃ±ol#!#PlayMusic#!#o b-playlist i-playlist i-playlist i-playlist i-playlist
+Play Circus Farm by Deana Carter .#!#PlayMusic#!#o b-track i-track o b-artist i-artist o
+play some nineties music#!#PlayMusic#!#o o b-year o
+play music by Bryan Maclean#!#PlayMusic#!#o o o b-artist i-artist
+Play POP GOES THE 80s .#!#PlayMusic#!#o b-playlist i-playlist i-playlist i-playlist o
+Play music from 2015#!#PlayMusic#!#o o o b-year
+Play music from 1964#!#PlayMusic#!#o o o b-year
+Play me songs from agreable#!#PlayMusic#!#o o o o b-playlist
+Play tune from Sonny Stitt#!#PlayMusic#!#o b-music_item o b-artist i-artist
+Play some 50 Shades of Love#!#PlayMusic#!#o o b-playlist i-playlist i-playlist i-playlist
+Play some sixties music on Slacker .#!#PlayMusic#!#o o b-year o o b-service o
+Play Tomorrow#!#PlayMusic#!#o b-track
+Can you play a sound track by Sissieretta Jones#!#PlayMusic#!#o o o o b-music_item i-music_item o b-artist i-artist
+Play me a nineties  song by Joseph Genaro#!#PlayMusic#!#o o o b-year b-music_item o b-artist i-artist
+I want to hear Sarban 's greatest hits#!#PlayMusic#!#o o o o b-artist o b-sort o
+play ray davies on Iheart by only Hit It Again#!#PlayMusic#!#o b-artist i-artist o b-service o o b-track i-track i-track
+Play my 88 Keys playlist.#!#PlayMusic#!#o o b-playlist i-playlist o
+Play some Rockwell from around 1996#!#PlayMusic#!#o o b-artist o o b-year
+Play me a top 20  chant by Ruwanga Samath on Lastfm#!#PlayMusic#!#o o o b-sort i-sort b-music_item o b-artist i-artist o b-service
+play something from the twenties#!#PlayMusic#!#o o o o b-year
+Play Ciribiribin by Sandeep Khare#!#PlayMusic#!#o b-track o b-artist i-artist
+play some 1991  Dave Barker#!#PlayMusic#!#o o b-year b-artist i-artist
+Play Wynton Kelly music on Netflix sort by popular#!#PlayMusic#!#o b-artist i-artist o o b-service o o b-sort
+Play bebob on Iheart#!#PlayMusic#!#o b-genre o b-service
+Play the top 5 by Akira The Don .#!#PlayMusic#!#o o b-sort i-sort o b-artist i-artist i-artist o
+play some rap on Pandora#!#PlayMusic#!#o o b-genre o b-service
+Play a melody from Elmer Bernstein#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+play The Necromancer#!#PlayMusic#!#o b-track i-track
+Can you play Under The Anheuser Bush by Pete Doherty#!#PlayMusic#!#o o o b-track i-track i-track i-track o b-artist i-artist
+Play any song from 2001#!#PlayMusic#!#o o b-music_item o b-year
+I want to hear some music from Groove Shark#!#PlayMusic#!#o o o o o o o b-service i-service
+Play Sound Of Love from Papa Mali#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist
+I wanna hear something on Spotify by Eddie Vinson#!#PlayMusic#!#o o o o o b-service o b-artist i-artist
+Play a twenties  track by the aj carothers on Zvooq .#!#PlayMusic#!#o o b-year b-music_item o o b-artist i-artist o b-service o
+Play Magic Time by Phoebus#!#PlayMusic#!#o b-album i-album o b-artist
+Play Johnny Gimble#!#PlayMusic#!#o b-artist i-artist
+play music from 1981#!#PlayMusic#!#o o o b-year
+play music on Netflix#!#PlayMusic#!#o o o b-service
+Play a tune by Andrew Findon#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play the playlist, A Mis NiÃ±os de 30 .#!#PlayMusic#!#o o o b-playlist i-playlist i-playlist i-playlist i-playlist o
+Play some chanson music#!#PlayMusic#!#o o b-genre o
+Play a movement from 1974 .#!#PlayMusic#!#o o b-music_item o b-year o
+Can you play Maggie Mae on Netflix#!#PlayMusic#!#o o o b-track i-track o b-service
+Play music by Young Steff#!#PlayMusic#!#o o o b-artist i-artist
+Play Barbra Streisand music from 1997 .#!#PlayMusic#!#o b-artist i-artist o o b-year o
+Play greatest  chant music from Beni Arashiro#!#PlayMusic#!#o b-sort b-music_item o o b-artist i-artist
+play Make The Cowboy Robots Cry by Sabin Rai on Vimeo#!#PlayMusic#!#o b-album i-album i-album i-album i-album o b-artist i-artist o b-service
+Can you play me songs from the Estado de Ã¡nimo playlist?#!#PlayMusic#!#o o o o o o o b-playlist i-playlist i-playlist o
+Play music by Janet Paschal#!#PlayMusic#!#o o o b-artist i-artist
+Play Praise The Lord And Pass The Ammunition .#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track i-track o
+Please play Short And Sweet by Teyana Taylor from my itunes .#!#PlayMusic#!#o o b-album i-album i-album o b-artist i-artist o o b-service o
+Play fourties music on Pandora .#!#PlayMusic#!#o b-year o o b-service o
+Play music by Damien Rice#!#PlayMusic#!#o o o b-artist i-artist
+Play some Rachel Stevens off of Itunes#!#PlayMusic#!#o o b-artist i-artist o o b-service
+Play music from the seventies for me.#!#PlayMusic#!#o o o o b-year o o
+Play some Tony Grant .#!#PlayMusic#!#o o b-artist i-artist o
+play Andy White#!#PlayMusic#!#o b-artist i-artist
+Use Google Music to play a song#!#PlayMusic#!#o b-service i-service o o o b-music_item
+Play Spotify#!#PlayMusic#!#o b-service
+Play music from 2007 .#!#PlayMusic#!#o o o b-year o
+Play me a song from the sixties#!#PlayMusic#!#o o o b-music_item o o b-year
+play Robin Trower  Unravel#!#PlayMusic#!#o b-artist i-artist b-track
+play the top twenty  movement songs from Roberto Valverde#!#PlayMusic#!#o o b-sort i-sort b-music_item o o b-artist i-artist
+Play hanging in the balance by Nik Kershaw on Zvooq .#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist o b-service o
+Play the album  Vibrations by Marion Elise Raven#!#PlayMusic#!#o o b-music_item b-album o b-artist i-artist i-artist
+play a track by Mila Islam from Deezer#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-service
+play Jawad Ahmad#!#PlayMusic#!#o b-artist i-artist
+play fourties tunes by Bryan Webb on Groove Shark#!#PlayMusic#!#o b-year o o b-artist i-artist o b-service i-service
+play Party Ben on Slacker#!#PlayMusic#!#o b-artist i-artist o b-service
+Use Groove Shark to play music from the nineties#!#PlayMusic#!#o b-service i-service o o o o o b-year
+Play eighties music#!#PlayMusic#!#o b-year o
+play my Madrugando playlist on Groove Shark#!#PlayMusic#!#o o b-playlist o o b-service i-service
+play Darude#!#PlayMusic#!#o b-artist
+Play Shinji Miyazaki 's music on netflix#!#PlayMusic#!#o b-artist i-artist o o o b-service
+Play 2gether by Jade Puget#!#PlayMusic#!#o b-album o b-artist i-artist
+play Wow by Jon Theodore#!#PlayMusic#!#o b-track o b-artist i-artist
+play Doctor Fink  if i could choose#!#PlayMusic#!#o b-artist i-artist b-track i-track i-track i-track
+Please open pandora for me#!#PlayMusic#!#o o b-service o o
+Can I hear a tune from Vladimir Vysotski ?#!#PlayMusic#!#o o o o b-music_item o b-artist i-artist o
+Please play Different Slanguages by Fred Labour .#!#PlayMusic#!#o o b-album i-album o b-artist i-artist o
+play music from the sixties#!#PlayMusic#!#o o o o b-year
+I want to hear Somi 's songs from the twenties#!#PlayMusic#!#o o o o b-artist o o o o b-year
+play Tom Jones  album from the twenties#!#PlayMusic#!#o b-artist i-artist b-music_item o o b-year
+play songs on Itunes#!#PlayMusic#!#o o o b-service
+play a chant by Sonsee#!#PlayMusic#!#o o b-music_item o b-artist
+Play my Piano Ballads playlist.#!#PlayMusic#!#o o b-playlist i-playlist o
+play the album  a kiss before you go by Bt#!#PlayMusic#!#o o b-music_item b-album i-album i-album i-album i-album o b-artist
+Play the Instrumental Study on Vimeo .#!#PlayMusic#!#o o b-playlist i-playlist o b-service o
+Play some salsa music.#!#PlayMusic#!#o o b-genre o
+Play top  Rosanne Cash#!#PlayMusic#!#o b-sort b-artist i-artist
+play Slacker tunes#!#PlayMusic#!#o b-service o
+Play the most popular  soundtrack by Elena Paparizou on youtube#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist o b-service
+Play Midnight Special#!#PlayMusic#!#o b-track i-track
+play pop music with Groove Shark#!#PlayMusic#!#o b-genre o o b-service i-service
+play Takes Place In Your Work Space by Eddie Kendricks#!#PlayMusic#!#o b-album i-album i-album i-album i-album i-album o b-artist i-artist
+Play eighties music by Kaira Kwong on Google Music#!#PlayMusic#!#o b-year o o b-artist i-artist o b-service i-service
+play 1970 trunes#!#PlayMusic#!#o b-year o
+Play breathtaking music#!#PlayMusic#!#o b-playlist o
+Play a track from 1985 .#!#PlayMusic#!#o o b-music_item o b-year o
+Play shining down by Tsukiko Amano on pandora .#!#PlayMusic#!#o b-track i-track o b-artist i-artist o b-service o
+play Who Do You Think You Are by Magnifico with spotify#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track o b-artist o b-service
+Play tribal#!#PlayMusic#!#o b-genre
+Play Rain by Subliminal on Groove Shark#!#PlayMusic#!#o b-track o b-artist o b-service i-service
+Play ballad music from 1958#!#PlayMusic#!#o b-music_item o o b-year
+Repeat the track of music#!#PlayMusic#!#b-track o b-music_item o o
+Play the playlist introspective#!#PlayMusic#!#o o o b-playlist
+Please play a song from the thirties by Peter Murphy on Last Fm#!#PlayMusic#!#o o o b-music_item o o b-year o b-artist i-artist o b-service i-service
+Play Party Through The Decades on Deezer#!#PlayMusic#!#o b-playlist i-playlist i-playlist i-playlist o b-service
+Play Martha My Dear by shannon .#!#PlayMusic#!#o b-track i-track i-track o b-artist o
+play the greatest  Adrian Kowanek music#!#PlayMusic#!#o o b-sort b-artist i-artist o
+Can I hear a symphony from the seventies on Youtube ?#!#PlayMusic#!#o o o o b-music_item o o b-year o b-service o
+I'd like to listen to Space music#!#PlayMusic#!#o o o o o b-genre o
+play the last  Niney The Observer  song#!#PlayMusic#!#o o b-sort b-artist i-artist i-artist b-music_item
+Play a chant by Mj Cole#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play industrial music.#!#PlayMusic#!#o b-genre o
+Play always by walter parazaider .#!#PlayMusic#!#o b-track o b-artist i-artist o
+Play thirties on Lastfm#!#PlayMusic#!#o b-year o b-service
+play music form the fourties with Slacker#!#PlayMusic#!#o o o o b-year o b-service
+Use pandora to play music from stano in the year 2005#!#PlayMusic#!#o b-service o o o o b-artist o o o b-year
+Use Groove Shark to play Krizz Kaliko#!#PlayMusic#!#o b-service i-service o o b-artist i-artist
+Play the music of Filipp Bedrossowitsch Kirkorow 's theme#!#PlayMusic#!#o o o o b-artist i-artist i-artist o b-music_item
+Play Skin & Bone by Jess Stacy on Deezer#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist o b-service
+Play me a seventies  ep#!#PlayMusic#!#o o o b-year b-music_item
+play falco on Zvooq for Good Hit#!#PlayMusic#!#o b-artist o b-service o b-track i-track
+On Itunes play the latest  Anna Yesipova  ep#!#PlayMusic#!#o b-service o o b-sort b-artist i-artist b-music_item
+Play music from the track  She Came In Through The Bathroom Window#!#PlayMusic#!#o o o o b-music_item b-track i-track i-track i-track i-track i-track i-track
+play some best selling rave songs#!#PlayMusic#!#o o b-sort o b-genre o
+Play Change Has Come on Google Music .#!#PlayMusic#!#o b-album i-album i-album o b-service i-service o
+Play the newest stuff by blowfly#!#PlayMusic#!#o o b-sort o o b-artist
+Play the playlist spring#!#PlayMusic#!#o o o b-playlist
+I want to hear something from the nineties by Alissa Musto on Groove Shark#!#PlayMusic#!#o o o o o o o b-year o b-artist i-artist o b-service i-service
+Play Trace Adkins ' music from the thirties .#!#PlayMusic#!#o b-artist i-artist o o o o b-year o
+Play a soundtrack from 1954 .#!#PlayMusic#!#o o b-music_item o b-year o
+Can you play something from the fourties , preferably a symphony ?#!#PlayMusic#!#o o o o o o b-year o o o b-music_item o
+play Clifford Brown All Stars by Michael Balzary#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist
+play Pandora  Christian Gangsta Rap#!#PlayMusic#!#o b-service b-genre i-genre i-genre
+Play any chanson#!#PlayMusic#!#o o b-genre
+Play a chant from the fifties#!#PlayMusic#!#o o b-music_item o o b-year
+Play Leanne Dobinson  Right To Dream#!#PlayMusic#!#o b-artist i-artist b-track i-track i-track
+play The Happiest Days Of Our Lives by Tommy Emmanuel#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track o b-artist i-artist
+Please play This Is The Day by Brian Robertson .#!#PlayMusic#!#o o b-album i-album i-album i-album o b-artist i-artist o
+play Abhijeet Bhattacharya from 1986#!#PlayMusic#!#o b-artist i-artist o b-year
+Play a new  tune by louis silvers .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o
+Play me a song by Steve Hackett from Manuel#!#PlayMusic#!#o o o b-music_item o b-artist i-artist o b-album
+Play Portsmouth by Paul Smith on Google Music .#!#PlayMusic#!#o b-track o b-artist i-artist o b-service i-service o
+Play Dj Drama from the 1976#!#PlayMusic#!#o b-artist i-artist o o b-year
+play my tribute by Billy Cox#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play the playlist, Hardstyle, Baby .#!#PlayMusic#!#o o o b-playlist i-playlist o
+Play me a sound track by Bert Mccracken on zvooq#!#PlayMusic#!#o o o b-music_item i-music_item o b-artist i-artist o b-service
+Play some music from the fourties .#!#PlayMusic#!#o o o o o b-year o
+Play music on Itunes .#!#PlayMusic#!#o o o b-service o
+I want to hear a Sandra  ep#!#PlayMusic#!#o o o o o b-artist b-music_item
+play theme by Yanni on Vimeo#!#PlayMusic#!#o b-music_item o b-artist o b-service
+play fourties tunes#!#PlayMusic#!#o b-year o
+Play a 2004  song by eliel on Zvooq .#!#PlayMusic#!#o o b-year b-music_item o b-artist o b-service o
+Play some music on Vimeo#!#PlayMusic#!#o o o o b-service
+Play the newest music by Gladys Knight#!#PlayMusic#!#o o b-sort o o b-artist i-artist
+play Hora Din Moldova by Yamazaki Maso#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist
+play the album  Winner Takes All by Takuro with Last Fm#!#PlayMusic#!#o o b-music_item b-album i-album i-album o b-artist o b-service i-service
+Play the best  ballad by The Rascals .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o
+Play me the track  Mama Liked The Roses#!#PlayMusic#!#o o o b-music_item b-track i-track i-track i-track
+Play eighties#!#PlayMusic#!#o b-year
+Play a 2014  theme from Greg Pattillo#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+Play some music from Roberto Carlos#!#PlayMusic#!#o o o o b-artist i-artist
+Play the concert from Philip Oakey  1973 concert on Netflix#!#PlayMusic#!#o o o o b-artist i-artist b-year o o b-service
+Play some music from 1995#!#PlayMusic#!#o o o o b-year
+Play Kaori Mochida 's most popular music on Google Music .#!#PlayMusic#!#o b-artist i-artist o b-sort i-sort o o b-service i-service o
+Play A Chaos Of Desire from Dan Snaith#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist
+Play music by Country Dick Montana .#!#PlayMusic#!#o o o b-artist i-artist i-artist o
+play chant from the nineties with Last Fm#!#PlayMusic#!#o b-music_item o o b-year o b-service i-service
+Play a top 5  song from Wally Bastian on Google Music#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist o b-service i-service
+Play White Noise .#!#PlayMusic#!#o b-playlist i-playlist o
+Play ep from Quasimoto from the nineties#!#PlayMusic#!#o b-music_item o b-artist o o b-year
+play a 1988  soundtrack#!#PlayMusic#!#o o b-year b-music_item
+Play a popular  sound track by Joe Pass on Itunes .#!#PlayMusic#!#o o b-sort b-music_item i-music_item o b-artist i-artist o b-service o
+Play something from the jonathon lee  movement#!#PlayMusic#!#o o o o b-artist i-artist b-music_item
+play James Moody  ballad#!#PlayMusic#!#o b-artist i-artist b-music_item
+I want to listen to some music from 2003 on Pandora from them#!#PlayMusic#!#o o o o o o o o b-year o b-service o b-music_item
+play a top 50  tune from the twenties by Willi Williams#!#PlayMusic#!#o o b-sort i-sort b-music_item o o b-year o b-artist i-artist
+play fifties  track music#!#PlayMusic#!#o b-year b-music_item o
+Play theme music from 2011 .#!#PlayMusic#!#o b-music_item o o b-year o
+play music by Billy Powell#!#PlayMusic#!#o o o b-artist i-artist
+Play One Good Reason by Tommy Flanagan on Itunes#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+Play some fun-punk#!#PlayMusic#!#o o b-genre
+Play me a song by Dj Paul Elstak in 1988 on Zvooq#!#PlayMusic#!#o o o b-music_item o b-artist i-artist i-artist o b-year o b-service
+Play Hasan Saltik from 2004#!#PlayMusic#!#o b-artist i-artist o b-year
+I want to hear popular music from Martin Lopez#!#PlayMusic#!#o o o o b-sort o o b-artist i-artist
+Play A Sudden Rainstorm playlist.#!#PlayMusic#!#o b-playlist i-playlist i-playlist o
+play wendy james from the fifties#!#PlayMusic#!#o b-artist i-artist o o b-year
+Use Itunes to play music#!#PlayMusic#!#o b-service o o o
+Play a Paul Davis  melody#!#PlayMusic#!#o o b-artist i-artist b-music_item
+Play Lorenzo Palacios Quispe#!#PlayMusic#!#o b-artist i-artist i-artist
+Put on Vimeo and play Kacapi Suling#!#PlayMusic#!#o o b-service o o b-genre i-genre
+play a soundtrack by Sarah Geronimo on google music#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-service i-service
+Play me a song from 1976 by Bennie Moten#!#PlayMusic#!#o o o b-music_item o b-year o b-artist i-artist
+I want to hear eighties music by Noko on deezer .#!#PlayMusic#!#o o o o b-year o o b-artist o b-service o
+Play some Glenn Miller .#!#PlayMusic#!#o o b-artist i-artist o
+Can I hear a song by David Hodges ?#!#PlayMusic#!#o o o o b-music_item o b-artist i-artist o
+Play The New Retro playlist on Netflix .#!#PlayMusic#!#o b-playlist i-playlist i-playlist o o b-service o
+Play some P. J. Proby#!#PlayMusic#!#o o b-artist i-artist i-artist
+Play soundtrack by Armand Van Helden#!#PlayMusic#!#o b-music_item o b-artist i-artist i-artist
+Play The Lamentation Of Cloris#!#PlayMusic#!#o b-track i-track i-track i-track
+I want to hear the new Latin Pop Rising list#!#PlayMusic#!#o o o o o o b-playlist i-playlist i-playlist o
+Please play some music from the seventies  movement#!#PlayMusic#!#o o o o o o b-year b-music_item
+play Signe Anderson  chant music that is newest#!#PlayMusic#!#o b-artist i-artist b-music_item o o o b-sort
+play Richard Thompson from the thirties  song book#!#PlayMusic#!#o b-artist i-artist o o b-year b-music_item o
+Play funtime activity#!#PlayMusic#!#o b-playlist i-playlist
+Play me a song from Luxury Liner#!#PlayMusic#!#o o o b-music_item o b-album i-album
+I want to hear De Eerste Keer from Paul Caiafa off of Google Music#!#PlayMusic#!#o o o o b-track i-track i-track o b-artist i-artist o o b-service i-service
+Play a sixties  song .#!#PlayMusic#!#o o b-year b-music_item o
+I want to hear some twenties music off of Deezer#!#PlayMusic#!#o o o o o b-year o o o b-service
+Play some movement from 1959 on deezer .#!#PlayMusic#!#o o b-music_item o b-year o b-service o
+play songs by Queen#!#PlayMusic#!#o o o b-playlist
+Please play good music by Will Oldham .#!#PlayMusic#!#o o b-sort o o b-artist i-artist o
+Play a song from the thirties on Zvooq#!#PlayMusic#!#o o b-music_item o o b-year o b-service
+play Vanlose Stairway by Janove Ottesen#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play me the last  1980  record by Brenda Kahn#!#PlayMusic#!#o o o b-sort b-year b-music_item o b-artist i-artist
+Play music from the top-5 from artist Kenia Arias#!#PlayMusic#!#o o o o b-sort o o b-artist i-artist
+Lets hear some 2009 music#!#PlayMusic#!#o o o b-year o
+Play some bass music.#!#PlayMusic#!#o o b-genre o
+Play Furusato on Google Music .#!#PlayMusic#!#o b-track o b-service i-service o
+Play Party Anthems#!#PlayMusic#!#o b-playlist i-playlist
+use Iheart radio to play eighties music from Hugh Masekela .#!#PlayMusic#!#o b-service o o o b-year o o b-artist i-artist o
+Play a symphony from Bob Hardy please#!#PlayMusic#!#o o b-music_item o b-artist i-artist o
+Play some eighties music.#!#PlayMusic#!#o o b-year o
+Play a 1964  track from Shahram Nazeri on Pandora .#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service o
+Sort to the last  song on playlist from 1983 a chant by Mark Oliver Everett#!#PlayMusic#!#o o o b-sort b-music_item o o o b-year o b-music_item o b-artist i-artist i-artist
+Play a new  symphony by Perfecto De Castro on Lastfm#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist i-artist o b-service
+Play some music from the thirties .#!#PlayMusic#!#o o o o o b-year o
+Play some Matthew Sweet music from around 1996 on Spotify#!#PlayMusic#!#o o b-artist i-artist o o o b-year o b-service
+open lastfm play top hits of Simon Webbe#!#PlayMusic#!#o b-service o b-sort o o b-artist i-artist
+play 1981 music on Last Fm#!#PlayMusic#!#o b-year o o b-service i-service
+Play a track from 1959 .#!#PlayMusic#!#o o b-music_item o b-year o
+Play chant music by Big Dee Irwin .#!#PlayMusic#!#o b-music_item o o b-artist i-artist i-artist o
+Play me Gil Parris 's A Cup Of Coffee, A Sandwich And You#!#PlayMusic#!#o o b-artist i-artist o b-track i-track i-track i-track i-track i-track i-track i-track
+Play Pura Vida .#!#PlayMusic#!#o b-playlist i-playlist o
+Play a top fifty  ballad by Linda Strawberry on Google Music#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist o b-service i-service
+use Spotify to play greatest songs from Kailash Kher#!#PlayMusic#!#o b-service o o b-sort o o b-artist i-artist
+Play the newest  melody by Cisco Adler on pandora#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+Use service Vimeo to play music from the artist Mick  track  Now We Are 5#!#PlayMusic#!#o o b-service o o o o o o b-artist b-music_item b-album i-album i-album i-album
+Open Youtube and play Renaldo Lapuz  record from the eighties#!#PlayMusic#!#o b-service o o b-artist i-artist b-music_item o o b-year
+play some good  amber gristak on Lastfm#!#PlayMusic#!#o o b-sort b-artist i-artist o b-service
+play some synthpop#!#PlayMusic#!#o o b-genre
+Play music from my relentless playlist#!#PlayMusic#!#o o o o b-playlist o
+Plpay my Disco Fever playlist.#!#PlayMusic#!#o o b-playlist i-playlist o
+play valerij kipelov on Vimeo#!#PlayMusic#!#o b-artist i-artist o b-service
+Can you play The Change Is Made on Netflix#!#PlayMusic#!#o o o b-track i-track i-track i-track o b-service
+Play some Robbie Merrill .#!#PlayMusic#!#o o b-artist i-artist o
+Play me a song from the twenties by Randy Bachman#!#PlayMusic#!#o o o b-music_item o o b-year o b-artist i-artist
+I need to hear some r&b music off of iheart#!#PlayMusic#!#o o o o o b-genre o o o b-service
+Play some dance music.#!#PlayMusic#!#o o b-playlist o
+Play new music from Liang Wern Fook#!#PlayMusic#!#o b-sort o o b-artist i-artist i-artist
+listen to Pmd  symphony#!#PlayMusic#!#o o b-artist b-music_item
+play By The Sleepy Lagoon by Greg Kurstin#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+I want to listen to some Saori Atsumi from the twenties on Deezer#!#PlayMusic#!#o o o o o o b-artist i-artist o o b-year o b-service
+Play some gangsta music#!#PlayMusic#!#o o b-genre o
+Play The Eternal by Juju Mob on Vimeo .#!#PlayMusic#!#o b-album i-album o b-artist i-artist o b-service o
+Play me a Mario Vazquez  movement#!#PlayMusic#!#o o o b-artist i-artist b-music_item
+Play music on Lastfm#!#PlayMusic#!#o o o b-service
+Play Eve#!#PlayMusic#!#o b-artist
+Play music from 2011 .#!#PlayMusic#!#o o o b-year o
+Play some Psychedelic Rock .#!#PlayMusic#!#o o b-genre i-genre o
+play Top 100 Indie Tracks on Spotify on Lastfm#!#PlayMusic#!#o b-playlist i-playlist i-playlist i-playlist i-playlist i-playlist o b-service
+play an eighties  track #!#PlayMusic#!#o o b-year b-music_item
+Can you play me some eighties music by Adele#!#PlayMusic#!#o o o o o b-year o o b-artist
+Play Oliver Cheatham 's symphony from the thirties .#!#PlayMusic#!#o b-artist i-artist o b-music_item o o b-year o
+Play chant music by Ira Losco on Iheart .#!#PlayMusic#!#o b-music_item o o b-artist i-artist o b-service o
+Play me the most popular  Lillian Hardin  song on Itunes#!#PlayMusic#!#o o o b-sort i-sort b-artist i-artist b-music_item o b-service
+Play the red room sessions from chris cunningham#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist
+Can i use Lastfm to listen to Twilight Time by Dj Khalil ?#!#PlayMusic#!#o o o b-service o o o b-track i-track o b-artist i-artist o
+I want to listen to Roger Daltrey from the sixties on slacker#!#PlayMusic#!#o o o o o b-artist i-artist o o b-year o b-service
+Play music from Tommy Ridgley .#!#PlayMusic#!#o o o b-artist i-artist o
+play All Of Your Toys by Chris Ledoux#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+Play music by Fidel Nadal sorted by newest .#!#PlayMusic#!#o o o b-artist i-artist o o b-sort o
+Play Shaina Magdayao 's music on Iheart#!#PlayMusic#!#o b-artist i-artist o o o b-service
+I need to hear a thirties  soundtrack#!#PlayMusic#!#o o o o o b-year b-music_item
+Play Dave Wyndorf  album#!#PlayMusic#!#o b-artist i-artist b-music_item
+Play me a song by Linn Berggren from Spotify#!#PlayMusic#!#o o o b-music_item o b-artist i-artist o b-service
+Play me something by Funtwo#!#PlayMusic#!#o o o o b-artist
+Play some The Lady Is A Tramp from Timour Moutsouraev#!#PlayMusic#!#o o b-track i-track i-track i-track i-track o b-artist i-artist
+play pandora  tracks by Akhtar Sadmani#!#PlayMusic#!#o b-service b-music_item o b-artist i-artist
+Please play some music from 1996#!#PlayMusic#!#o o o o o b-year
+Use the service Lastfm to play music by the artist ai kago#!#PlayMusic#!#o o o b-service o o o o o o b-artist i-artist
+Can you play a song by Ken#!#PlayMusic#!#o o o o b-music_item o b-artist
+Play music using Last Fm#!#PlayMusic#!#o o o b-service i-service
+play some Kyle Ward from the seventies#!#PlayMusic#!#o o b-artist i-artist o o b-year
+Play Bald by Kaskade .#!#PlayMusic#!#o b-track o b-artist o
+Play me some music on Deezer#!#PlayMusic#!#o o o o o b-service
+Play my Futuros Hits playlist on Spotify .#!#PlayMusic#!#o o b-playlist i-playlist o o b-service o
+Play Strength of Street Knowledge on Groove Shark#!#PlayMusic#!#o b-playlist i-playlist i-playlist i-playlist o b-service i-service
+Use Pandora to play Korean OSTs#!#PlayMusic#!#o b-service o o b-playlist i-playlist
+Play some Gospel music.#!#PlayMusic#!#o o b-genre o
+Play satire#!#PlayMusic#!#o b-genre
+Play the top 20  ep from the fifties by John Bundrick .#!#PlayMusic#!#o o b-sort i-sort b-music_item o o b-year o b-artist i-artist o
+Play Alfredo Zitarrosa on spotify .#!#PlayMusic#!#o b-artist i-artist o b-service o
+Play me some Terror music#!#PlayMusic#!#o o o b-genre o
+Play music from 2010 by Jason Donovan#!#PlayMusic#!#o o o b-year o b-artist i-artist
+Play me something on Last Fm#!#PlayMusic#!#o o o o b-service i-service
+Play Giovanni Battista Guadagnini 's 1982  tracks .#!#PlayMusic#!#o b-artist i-artist i-artist o b-year b-playlist o
+Play some Rumba Africana .#!#PlayMusic#!#o o b-genre i-genre o
+Play Greg Raposo songs from the thirties#!#PlayMusic#!#o b-artist i-artist o o o b-year
+Play a top-five  song by Pete Candoli .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o
+Play Iheart#!#PlayMusic#!#o b-service
+Play the symphony by Tetsuya Ogawa from 1953#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-year
+Can you play me some Pop-folk music#!#PlayMusic#!#o o o o o b-genre o
+Play that new  song from 1970#!#PlayMusic#!#o o b-sort b-music_item o b-year
+Play some space music on Google Music#!#PlayMusic#!#o o b-genre o o b-service i-service
+Play a song by Juanes on Last Fm#!#PlayMusic#!#o o b-music_item o b-artist o b-service i-service
+Play Salmonella Dub Dvd by mario rubalcaba on Vimeo #!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist o b-service
+Play some music from 1958 on Deezer .#!#PlayMusic#!#o o o o b-year o b-service o
+I want to hear some of David Gilmour 's music from 1973#!#PlayMusic#!#o o o o o o b-artist i-artist o o o b-year
+Play music from the playlist Late Night Jazz#!#PlayMusic#!#o o o o o b-playlist i-playlist i-playlist
+Play the song  Victim Of Changes from Hawkshaw Hawkins on Spotify#!#PlayMusic#!#o o b-music_item b-track i-track i-track o b-artist i-artist o b-service
+Play the music from the playlist Get Lit#!#PlayMusic#!#o o o o o o b-playlist i-playlist
+play Bra Vibrationer by Dean#!#PlayMusic#!#o b-track i-track o b-artist
+Play music from the playlist Get Your Mind Right#!#PlayMusic#!#o o o o o b-playlist i-playlist i-playlist i-playlist
+Play Talking To The Universe on Itunes#!#PlayMusic#!#o b-track i-track i-track i-track o b-service
+I want to hear the album  Insult To Injury by Narayana Tirtha .#!#PlayMusic#!#o o o o o b-music_item b-album i-album i-album o b-artist i-artist o
+play latest  Shaggy music#!#PlayMusic#!#o b-sort b-artist o
+Play Slacker radio.#!#PlayMusic#!#o b-service o
+Will you play a ballad from Mahalaxmi Iyer#!#PlayMusic#!#o o o o b-music_item o b-artist i-artist
+use Spotify to play Nina Persson from 1962#!#PlayMusic#!#o b-service o o b-artist i-artist o b-year
+I want toi hear some Pop Punk Perfection í ¼í½ off of Deezer#!#PlayMusic#!#o o o o o b-playlist i-playlist i-playlist i-playlist i-playlist o o b-service
+Start up my Independent Music Monday playlist.#!#PlayMusic#!#o o o b-playlist i-playlist i-playlist o
+Play That Would Be Something by Eden Ahbez#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+Please play Every Woman In Me#!#PlayMusic#!#o o b-album i-album i-album i-album
+Play some Ven A Mi#!#PlayMusic#!#o o b-album i-album i-album
+Please play some fourties music on Spotify#!#PlayMusic#!#o o o b-year o o b-service
+Play Dj Cameo on itunes .#!#PlayMusic#!#o b-artist i-artist o b-service o
+play some gotye#!#PlayMusic#!#o o b-artist
+play This Is Colour by Panda Bear#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist
+Play songs by Cheryl Wheeler#!#PlayMusic#!#o o o b-artist i-artist
+Play the most popular  song from Chae Yeon off of Spotify#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist o o b-service
+Please play me something by New Wave Of American Heavy Metal#!#PlayMusic#!#o o o o o b-genre i-genre i-genre i-genre i-genre i-genre
+Play Deezer#!#PlayMusic#!#o b-service
+Play me the best  Charles Neidich  song#!#PlayMusic#!#o o o b-sort b-artist i-artist b-music_item
+I want to hear the sound track to Mary Macgregor new songs on Iheart#!#PlayMusic#!#o o o o o b-music_item i-music_item o b-artist i-artist o o o b-service
+Play music on the playlist Electronic Gaming#!#PlayMusic#!#o o o o o b-playlist i-playlist
+I want to hear some Bill Black  chant music#!#PlayMusic#!#o o o o o b-artist i-artist b-music_item o
+Play some thirties music on Netflix .#!#PlayMusic#!#o o b-year o o b-service o
+play some eighties by Amirbai Karnataki#!#PlayMusic#!#o o b-year o b-artist i-artist
+Open Youtube and play Connie Francis Sings Spanish And Latin American Favorites from Yukiko Iwai#!#PlayMusic#!#o b-service o o b-album i-album i-album i-album i-album i-album i-album i-album o b-artist i-artist
+Play the Ricky Wilson  album  Spectral Dusk#!#PlayMusic#!#o o b-artist i-artist b-music_item b-album i-album
+Play Red Barchetta by Blind Lemon Jefferson .#!#PlayMusic#!#o b-track i-track o b-artist i-artist i-artist o
+Play the track  R U Professional by Roberto Carlos Braga#!#PlayMusic#!#o o b-music_item b-track i-track i-track o b-artist i-artist i-artist
+play drive playlist#!#PlayMusic#!#o b-playlist o
+Play Regulateâ¦g Funk Era by artist Iouri Bachmet on groove shark#!#PlayMusic#!#o b-album i-album i-album o o b-artist i-artist o b-service i-service
+play music from Itunes for Ric Grech#!#PlayMusic#!#o o o b-service o b-artist i-artist
+Play some music on Lastfm .#!#PlayMusic#!#o o o o b-service o
+Play The Fool On The Hill by Khwaja Ghulam Farid#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-artist i-artist i-artist
+Play the best songs of 2016#!#PlayMusic#!#o o b-sort o o b-year
+Play something by Chris Knight#!#PlayMusic#!#o o o b-artist i-artist
+Wish to hear a concerto by Diplo from 1952#!#PlayMusic#!#o o o o b-music_item o b-artist o b-year
+play songs from Youtube#!#PlayMusic#!#o o o b-service
+Play an album from the fourties , new first.#!#PlayMusic#!#o o b-music_item o o b-year o b-sort o
+Play Chantal Kreviazuk , Sister Ray#!#PlayMusic#!#o b-artist i-artist o b-track i-track
+play Isaac Hayes on Pandora from love, sweat and beer ep#!#PlayMusic#!#o b-artist i-artist o b-service o b-album i-album i-album i-album i-album
+play Only Hope by Graham Bonnet#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play some Avantgarde music on Netflix .#!#PlayMusic#!#o o b-genre o o b-service o
+Play gothic music#!#PlayMusic#!#o b-genre o
+I want to hear Song For Adam#!#PlayMusic#!#o o o o b-track i-track i-track
+Play the playlist Feel Good Dinner .#!#PlayMusic#!#o o o b-playlist i-playlist i-playlist o
+Play the top  track by Claudja Barry on Last Fm#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service i-service
+Play some Iris Dement 's theme based 2015 music on lastfm #!#PlayMusic#!#o o b-artist i-artist o b-music_item o b-year o o b-service
+Play the latest  ballad by September#!#PlayMusic#!#o o b-sort b-music_item o b-artist
+Play fifties music#!#PlayMusic#!#o b-year o
+play songs by Sarah Harding#!#PlayMusic#!#o o o b-artist i-artist
+Play Maggot Brain by Albano Carrisi#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play a Jack Lawrence  concerto#!#PlayMusic#!#o o b-artist i-artist b-music_item
+I want to hear the top  Tim Madison#!#PlayMusic#!#o o o o o b-sort b-artist i-artist
+Play the 1991  soundtrack from Ian Mcdonald#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+Play the best songs by Jes Brieden#!#PlayMusic#!#o o b-sort o o b-artist i-artist
+Play me a song by Kevin Cadogan#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+Play something from my Songs For You, Not Your Parents playlist#!#PlayMusic#!#o o o o b-playlist i-playlist i-playlist i-playlist i-playlist i-playlist o
+Play Making Out by Alexander Rosenbaum off Google Music .#!#PlayMusic#!#o b-track i-track o b-artist i-artist o b-service i-service o
+Play Rocket Queen on Itunes#!#PlayMusic#!#o b-track i-track o b-service
+Please play a song by Everlast#!#PlayMusic#!#o o o b-music_item o b-artist
+Play me some chant from the last half of the sixties#!#PlayMusic#!#o o o b-music_item o o b-sort o o o b-year
+Play music by Paul Mccartney#!#PlayMusic#!#o o o b-artist i-artist
+Play some Krzysztof Penderecki on Last Fm#!#PlayMusic#!#o o b-artist i-artist o b-service i-service
+Play easy listening#!#PlayMusic#!#o b-genre i-genre
+play Robert Stoddard from 1988#!#PlayMusic#!#o b-artist i-artist o b-year
+Play Gloria on last fm#!#PlayMusic#!#o b-artist o b-service i-service
+play some movement by Dj Spinna#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+play Lily, Rosemary And The Jack Of Hearts by Chris Goss#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track i-track o b-artist i-artist
+play Zvooq  latest  track by Peter Appleyard#!#PlayMusic#!#o b-service b-sort b-music_item o b-artist i-artist
+Play Brenda Kahn 's Rushall Station .#!#PlayMusic#!#o b-artist i-artist o b-album i-album o
+play the top five songs by Isaac Hayes#!#PlayMusic#!#o o b-sort i-sort o o b-artist i-artist
+Play some music from the thirties .#!#PlayMusic#!#o o o o o b-year o
+Play 2011 music#!#PlayMusic#!#o b-year o
+I want to hear Sebastian 's songs from the thirties on Youtube#!#PlayMusic#!#o o o o b-artist o o o o b-year o b-service
+Play top 20 from frank farian#!#PlayMusic#!#o b-sort i-sort o b-artist i-artist
+Play some music using slacker#!#PlayMusic#!#o o o o b-service
+Play some psychadelic music.#!#PlayMusic#!#o o b-genre o
+Play some Geir Jenssen .#!#PlayMusic#!#o o b-artist i-artist o
+Start playing my Disney playlist.#!#PlayMusic#!#o o o b-playlist o
+I want to hear a Gucci Mane  song from Last Fm from 2002#!#PlayMusic#!#o o o o o b-artist i-artist b-music_item o b-service i-service o b-year
+Play me a 2003  song by Charles Neidich#!#PlayMusic#!#o o o b-year b-music_item o b-artist i-artist
+I want to hear some songs from the twenties#!#PlayMusic#!#o o o o o o o o b-year
+I'd like to hear chant songs from nineties#!#PlayMusic#!#o o o o b-music_item o o b-year
+Can you play the newest  record from 1966 by Tony Lee#!#PlayMusic#!#o o o o b-sort b-music_item o b-year o b-artist i-artist
+Please play Kabhi Jo Baadal Barse by Ruth Lorenzo#!#PlayMusic#!#o o b-track i-track i-track i-track o b-artist i-artist
+Play a record from 2015#!#PlayMusic#!#o o b-music_item o b-year
+Use the service Zvooq to play top-10 by artist Coolio#!#PlayMusic#!#o o o b-service o o b-sort o o b-artist
+Play thirties  symphony music from Nigga on Iheart#!#PlayMusic#!#o b-year b-music_item o o b-artist o b-service
+play a sound track by Tom Thacker#!#PlayMusic#!#o o b-music_item i-music_item o b-artist i-artist
+Play some Laurie Anderson .#!#PlayMusic#!#o o b-artist i-artist o
+Open Last Fm and play the top  song from Daniel Lee Chee Hun#!#PlayMusic#!#o b-service i-service o o o b-sort b-music_item o b-artist i-artist i-artist i-artist
+play some twenties music on Iheart#!#PlayMusic#!#o o b-year o o b-service
+Play popular  eighties  record#!#PlayMusic#!#o b-sort b-year b-music_item
+Play the track  Grow Old With Me by artist Chloe Rose Lattanzi#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track o o b-artist i-artist i-artist
+on Deezer play fourties tunes by Jona Bechtolt and a ballad#!#PlayMusic#!#o b-service o b-year o o b-artist i-artist o o b-music_item
+play Kings Of The Wild Frontier by Andrea Bocelli#!#PlayMusic#!#o b-album i-album i-album i-album i-album o b-artist i-artist
+Play an album from 1987 .#!#PlayMusic#!#o o b-music_item o b-year o
+Play music from 1960#!#PlayMusic#!#o o o b-year
+Play a movement from the nineties#!#PlayMusic#!#o o b-music_item o o b-year
+Play Bob Hilliard  top-twenty music#!#PlayMusic#!#o b-artist i-artist b-sort o
+Play a seventies  soundtrack by steve walsh on Groove Shark#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service i-service
+Use Deezer service to play Opera #!#PlayMusic#!#o b-service o o o b-genre
+play Zvooq#!#PlayMusic#!#o b-service
+I want to hear Techno-industrial music.#!#PlayMusic#!#o o o o b-genre o
+play the top  song by Amon Amarth on Groove Shark#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service i-service
+Play Julie Driscoll#!#PlayMusic#!#o b-artist i-artist
+play something from the twenties#!#PlayMusic#!#o o o o b-year
+Play The View From The Afternoon by Malese Jow on Last Fm#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-artist i-artist o b-service i-service
+play songs by Sammy Fain#!#PlayMusic#!#o o o b-artist i-artist
+Play music from the year 1964#!#PlayMusic#!#o o o o o b-year
+Play the heinz strobl  ep from 2016 on Groove Shark#!#PlayMusic#!#o o b-artist i-artist b-music_item o b-year o b-service i-service
+Play me Leonid Soybelman on Vimeo .#!#PlayMusic#!#o o b-artist i-artist o b-service o
+Play a song from my workout playlist on Groove Shark#!#PlayMusic#!#o o b-music_item o o b-playlist o o b-service i-service
+play some Alte Kameraden music#!#PlayMusic#!#o o b-track i-track o
+Play the music Hands Up#!#PlayMusic#!#o o o b-playlist i-playlist
+Play some twenties  theme music on Google Music .#!#PlayMusic#!#o o b-year b-music_item o o b-service i-service o
+Play a fifties  album on Itunes .#!#PlayMusic#!#o o b-year b-music_item o b-service o
+Play genre opera#!#PlayMusic#!#o o b-genre
+Play shadowplay by Dana on Deezer .#!#PlayMusic#!#o b-track o b-artist o b-service o
+Play music on Deezer by Imogen Heap#!#PlayMusic#!#o o o b-service o b-artist i-artist
+Find a top fifty  zahir howaida  concerto from the seventies#!#PlayMusic#!#o o b-sort i-sort b-artist i-artist b-music_item o o b-year
+Play the newest  twenties  melody .#!#PlayMusic#!#o o b-sort b-year b-music_item o
+I want to hear Box Of Rain by Skeets Mcdonald#!#PlayMusic#!#o o o o b-track i-track i-track o b-artist i-artist
+Please play Casino Boogie#!#PlayMusic#!#o o b-track i-track
+I want to hear a full  album on youtube by Jem Godfrey#!#PlayMusic#!#o o o o o b-track b-music_item o b-service o b-artist i-artist
+Play an Asha Bhosle  song from around 1964#!#PlayMusic#!#o o b-artist i-artist b-music_item o o b-year
+Play music from the twenties .#!#PlayMusic#!#o o o o b-year o
+Play something by Louisiana Blues#!#PlayMusic#!#o o o b-genre i-genre
+Play new  Ian Mclagan#!#PlayMusic#!#o b-sort b-artist i-artist
+Play music on Itunes#!#PlayMusic#!#o o o b-service
+I want to hear Ding Dong Bell on groove shark#!#PlayMusic#!#o o o o b-track i-track i-track o b-service i-service
+Play fifties music on Slacker .#!#PlayMusic#!#o b-year o o b-service o
+Play Before I Grew Up To Love You by Wafah Dufour#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track i-track o b-artist i-artist
+Play a Jim Mullen  ep from the sixties#!#PlayMusic#!#o o b-artist i-artist b-music_item o o b-year
+Play some good music from 2012 .#!#PlayMusic#!#o o b-sort o o b-year o
+Play the greatest  soundtrack by Nhat Son on Last Fm .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service i-service o
+Play the top hits of 2016#!#PlayMusic#!#o o b-sort o o b-year
+Play Fight On, State .#!#PlayMusic#!#o b-track i-track i-track o
+Use Pandora to play music from Maki Onaga from the album made in the nineties#!#PlayMusic#!#o b-service o o o o b-artist i-artist o o b-music_item o o o b-year
+Play the top five  Cemil Bey songs#!#PlayMusic#!#o o b-sort i-sort b-artist i-artist o
+Play opera music on google music#!#PlayMusic#!#o b-genre o o b-service i-service
+play music by Francis Healy#!#PlayMusic#!#o o o b-artist i-artist
+play a track from the thirties#!#PlayMusic#!#o o b-music_item o o b-year
+Play music on Spotify .#!#PlayMusic#!#o o o b-service o
+play newest  soundtrack from 2008#!#PlayMusic#!#o b-sort b-music_item o b-year
+play Itunes songs by Gerard Way#!#PlayMusic#!#o b-service o o b-artist i-artist
+Play Cherry Pink by Trapp Mendoza on Iheart#!#PlayMusic#!#o b-track i-track o b-artist i-artist o b-service
+Play Rei Momo  newest  album#!#PlayMusic#!#o b-album i-album b-sort b-music_item
+I want to hear a track by Ryohei Yamamoto on Vimeo#!#PlayMusic#!#o o o o o b-music_item o b-artist i-artist o b-service
+Start up my nostalgic playlist.#!#PlayMusic#!#o o o b-playlist o
+play some papoose from 2003 on youtube#!#PlayMusic#!#o o b-artist o b-year o b-service
+Use Deezer to play music by Kimberley Walsh#!#PlayMusic#!#o b-service o o o o b-artist i-artist
+Play Punk Rock music#!#PlayMusic#!#o b-genre i-genre o
+Play something by Louis Nelson Delisle .#!#PlayMusic#!#o o o b-artist i-artist i-artist o
+play 1962 music on Netflix#!#PlayMusic#!#o b-year o o b-service
+Play a song by David Silveria from 2002 on Zvooq .#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-year o b-service o
+play the 2014  album from la lupe#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+Play Revival music.#!#PlayMusic#!#o b-genre o
+I want to hear opera on Netflix#!#PlayMusic#!#o o o o b-genre o b-service
+play the song  Si No Te Hubiera Conocido by Haidar Salim#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track i-track o b-artist i-artist
+Start up my Pachangueo Total playlist.#!#PlayMusic#!#o o o b-playlist i-playlist o
+Open the playlist from Sergei Chatschatrjan#!#PlayMusic#!#o o o o b-artist i-artist
+open Itunes and play Kenny Cox  most popular  concerto#!#PlayMusic#!#o b-service o o b-artist i-artist b-sort i-sort b-music_item
+play the Gary Chaw  album#!#PlayMusic#!#o o b-artist i-artist b-music_item
+Play me some grunge music#!#PlayMusic#!#o o o b-genre o
+Play Chris Goss on Netflix#!#PlayMusic#!#o b-artist i-artist o b-service
+Play The Garden Of Allah from Wade Mainer#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+Play Alles Heeft Ritme by Liu Tianhua .#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o
+Play the best  Vanessa Peters songs#!#PlayMusic#!#o o b-sort b-artist i-artist o
+Play That Stubborn Kinda Fellow by Michael Amott#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist
+play a 1983  concerto by Ayaka on Itunes#!#PlayMusic#!#o o b-year b-music_item o b-artist o b-service
+I want to hear Dido from 1966 on Youtube#!#PlayMusic#!#o o o o b-artist o b-year o b-service
+Play Andy Williams Sings Rodgers And Hammerstein by elica todorova#!#PlayMusic#!#o b-album i-album i-album i-album i-album i-album o b-artist i-artist
+Play Tujiko Noriko 's Ten Years And Running .#!#PlayMusic#!#o b-artist i-artist o b-album i-album i-album i-album o
+Open google music and play Women of Jazz playlist#!#PlayMusic#!#o b-service i-service o o b-playlist i-playlist i-playlist o
+Play christian gangsta rap#!#PlayMusic#!#o b-genre i-genre i-genre
+Play Donald Rubinstein on Pandora#!#PlayMusic#!#o b-artist i-artist o b-service
+Play Shinya Yamada music from 1962 on Groove Shark #!#PlayMusic#!#o b-artist i-artist o o b-year o b-service i-service
+play the greatest  Vimeo tunes by angelo amorevoli on soundtrack#!#PlayMusic#!#o o b-sort b-service o o b-artist i-artist o b-music_item
+Play some Google Music .#!#PlayMusic#!#o o b-service i-service o
+Open Deezer and play top 40 hits#!#PlayMusic#!#o b-service o o b-sort o o
+Play me a nineties  sound track#!#PlayMusic#!#o o o b-year b-music_item i-music_item
+play a symphony that is good from 2000#!#PlayMusic#!#o o b-music_item o o b-sort o b-year
+Play some music on Pandora#!#PlayMusic#!#o o o o b-service
+play music from the twenties#!#PlayMusic#!#o o o o b-year
+play the most popular  Miles Jones  track#!#PlayMusic#!#o o b-sort i-sort b-artist i-artist b-music_item
+Play Miyavi 's music from seventies on Google Music .#!#PlayMusic#!#o b-artist o o o b-year o b-service i-service o
+Play a twenties  soundtrack on Youtube#!#PlayMusic#!#o o b-year b-music_item o b-service
+Play slow rock music#!#PlayMusic#!#o b-genre i-genre o
+Play some techno on Lastfm#!#PlayMusic#!#o o b-genre o b-service
+Will you play me the most popular  sound track from 2006#!#PlayMusic#!#o o o o o b-sort i-sort b-music_item i-music_item o b-year
+Play the song  I Get Ideas as performed by Richard Kruspe#!#PlayMusic#!#o o b-music_item b-track i-track i-track o o o b-artist i-artist
+Play new  track from the fifties#!#PlayMusic#!#o b-sort b-music_item o o b-year
+Can you play an ep from the year 1958 ?#!#PlayMusic#!#o o o o b-music_item o o o b-year o
+play scott la rock from Stella on Slacker#!#PlayMusic#!#o b-artist i-artist i-artist o b-album o b-service
+Play Thelma Aoyama 's latest  concerto#!#PlayMusic#!#o b-artist i-artist o b-sort b-music_item
+Make and play a new playlis with the theme songs released in 1968#!#PlayMusic#!#o o o o b-sort o o o b-music_item o o o b-year
+Play the tune by Adam Yauch#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play some melody from the eighties on Spotify#!#PlayMusic#!#o o b-music_item o o b-year o b-service
+Play music by mina caputo on Lastfm#!#PlayMusic#!#o o o b-artist i-artist o b-service
+Play some fifties music by Origa .#!#PlayMusic#!#o o b-year o o b-artist o
+Play a popular  Gurdas Maan  track#!#PlayMusic#!#o o b-sort b-artist i-artist b-music_item
+play an album on Netflix by chris castle from 2011#!#PlayMusic#!#o o b-music_item o b-service o b-artist i-artist o b-year
+Play the most popular music by Ronald Isley on Google Music#!#PlayMusic#!#o o b-sort i-sort o o b-artist i-artist o b-service i-service
+Play the top-20 music by merz#!#PlayMusic#!#o o b-sort o o b-artist
+play twenties music off of my Itunes#!#PlayMusic#!#o b-year o o o o b-service
+Play a Mike Osborne  song#!#PlayMusic#!#o o b-artist i-artist b-music_item
+play Groove Shark#!#PlayMusic#!#o b-service i-service
+Play me a Maia Hirasawa  soundtrack from 1951#!#PlayMusic#!#o o o b-artist i-artist b-music_item o b-year
+Play Elysium from Ryan Cayabyab#!#PlayMusic#!#o b-album o b-artist i-artist
+play Matt Walker tunes#!#PlayMusic#!#o b-artist i-artist o
+play Solange 2016  album #!#PlayMusic#!#o o b-year b-music_item
+Play a soundtrack by Mike Hindert on Spotify .#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-service o
+Play the top-5 sort of ballad music from 2012 .#!#PlayMusic#!#o o b-sort o o b-music_item o o b-year o
+I want to listen to Lastfm , play A Drop Of The Hard Stuff by Joi Chua .#!#PlayMusic#!#o o o o o b-service o o b-album i-album i-album i-album i-album i-album o b-artist i-artist o
+play Pop 2017 Picks#!#PlayMusic#!#o b-playlist i-playlist i-playlist
+play Groove Shark#!#PlayMusic#!#o b-service i-service
+I want hear some Junior Murvin off of Youtube#!#PlayMusic#!#o o o o b-artist i-artist o o b-service
+I want to hear a top-50  track from Takahito Eguchi on Google Music#!#PlayMusic#!#o o o o o b-sort b-music_item o b-artist i-artist o b-service i-service
+Play 25 To Life by Paul Riley on Deezer .#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist o b-service o
+Play me some seventies music with a good  melody#!#PlayMusic#!#o o o b-year o o o b-sort b-music_item
+play an Masaki Aiba  tune#!#PlayMusic#!#o o b-artist i-artist b-music_item
+play Morning Song#!#PlayMusic#!#o b-album i-album
+I want to hear a fourties  ballad by Luciano#!#PlayMusic#!#o o o o o b-year b-music_item o b-artist
+play a good  1952  symphony#!#PlayMusic#!#o o b-sort b-year b-music_item
+play Hardcore music#!#PlayMusic#!#o b-genre o
+Play a top twenty  symphony by Bumble Bee Slim#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist i-artist
+play Wait Until Tomorrow#!#PlayMusic#!#o b-track i-track i-track
+play a music ballad from the sixties#!#PlayMusic#!#o o o b-music_item o o b-year
+Play the top  1991  sound track#!#PlayMusic#!#o o b-sort b-year b-music_item i-music_item
+Play the latest songs by Larry Gatlin on Iheart#!#PlayMusic#!#o o b-sort o o b-artist i-artist o b-service
+Play me a bluegrass  song#!#PlayMusic#!#o o o b-genre b-music_item
+Play a sixties  song by Classified#!#PlayMusic#!#o o b-year b-music_item o b-artist
+play Monie Love tunes on Google Music from 1984 from her song list#!#PlayMusic#!#o b-artist i-artist o o b-service i-service o b-year o o b-music_item o
+Play pop#!#PlayMusic#!#o b-genre
+Play a melody from Elmer Bernstein#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+I want to listen to my Spain Top 50 playlist on groove shark#!#PlayMusic#!#o o o o o o b-playlist i-playlist i-playlist o o b-service i-service
+Play top-ten  eighties  song#!#PlayMusic#!#o b-sort b-year b-music_item
+Play Michael Angelo Batio#!#PlayMusic#!#o b-artist i-artist i-artist
+Play a twenties  concerto from Roger Taylor on deezer#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service
+play dj kentaro from the year 1994#!#PlayMusic#!#o b-artist i-artist o o o b-year
+play a twenties  song#!#PlayMusic#!#o o b-year b-music_item
+Can you play me a track from the nineties ?#!#PlayMusic#!#o o o o o b-music_item o o b-year o
+Play a song off Get Up Offa That Thing by Doseone on Last Fm#!#PlayMusic#!#o o b-music_item o b-album i-album i-album i-album i-album o b-artist o b-service i-service
+Play a movement fromthe eighties by Nobuo Uematsu .#!#PlayMusic#!#o o b-music_item o b-year o b-artist i-artist o
+Play In Every Dream Home A Heartache by vincent paul abbott #!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track o b-artist i-artist i-artist
+Play the newest released song from 1951#!#PlayMusic#!#o o b-sort o b-music_item o b-year
+use Slacker to listen to seventies music#!#PlayMusic#!#o b-service o o o b-year o
+Play the best  song by Henry Rollins .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o
+play my melodious playlist#!#PlayMusic#!#o o b-playlist o
+Play top music from Charles L. Johnson on vimeo #!#PlayMusic#!#o b-sort o o b-artist i-artist i-artist o b-service
+Play the top-twenty from Tony Calder off Slacker .#!#PlayMusic#!#o o b-sort o b-artist i-artist o b-service o
+play anything from the twenties#!#PlayMusic#!#o o o o b-year
+Play music from 2012 by Yossif Kobzon on last fm .#!#PlayMusic#!#o o o b-year o b-artist i-artist o b-service i-service o
+Play the theme tune that Christian Fennesz wrote#!#PlayMusic#!#o o b-music_item i-music_item o b-artist i-artist o
+Open Youtube and play Nanana from Massimo Altomare#!#PlayMusic#!#o b-service o o b-track o b-artist i-artist
+Open Lastfm and play a voluntad del cielo from Wax#!#PlayMusic#!#o b-service o o b-album i-album i-album i-album o b-artist
+I want to hear a 1957  theme song#!#PlayMusic#!#o o o o o b-year b-music_item i-music_item
+Play my Electro Sur playlist.#!#PlayMusic#!#o o b-playlist i-playlist o
+play the last  track by Shavo Odadjian#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist
+Play Brotherhood by Ock Joo-hyun#!#PlayMusic#!#o b-album o b-artist i-artist
+play latest  George Ducas music#!#PlayMusic#!#o b-sort b-artist i-artist o
+play a tune from 1962#!#PlayMusic#!#o o b-music_item o b-year
+play I Could Write A Book#!#PlayMusic#!#o b-track i-track i-track i-track i-track
+listen to acapella#!#PlayMusic#!#o o b-genre
+Play music from 2005 by Justin Broadrick#!#PlayMusic#!#o o o b-year o b-artist i-artist
+Play the best  1981  sound track from Ric Fierabracci#!#PlayMusic#!#o o b-sort b-year b-music_item i-music_item o b-artist i-artist
+Play a ballad by Owen Pallett from the seventies on Slacker .#!#PlayMusic#!#o o b-music_item o b-artist i-artist o o b-year o b-service o
+Play concerto from 1951#!#PlayMusic#!#o b-music_item o b-year
+Play Yung Joc on slacker#!#PlayMusic#!#o b-artist i-artist o b-service
+I want to listen to Speed Metal Symphony#!#PlayMusic#!#o o o o o b-album i-album i-album
+play journey list#!#PlayMusic#!#o b-playlist o
+Play a melody by Hagigat Rzayeva#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play fifties from Sirusho Harutyunyan#!#PlayMusic#!#o b-year o b-artist i-artist
+Play a fairouz  tune on Deezer#!#PlayMusic#!#o o b-artist b-music_item o b-service
+play the top-twenty songs by The Kleptones on Spotify#!#PlayMusic#!#o o b-sort o o b-artist i-artist o b-service
+Play the greatest music you can find by Ari Herstand on Zvooq#!#PlayMusic#!#o o b-sort o o o o o b-artist i-artist o b-service
+play 90s Love Songs on Youtube#!#PlayMusic#!#o b-playlist i-playlist i-playlist o b-service
+Please play Got The Time#!#PlayMusic#!#o o b-track i-track i-track
+Play twenties from Ken Floyd#!#PlayMusic#!#o b-year o b-artist i-artist
+Play the playlist Grime Shutdown#!#PlayMusic#!#o o o b-playlist i-playlist
+Play Masashi Hamauzu 's newest  symphony on Itunes .#!#PlayMusic#!#o b-artist i-artist o b-sort b-music_item o b-service o
+Play the playlist funtime activity #!#PlayMusic#!#o o o b-playlist i-playlist
+Play some seventies songs from Luke Haines off of youtube#!#PlayMusic#!#o o b-year o o b-artist i-artist o o b-service
+Play Clay Aiken 's The Bonny Hind on Groove Shark .#!#PlayMusic#!#o b-artist i-artist o b-track i-track i-track o b-service i-service o
+Play a song from Helena Iren Michaelsen on Spotify#!#PlayMusic#!#o o b-music_item o b-artist i-artist i-artist o b-service
+Play thirties music by Flex on Google Music#!#PlayMusic#!#o b-year o o b-artist o b-service i-service
+Play the good sort of 1992  theme music by Layzie Bone#!#PlayMusic#!#o o b-sort o o b-year b-music_item o o b-artist i-artist
+Play the last  soundtrack from the sixties#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+Play the latest  ep from Lobby Loyde on Netflix#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+Play some Dave Pearce .#!#PlayMusic#!#o o b-artist i-artist o
+play track  Her Majesty#!#PlayMusic#!#o b-music_item b-track i-track
+I want to hear the newest music from The Railway Children#!#PlayMusic#!#o o o o o b-sort o o b-artist i-artist i-artist
+Play Short Walk On A Long Pier on Slacker#!#PlayMusic#!#o b-album i-album i-album i-album i-album i-album o b-service
+I want to hear Vegetables by pharrell williams#!#PlayMusic#!#o o o o b-track o b-artist i-artist
+Play the album  Making Evening And Night by Cevin Key #!#PlayMusic#!#o o b-music_item b-album i-album i-album i-album o b-artist i-artist
+Create a theme station with Jim Creeggan records and collabs#!#PlayMusic#!#o o b-music_item o o b-artist i-artist o o o
+Open Pandora and play Reggaeton 2017 y Baila !#!#PlayMusic#!#o b-service o o b-playlist i-playlist i-playlist i-playlist o
+Play a Martyn Bennett from 1957 on Pandora#!#PlayMusic#!#o o b-artist i-artist o b-year o b-service
+Play the Mother Lode by Tamio Okuda#!#PlayMusic#!#o o b-album i-album o b-artist i-artist
+Play the top  melody from artist Maakii#!#PlayMusic#!#o o b-sort b-music_item o o b-artist
+Play any album from the twenties#!#PlayMusic#!#o o b-music_item o o b-year
+Play me a song on Pandora#!#PlayMusic#!#o o o b-music_item o b-service
+Play me a song by Stephen Jones#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+Play a 1998  sound track from Sam The Kid on Last Fm#!#PlayMusic#!#o o b-year b-music_item i-music_item o b-artist i-artist i-artist o b-service i-service
+Play an ep by Uncle Jimmy Thompson#!#PlayMusic#!#o o b-music_item o b-artist i-artist i-artist
+Play some Game music.#!#PlayMusic#!#o o b-genre o
+Play music from 2012 on Netflix .#!#PlayMusic#!#o o o b-year o b-service o
+I want to hear a good  song from 2016#!#PlayMusic#!#o o o o o b-sort b-music_item o b-year
+Play the playlist Gypsy Swing#!#PlayMusic#!#o o o b-playlist i-playlist
+play some grunge#!#PlayMusic#!#o o b-genre
+Play some Sam Moore .#!#PlayMusic#!#o o b-artist i-artist o
+play Mikazuki Sunset#!#PlayMusic#!#o b-track i-track
+Play music on itunes from artist Jessica Delfino#!#PlayMusic#!#o o o b-service o o b-artist i-artist
+open Deezer and search for Scott Miller and play some of his new songs#!#PlayMusic#!#o b-service o o o b-artist i-artist o o o o o b-sort o
+play Peja tunes#!#PlayMusic#!#o b-artist o
+Play a Wendy Carlos  song from 2002#!#PlayMusic#!#o o b-artist i-artist b-music_item o b-year
+Play a new  song form the eighties#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+Play the track titled Faget#!#PlayMusic#!#o o b-music_item o b-track
+Play the top  song by Jack Grisham#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist
+Please play Jag Vill Leva I Europa by porta#!#PlayMusic#!#o o b-track i-track i-track i-track i-track o b-artist
+Want to hear a chant by Nellie Mckay from the year 2008#!#PlayMusic#!#o o o o b-music_item o b-artist i-artist o o o b-year
+Play the top-ten  chant  Doda songs from the twenties .#!#PlayMusic#!#o o b-sort b-music_item b-artist o o o b-year o
+Play sound track music from the twenties#!#PlayMusic#!#o b-music_item i-music_item o o o b-year
+Play some Carmen Mcrae from Ed Robertson off of Itunes#!#PlayMusic#!#o o b-album i-album o b-artist i-artist o o b-service
+play a song by Fats Waller#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+I'd like to listen to Diana Vickers  best  tune from the twenties#!#PlayMusic#!#o o o o o b-artist i-artist b-sort b-music_item o o b-year
+Can you play any chant from the fourties ?#!#PlayMusic#!#o o o o b-music_item o o b-year o
+Play some music by Daniel Carter#!#PlayMusic#!#o o o o b-artist i-artist
+Play twenties on Groove Shark#!#PlayMusic#!#o b-year o b-service i-service
+Play twenties  symphony from Robert Walter#!#PlayMusic#!#o b-year b-music_item o b-artist i-artist
+Can you play a sonata#!#PlayMusic#!#o o o o b-genre
+Let's listen to the most popular  Marty Friedman songs on Zvooq .#!#PlayMusic#!#o o o o b-sort i-sort b-artist i-artist o o b-service o
+Play an album from the fourties#!#PlayMusic#!#o o b-music_item o o b-year
+Play me a Xuefei Yang  symphony on Groove Shark#!#PlayMusic#!#o o o b-artist i-artist b-music_item o b-service i-service
+play soem nineties  Charles Thompson#!#PlayMusic#!#o o b-year b-artist i-artist
+Play some dance music#!#PlayMusic#!#o o b-genre o
+Let's hear some tunes from the thirties .#!#PlayMusic#!#o o o o o o b-year o
+Play the seventies  album on last fm#!#PlayMusic#!#o o b-year b-music_item o b-service i-service
+Play music from Lastfm and Deezer .#!#PlayMusic#!#o o o b-service o b-service o
+play TÃ© Para Tres#!#PlayMusic#!#o b-playlist i-playlist i-playlist
+Play artist stu davis from the album  Dub Chamber 3 on Netflix#!#PlayMusic#!#o o b-artist i-artist o o b-music_item b-album i-album i-album o b-service
+Play music by Ian Haugland#!#PlayMusic#!#o o o b-artist i-artist
+Play some Drum & Bass#!#PlayMusic#!#o o b-genre i-genre i-genre
+play a symphonic rock on Pandora#!#PlayMusic#!#o o b-genre i-genre o b-service
+Play the last  theme by Behzad Mirkhani .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o
+Open Netflix and play David Frizzell#!#PlayMusic#!#o b-service o o b-artist i-artist
+Can you play Crossover ?#!#PlayMusic#!#o o o b-genre o
+Plya a tune by Kancherla Gopanna from 1951 on Zvooq#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-year o b-service
+Play some fourties music on Spotify .#!#PlayMusic#!#o o b-year o o b-service o
+play the album  Everybody Happy by Lee Aaron#!#PlayMusic#!#o o b-music_item b-album i-album o b-artist i-artist
+Play the theme music from 1963 by Yuki Koyanagi#!#PlayMusic#!#o o b-music_item o o b-year o b-artist i-artist
+play Groove Shark  folk-rock#!#PlayMusic#!#o b-service i-service b-genre
+play the album  How Insensitive#!#PlayMusic#!#o o b-music_item b-album i-album
+play some Classical music on Spotify#!#PlayMusic#!#o o b-genre o o b-service
+Play Used To Love Her by Dara .#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist o
+Play me a twenties  tune on Deezer#!#PlayMusic#!#o o o b-year b-music_item o b-service
+play music by Cass Elliot#!#PlayMusic#!#o o o b-artist i-artist
+Play concerto from the eighties#!#PlayMusic#!#o b-music_item o o b-year
+Play On My Own#!#PlayMusic#!#o b-track i-track i-track
+Play Nick Hexum  latest  album#!#PlayMusic#!#o b-artist i-artist b-sort b-music_item
+Play me a twenties  song#!#PlayMusic#!#o o o b-year b-music_item
+play a ballad from 2000#!#PlayMusic#!#o o b-music_item o b-year
+Play the sound track by Ferry Corsten#!#PlayMusic#!#o o b-music_item i-music_item o b-artist i-artist
+Play a 2009  concerto on Deezer .#!#PlayMusic#!#o o b-year b-music_item o b-service o
+Play me some Max Martin on Lastfm#!#PlayMusic#!#o o o b-artist i-artist o b-service
+play some Sia Furler on Last Fm#!#PlayMusic#!#o o b-artist i-artist o b-service i-service
+Play the thirties  soundtrack by ghader abdollahzadeh on Youtube#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service
+play Say A Word by La India#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist
+Play me a fifties  song by Chingy#!#PlayMusic#!#o o o b-year b-music_item o b-artist
+Play music from Paul Landers#!#PlayMusic#!#o o o b-artist i-artist
+Play Taiwan Is Good by Kotoko .#!#PlayMusic#!#o b-track i-track i-track o b-artist o
+I'm in the mood to listen to meditative music.#!#PlayMusic#!#o o o o o o o b-genre o
+Play Hughie Graham by Vidyadhar Vyas#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Give me an album from 1972 to listen to.#!#PlayMusic#!#o o o b-music_item o b-year o o o
+Play some 1962  theme music.#!#PlayMusic#!#o o b-year b-music_item o
+Play NoctÃ¡mbulo playlist#!#PlayMusic#!#o b-playlist o
+Play Annet Artani  soundtrack on Slacker#!#PlayMusic#!#o b-artist i-artist b-music_item o b-service
+play the track  The Wizard And I#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track
+Play Crossroad Blues .#!#PlayMusic#!#o b-playlist i-playlist o
+Play some amber kuo from the eighties on Spotify .#!#PlayMusic#!#o o b-artist i-artist o o b-year o b-service o
+I need to hear some music from Spotify#!#PlayMusic#!#o o o o o o o b-service
+Play some sister rosetta tharpe songs from the eighties#!#PlayMusic#!#o o b-artist i-artist i-artist o o o b-year
+Play on spotify  Ms Scandalous#!#PlayMusic#!#o o b-service b-artist i-artist
+Play a twenties  tune by Jodie Aysha .#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o
+play Addicted To You by Hank Ballard#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist
+Play Tooh by Eric Bazilian on Google Music .#!#PlayMusic#!#o b-track o b-artist i-artist o b-service i-service o
+Play music by Keren Woodward#!#PlayMusic#!#o o o b-artist i-artist
+Play music by Paulinho Da Viola from 1965#!#PlayMusic#!#o o o b-artist i-artist i-artist o b-year
+Play Sergei Anatoljewitsch Kurjochin 's music on Groove Shark .#!#PlayMusic#!#o b-artist i-artist i-artist o o o b-service i-service o
+Play the song  Little Robin Redbreast#!#PlayMusic#!#o o b-music_item b-track i-track i-track
+Play music from the artist Irma Pane#!#PlayMusic#!#o o o o o b-artist i-artist
+Play an Andy Silvester  sound track from the thirties on Spotify#!#PlayMusic#!#o o b-artist i-artist b-music_item i-music_item o o b-year o b-service
+Play the music of Tupac Shakur#!#PlayMusic#!#o o o o b-artist i-artist
+Play anything from the top-50  Jeff Irwin  record off of itunes#!#PlayMusic#!#o o o o b-sort b-artist i-artist b-music_item o o b-service
+Play Tina Cousins from 1956#!#PlayMusic#!#o b-artist i-artist o b-year
+Play the music genre Synthpop#!#PlayMusic#!#o o o o b-genre
+Play me songs from 1955#!#PlayMusic#!#o o o o b-year
+Use itunes to play dancing playlist#!#PlayMusic#!#o b-service o o b-playlist o
+Play movement music by Monk Boudreaux on youtube#!#PlayMusic#!#o b-music_item o o b-artist i-artist o b-service
+Play the best  Bruce Ruffin music on Youtube .#!#PlayMusic#!#o o b-sort b-artist i-artist o o b-service o
+Play some showtunes music.#!#PlayMusic#!#o o b-genre o
+play music from 2014#!#PlayMusic#!#o o o b-year
+play There Must Be More To Life Than This#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track i-track i-track
+Play Suite Sudarmoricaine by Afi on itunes#!#PlayMusic#!#o b-track i-track o b-artist o b-service
+play the top-twenty  margaret becker songs with google music#!#PlayMusic#!#o o b-sort b-artist i-artist o o b-service i-service
+Play the new music from Wilko Johnson#!#PlayMusic#!#o o b-sort o o b-artist i-artist
+play Iheart tunes by Neil Finn#!#PlayMusic#!#o b-service o o b-artist i-artist
+Play some music on Slacker#!#PlayMusic#!#o o o o b-service
+Play the album  Shooting Silvio by Dave Sabo#!#PlayMusic#!#o o b-music_item b-album i-album o b-artist i-artist
+I want to hear music from carman from the 1966  album#!#PlayMusic#!#o o o o o o b-artist o o b-year b-music_item
+Play my Fusion Fest playlist on Youtube#!#PlayMusic#!#o o b-playlist i-playlist o o b-service
+Play 2004  Guy Sebastian on Itunes#!#PlayMusic#!#o b-year b-artist i-artist o b-service
+Play Vic Ruggiero music from 2007#!#PlayMusic#!#o b-artist i-artist o o b-year
+Play All The Way My Savior Leads Me on Spotify#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track i-track o b-service
+Play some nineties music on Pandora#!#PlayMusic#!#o o b-year o o b-service
+Play fifties music#!#PlayMusic#!#o b-year o
+Play some nineties  Eliza Carthy#!#PlayMusic#!#o o b-year b-artist i-artist
+I want to hear sia furler 's popular songs on Last Fm#!#PlayMusic#!#o o o o b-artist i-artist o b-sort o o b-service i-service
+Play Seaside by Don Cherry .#!#PlayMusic#!#o b-album o b-artist i-artist o
+Play record from the seventies#!#PlayMusic#!#o b-music_item o o b-year
+Play any chant from 1973#!#PlayMusic#!#o o b-music_item o b-year
+play top tunes by Joseph Utsler#!#PlayMusic#!#o b-sort o o b-artist i-artist
+play southern rock tunes#!#PlayMusic#!#o b-genre i-genre o
+Play me some music youtube#!#PlayMusic#!#o o o o b-service
+play Iheart#!#PlayMusic#!#o b-service
+Play Igor Nikolayev music from the fourties#!#PlayMusic#!#o b-artist i-artist o o o b-year
+Please play songs by Lil Jon#!#PlayMusic#!#o o o o b-artist i-artist
+play Victoria Banks 's album#!#PlayMusic#!#o b-artist i-artist o b-music_item
+play a song by Busta Rhymes#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play the album  Resurrection In Blood from Sleepy Brown on Itunes .#!#PlayMusic#!#o o b-music_item b-album i-album i-album o b-artist i-artist o b-service o
+Play fifties music by Ahmed Abdul Malik#!#PlayMusic#!#o b-year o o b-artist i-artist i-artist
+Play the greatest  record by Joe Purdy on Google Music#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service i-service
+play some latin on Zvooq#!#PlayMusic#!#o o b-genre o b-service
+I want to hear the top 5  Jamie Lidell songs#!#PlayMusic#!#o o o o o b-sort i-sort b-artist i-artist o
+I want to hear gothic rock on Lastfm#!#PlayMusic#!#o o o o b-genre i-genre o b-service
+Play iheart#!#PlayMusic#!#o b-service
+play Wolves by Larry Gatlin#!#PlayMusic#!#o b-track o b-artist i-artist
+Play That Stubborn Kinda Fellow by Michael Amott#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist
+play Long Way To Go by Keita Tachibana#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+Play the most popular  ep by marcel khalife on Netflix#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist o b-service
+Play album from Maureen Mcgovern#!#PlayMusic#!#o b-music_item o b-artist i-artist
+Play music on Deezer .#!#PlayMusic#!#o o o b-service o
+Play music from 2000 on spotify#!#PlayMusic#!#o o o b-year o b-service
+Play the newest  Phil Stacey .#!#PlayMusic#!#o o b-sort b-artist i-artist o
+Play music on Last Fm#!#PlayMusic#!#o o o b-service i-service
+I'd like to listen to opera on Youtube#!#PlayMusic#!#o o o o o b-genre o b-service
+Play Listen To The Mocking Bird by Billy Martin on Youtube#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-artist i-artist o b-service
+Can you play me something from the eighties on Youtube#!#PlayMusic#!#o o o o o o o b-year o b-service
+Play Spotify#!#PlayMusic#!#o b-service
+Play the top-fifty  theme songs by Dennis Brown .#!#PlayMusic#!#o o b-sort b-music_item o o b-artist i-artist o
+Play a popular  chant by Brian Epstein#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist
+Play a chant from 1978 .#!#PlayMusic#!#o o b-music_item o b-year o
+Play a song off the Nicht Sprechen  album#!#PlayMusic#!#o o b-music_item o o b-album i-album b-music_item
+play Netflix  ballad by Mike Shinoda that is popular#!#PlayMusic#!#o b-service b-music_item o b-artist i-artist o o b-sort
+play Isaac Yamma  Slut#!#PlayMusic#!#o b-artist i-artist b-album
+play Joey Fatone  soundtrack tunes from Google Music from 1972#!#PlayMusic#!#o b-artist i-artist b-music_item o o b-service i-service o b-year
+Play music on pandora#!#PlayMusic#!#o o o b-service
+Play a record from 1950 .#!#PlayMusic#!#o o b-music_item o b-year o
+I want to the latest  ballad from Ira Losco#!#PlayMusic#!#o o o o b-sort b-music_item o b-artist i-artist
+Play music from 1958 .#!#PlayMusic#!#o o o b-year o
+Can you play a 1967  soundtrack on Slacker#!#PlayMusic#!#o o o o b-year b-music_item o b-service
+Play the last Wellman Braud  album relaesd#!#PlayMusic#!#o o o b-artist i-artist b-music_item o
+play fifties  movement songs by Fabio on Last Fm#!#PlayMusic#!#o b-year b-music_item o o b-artist o b-service i-service
+Play my Under The Surface playlist.#!#PlayMusic#!#o o b-playlist i-playlist i-playlist o
+play deezer  top 20 by Natasja#!#PlayMusic#!#o b-service b-sort i-sort o b-artist
+play a ballad by Bob Johnston#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play the latest  Joan Baez .#!#PlayMusic#!#o o b-sort b-artist i-artist o
+Play the album  Qr Iii by bobby bare#!#PlayMusic#!#o o b-music_item b-album i-album o b-artist i-artist
+Play Les Pauvres Riches by Pan Mei Chen .#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist i-artist o
+Play some 1987  Edie Brickell .#!#PlayMusic#!#o o b-year b-artist i-artist o
+Play my Jazz Brasileiro playlist#!#PlayMusic#!#o o b-playlist i-playlist o
+I'd like to hear Cry Baby Cry by Ally Kerr .#!#PlayMusic#!#o o o o b-track i-track i-track o b-artist i-artist o
+play a top-twenty  tune by Noor Jehan#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist
+Open Itunes and play Bad Attitude#!#PlayMusic#!#o b-service o o b-album i-album
+Do you have something like Impossible Is Nothing by Abderrahmane Abdelli ?#!#PlayMusic#!#o o o o o b-track i-track i-track o b-artist i-artist o
+Play music from jeremy taylor on the album  Dormi Amore, La Situazione Non Ã Buona on Groove Shark#!#PlayMusic#!#o o o b-artist i-artist o o b-music_item b-album i-album i-album i-album i-album i-album i-album o b-service i-service
+play caitlin cary from the fourties#!#PlayMusic#!#o b-artist i-artist o o b-year
+Play some gothic rock .#!#PlayMusic#!#o o b-genre i-genre o
+Play some fast fusion on Spotify#!#PlayMusic#!#o o b-genre i-genre o b-service
+Play The God That Failed on Vimeo .#!#PlayMusic#!#o b-track i-track i-track i-track o b-service o
+Open up music on Last Fm .#!#PlayMusic#!#o o o o b-service i-service o
+Play some David Mallett on last fm#!#PlayMusic#!#o o b-artist i-artist o b-service i-service
+play playlist A Mis NiÃ±os de 30#!#PlayMusic#!#o o b-playlist i-playlist i-playlist i-playlist i-playlist
+Play This Is: Animal Collective please#!#PlayMusic#!#o b-playlist i-playlist i-playlist i-playlist o
+play the latest  melody from Cliff Edwards on Deezer#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+play any sixties  song#!#PlayMusic#!#o o b-year b-music_item
+Play a top-ten  chant by Kelly Groucutt from 1964#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-year
+Play Intense Studying playlist on Itunes .#!#PlayMusic#!#o b-playlist i-playlist o o b-service o
+Play some Mf Doom from the sixties on pandora .#!#PlayMusic#!#o o b-artist i-artist o o b-year o b-service o
+Can you play a song off the album , jungle#!#PlayMusic#!#o o o o b-music_item o o b-music_item o b-album
+play a theme from 1985 by Patrick Cowley#!#PlayMusic#!#o o b-music_item o b-year o b-artist i-artist
+play songs by Gamble Rogers#!#PlayMusic#!#o o o b-artist i-artist
+I want to hear theme songs from zeebra from the sixties on Slacker#!#PlayMusic#!#o o o o b-music_item o o b-artist o o b-year o b-service
+Play a tune by Layne Staley#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+play music by Amii Stewart with Itunes#!#PlayMusic#!#o o o b-artist i-artist o b-service
+Play Tanti Auguri A Te from Bruce Gilbert#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+I want to listen to nineties  chant songs#!#PlayMusic#!#o o o o o b-year b-music_item o
+Play some Paulinho Da Viola from 1965 .#!#PlayMusic#!#o o b-artist i-artist i-artist o b-year o
+I want to listen to an album sorted by last , open Google Music and play Paulinho Da Viola .#!#PlayMusic#!#o o o o o o b-music_item o o b-sort o o b-service i-service o o b-artist i-artist i-artist o
+play the greatest  james yorkston  song#!#PlayMusic#!#o o b-sort b-artist i-artist b-music_item
+I want to hear the Live At Slane Castle  album by Haifa Wehbe#!#PlayMusic#!#o o o o o b-album i-album i-album i-album b-music_item o b-artist i-artist
+Play symphony music from Joe Dolce#!#PlayMusic#!#o b-music_item o o b-artist i-artist
+play some twenties  movement tunes from the last  Olga Souza#!#PlayMusic#!#o o b-year b-music_item o o o b-sort b-artist i-artist
+play Dick Marx#!#PlayMusic#!#o b-artist i-artist
+play The Song Remains The Same with Pandora#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-service
+Play the newest  chant by John Doyle on Zvooq#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+Play Anweshaa by the new first.#!#PlayMusic#!#o b-artist o o b-sort o
+Can you play some Andrew Cash music on Slacker#!#PlayMusic#!#o o o o b-artist i-artist o o b-service
+Play top-50  eighties  theme from Alain Caron#!#PlayMusic#!#o b-sort b-year b-music_item o b-artist i-artist
+Play me a song from 2008#!#PlayMusic#!#o o o b-music_item o b-year
+I want to hear music on Itunes#!#PlayMusic#!#o o o o o o b-service
+Play fourties  soundtrack from Hamish Maccunn#!#PlayMusic#!#o b-year b-music_item o b-artist i-artist
+Play fifties music on Deezer#!#PlayMusic#!#o b-year o o b-service
+Play a Loretta Lynn  tune on Groove Shark#!#PlayMusic#!#o o b-artist i-artist b-music_item o b-service i-service
+Play sugar baby by frank beard#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play a song on zvooq#!#PlayMusic#!#o o b-music_item o b-service
+Play Divine from Vinnie Roslin#!#PlayMusic#!#o b-track o b-artist i-artist
+Play something by grandmaster flash & the furious five on youtube#!#PlayMusic#!#o o o b-artist i-artist i-artist i-artist i-artist i-artist o b-service
+Play the greatest  Nicholaus Arson  concerto from around 2000#!#PlayMusic#!#o o b-sort b-artist i-artist b-music_item o o b-year
+play No More Sorrow#!#PlayMusic#!#o b-track i-track i-track
+play something from the twenties on Lastfm#!#PlayMusic#!#o o o o b-year o b-service
+play the album  Sauna on Zvooq#!#PlayMusic#!#o o b-music_item b-album o b-service
+Play something on my Classic Jazz Funk playlist on Zvooq#!#PlayMusic#!#o o o o b-playlist i-playlist i-playlist o o b-service
+Play track  Cabbage by Keiji Haino#!#PlayMusic#!#o b-music_item b-track o b-artist i-artist
+Play some music by beverley martyn#!#PlayMusic#!#o o o o b-artist i-artist
+Play me a concerto by Jethro Burns from Zvooq#!#PlayMusic#!#o o o b-music_item o b-artist i-artist o b-service
+Play Liubi, Liubi, I Love You by Farah Asyikin Binti Zulkifli on Netflix#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-artist i-artist i-artist i-artist o b-service
+Use Last Fm to play artist Kawabata Makoto from their record#!#PlayMusic#!#o b-service i-service o o o b-artist i-artist o o b-music_item
+Play me some folklore music#!#PlayMusic#!#o o o b-genre o
+play Paula Campbell music from 1993#!#PlayMusic#!#o b-artist i-artist o o b-year
+Play playlist Chilled R&B#!#PlayMusic#!#o o b-playlist i-playlist
+Play some fifties music by Chris Brown .#!#PlayMusic#!#o o b-year o o b-artist i-artist o
+Play music on Groove Shark .#!#PlayMusic#!#o o o b-service i-service o
+Play the Busco Un Pueblo  album#!#PlayMusic#!#o o b-album i-album i-album b-music_item
+Play a record by Black Wall Street Records#!#PlayMusic#!#o o b-music_item o b-artist i-artist i-artist i-artist
+Play my Hot 50 playlist.#!#PlayMusic#!#o o b-playlist i-playlist o
+Play me a Jill Scott  sound track on deezer#!#PlayMusic#!#o o o b-artist i-artist b-music_item i-music_item o b-service
+Can you play a top  song from a chyi chin  concerto#!#PlayMusic#!#o o o o b-sort b-music_item o o b-artist i-artist b-music_item
+Play a song from 2003#!#PlayMusic#!#o o b-music_item o b-year
+Play some art punk .#!#PlayMusic#!#o o b-genre i-genre o
+Can I hear tod ashley music from 1953 ?#!#PlayMusic#!#o o o b-artist i-artist o o b-year o
+Play the song  Waar Is De Zon on Slacker#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track o b-service
+Play music which has humour on Youtube .#!#PlayMusic#!#o o o o b-genre o b-service o
+Play me the most popular  Arthur Johnston  song#!#PlayMusic#!#o o o b-sort i-sort b-artist i-artist b-music_item
+Please play an album from 1987#!#PlayMusic#!#o o o b-music_item o b-year
+play Tonight Only! by Nastya Kamenskih#!#PlayMusic#!#o b-album i-album o b-artist i-artist
+Play songs by Naomi Schemer#!#PlayMusic#!#o o o b-artist i-artist
+play Slacker tunes by Smog from movement in 2015#!#PlayMusic#!#o b-service o o b-artist o b-music_item o b-year
+Play me Sun Ra songs from the fifties#!#PlayMusic#!#o o b-artist i-artist o o o b-year
+Play the top fifty  soundtrack from the twenties .#!#PlayMusic#!#o o b-sort i-sort b-music_item o o b-year o
+Play music by Don Cherry .#!#PlayMusic#!#o o o b-artist i-artist o
+Play Night Electric Night on Iheart#!#PlayMusic#!#o b-album i-album i-album o b-service
+Play the album  Killer Instinkt#!#PlayMusic#!#o o b-music_item b-album i-album
+I want to hear the latest  twenties  album from Kyle Riabko#!#PlayMusic#!#o o o o o b-sort b-year b-music_item o b-artist i-artist
+Can you play that last  ep from the twenties#!#PlayMusic#!#o o o o b-sort b-music_item o o b-year
+play David Banner on Netflix#!#PlayMusic#!#o b-artist i-artist o b-service
+Play some Maynard James Keenan songs from Scenes From The Big Chair#!#PlayMusic#!#o o b-artist i-artist i-artist o o b-album i-album i-album i-album i-album
+Sort eighties  ep from the last#!#PlayMusic#!#o b-year b-music_item o o b-sort
+Play a top five  Jonny Buckland  symphony from around 1989#!#PlayMusic#!#o o b-sort i-sort b-artist i-artist b-music_item o o b-year
+play Spotify#!#PlayMusic#!#o b-service
+Can you play some eighties music#!#PlayMusic#!#o o o o b-year o
+I want to hear music by Madeleine Peyroux from 1991 on Youtube .#!#PlayMusic#!#o o o o o o b-artist i-artist o b-year o b-service o
+play good music by General Woo on Deezer#!#PlayMusic#!#o b-sort o o b-artist i-artist o b-service
+Play my Hype playlist on Youtube .#!#PlayMusic#!#o o b-playlist o o b-service o
+play some seventies  Dj Colette#!#PlayMusic#!#o o b-year b-artist i-artist
+play music from 1950#!#PlayMusic#!#o o o b-year
+Play music from 2012 on google music#!#PlayMusic#!#o o o b-year o b-service i-service
+Play me the greatest  Howard Levy  song#!#PlayMusic#!#o o o b-sort b-artist i-artist b-music_item
+Play playlist riveting #!#PlayMusic#!#o o b-playlist
+I want to hear a top five  ballad from 2002#!#PlayMusic#!#o o o o o b-sort i-sort b-music_item o b-year
+i wanna listen to a the top-twenty  track of Denniz Pop in Pandora#!#PlayMusic#!#o o o o o o b-sort b-music_item o b-artist i-artist o b-service
+play a movement from top-20  1983 by Baruch Chait#!#PlayMusic#!#o o b-music_item o b-sort b-year o b-artist i-artist
+Play my springtime playlist.#!#PlayMusic#!#o o b-playlist o
+I want to hear that tune from 2010#!#PlayMusic#!#o o o o o b-music_item o b-year
+Play Zvooq#!#PlayMusic#!#o b-service
+Play the album  21st Century Live by Chet Lam on Itunes .#!#PlayMusic#!#o o b-music_item b-album i-album i-album o b-artist i-artist o b-service o
+Can you play music from 2003 on Netflix#!#PlayMusic#!#o o o o o b-year o b-service
+Play a native us  song on Last Fm#!#PlayMusic#!#o o b-genre i-genre b-music_item o b-service i-service
+play my De Camino playlist#!#PlayMusic#!#o o b-playlist i-playlist o
+Play my Trapeo playlist.#!#PlayMusic#!#o o b-playlist o
+Play some new age music#!#PlayMusic#!#o o b-genre i-genre o
+I want to hear any top five music from Gene Autry#!#PlayMusic#!#o o o o o b-sort i-sort o o b-artist i-artist
+play music by Vybz Kartel#!#PlayMusic#!#o o o b-artist i-artist
+Can I hear the latest music from Bahar Kizil ?#!#PlayMusic#!#o o o o b-sort o o b-artist i-artist o
+play the top-twenty  tune by Masaharu Fukuyama on Slacker#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+Play Humour#!#PlayMusic#!#o b-genre
+Play movement music from 1954#!#PlayMusic#!#o b-music_item o o b-year
+I want to hear the Fear The Boom And Bust  song from haruka shimotsuki off of Spotify#!#PlayMusic#!#o o o o o b-track i-track i-track i-track i-track b-music_item o b-artist i-artist o o b-service
+I'd like to hear songs from Iheart#!#PlayMusic#!#o o o o o o b-service
+in Google Music play the top singles released in 1972#!#PlayMusic#!#o b-service i-service o o b-sort o o o b-year
+Play the greatest  1966  album out there#!#PlayMusic#!#o o b-sort b-year b-music_item o o
+I want to hear symphony songs from Rebecca Cartwright on Last Fm#!#PlayMusic#!#o o o o b-music_item o o b-artist i-artist o b-service i-service
+Play 1958 music#!#PlayMusic#!#o b-year o
+play classic rock on Slacker#!#PlayMusic#!#o b-genre i-genre o b-service
+PLpay the top ten  track from Asia Nitollano on spotify .#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist o b-service o
+Play the top-twenty from Alexander Braginsky .#!#PlayMusic#!#o o b-sort o b-artist i-artist o
+I'd like to listen to iheart radio's chill out playlist please.#!#PlayMusic#!#o o o o o b-service o b-playlist i-playlist o o
+Play a melody by avery storm .#!#PlayMusic#!#o o b-music_item o b-artist i-artist o
+Play the top 10 by Sankha Chatterjee .#!#PlayMusic#!#o o b-sort i-sort o b-artist i-artist o
+Play music by Nick La Rocca#!#PlayMusic#!#o o o b-artist i-artist i-artist
+Play my funtime playlist on lastfm .#!#PlayMusic#!#o o b-playlist o o b-service o
+Play the track  That Would Be Something from Eden Ahbez#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track o b-artist i-artist
+listen to tei  movement from most popular  eighties music#!#PlayMusic#!#o o b-artist b-music_item o b-sort i-sort b-year o
+Play most popular from Nil Burak on Slacker#!#PlayMusic#!#o b-sort i-sort o b-artist i-artist o b-service
+Play the most popular  1956  record .#!#PlayMusic#!#o o b-sort i-sort b-year b-music_item o
+Play a 1950  album on Iheart#!#PlayMusic#!#o o b-year b-music_item o b-service
+Will you play my Nuestros 80 playlist#!#PlayMusic#!#o o o o b-playlist i-playlist o
+Play Dave Mason 's soundtrack on Last Fm .#!#PlayMusic#!#o b-artist i-artist o b-music_item o b-service i-service o
+play some Annie Herring  beat street on itunes#!#PlayMusic#!#o o b-artist i-artist b-album i-album o b-service
+Open Netflix and play Kan Man Gifta Sig I Jeans ?#!#PlayMusic#!#o b-service o o b-track i-track i-track i-track i-track i-track o
+Play some music on Vimeo .#!#PlayMusic#!#o o o o b-service o
+Play the track  Siberian Khatru on zvooq#!#PlayMusic#!#o o b-music_item b-track i-track o b-service
+play some Folk tunes#!#PlayMusic#!#o o b-genre o
+Play a 1978  track on Slacker#!#PlayMusic#!#o o b-year b-music_item o b-service
+Play some music by Mutlu#!#PlayMusic#!#o o o o b-artist
+Play Dj Scratch 's eighties music on Iheart .#!#PlayMusic#!#o b-artist i-artist o b-year o o b-service o
+Play The Cross And The Crucible by Angela Au Man Sze on Google Music#!#PlayMusic#!#o b-album i-album i-album i-album i-album o b-artist i-artist i-artist i-artist o b-service i-service
+Play some happy gabber .#!#PlayMusic#!#o o b-genre i-genre o
+I want to hear some psychedelic rock#!#PlayMusic#!#o o o o o b-genre i-genre
+Play the soundtrack that Tom Bellamy contributed to#!#PlayMusic#!#o o b-music_item o b-artist i-artist o o
+I want to hear Steven Harwell from the thirties#!#PlayMusic#!#o o o o b-artist i-artist o o b-year
+play music from the twenties with Slacker#!#PlayMusic#!#o o o o b-year o b-service
+Play 1958 by wayne petti#!#PlayMusic#!#o b-year o b-artist i-artist
+Play something from 1985 by Billy Werner#!#PlayMusic#!#o o o b-year o b-artist i-artist
+Play me a 1958  adam yauch  concerto on Groove Shark#!#PlayMusic#!#o o o b-year b-artist i-artist b-music_item o b-service i-service
+Play prints in the stone by Helen Baylor#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist
+play the last  1957  movement#!#PlayMusic#!#o o b-sort b-year b-music_item
+Play the most popular  Grace Slick  song that has a symphony sound#!#PlayMusic#!#o o b-sort i-sort b-artist i-artist b-music_item o o o b-music_item i-music_item
+I want to hear some acid punk music#!#PlayMusic#!#o o o o o b-genre i-genre o
+Play some music from Miss Platnum#!#PlayMusic#!#o o o o b-artist i-artist
+play Christina Milian  latest music#!#PlayMusic#!#o b-artist i-artist b-sort o
+Play music from the seventies#!#PlayMusic#!#o o o o b-year
+play a 2006  chant#!#PlayMusic#!#o o b-year b-music_item
+Play some Mike Burney on Google Music .#!#PlayMusic#!#o o b-artist i-artist o b-service i-service o
+Play a melody from Leigh Nash using Lastfm#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-service
+Play me an eighties  song by Wes Dakus#!#PlayMusic#!#o o o b-year b-music_item o b-artist i-artist
+Play Post Garage Wave Revival playlist.#!#PlayMusic#!#o b-playlist i-playlist i-playlist i-playlist o
+Play Richard Fortus ' Live Collection .#!#PlayMusic#!#o b-artist i-artist o b-album i-album o
+play some dance on Groove Shark#!#PlayMusic#!#o o b-genre o b-service i-service
+play the most popular  album on Google Music by sasu ripatti#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-service i-service o b-artist i-artist
+I want to hear any tune from the twenties#!#PlayMusic#!#o o o o o b-music_item o o b-year
+Play Jono El Grande from the thirties#!#PlayMusic#!#o b-artist i-artist i-artist o o b-year
+Play blues on Vimeo#!#PlayMusic#!#o b-genre o b-service
+Play some fourties music on Zvooq#!#PlayMusic#!#o o b-year o o b-service
+play Wanted by Erykah Badu#!#PlayMusic#!#o b-track o b-artist i-artist
+Play some Christian Rock#!#PlayMusic#!#o o b-genre i-genre
+Play some Retro music.#!#PlayMusic#!#o o b-genre o
+Play some music from the twenties .#!#PlayMusic#!#o o o o o b-year o
+Play Mea Culpa by Rahim Shah#!#PlayMusic#!#o b-album i-album o b-artist i-artist
+Play Acid Punk music.#!#PlayMusic#!#o b-genre i-genre o
+Play Funky Heavy Bluesy#!#PlayMusic#!#o b-playlist i-playlist i-playlist
+Play me a song from 1972 by Sweet Emma Barrett#!#PlayMusic#!#o o o b-music_item o b-year o b-artist i-artist i-artist
+Play The Birds And The Bees by Ceca .#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-artist o
+play me music by Whip with Zvooq#!#PlayMusic#!#o o o o b-artist o b-service
+Play me a song by Teitur Lassen on Groove Shark#!#PlayMusic#!#o o o b-music_item o b-artist i-artist o b-service i-service
+Play the latest  ep by Joel Hastings on Itunes .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service o
+Play Rap Album One by Gene Vincent .#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist o
+Play the last  ep from 1999#!#PlayMusic#!#o o b-sort b-music_item o b-year
+I'd like to hear Don Airey 's Gonna Raise Hell#!#PlayMusic#!#o o o o b-artist i-artist o b-track i-track i-track
+Can you play some music by andrew diamond#!#PlayMusic#!#o o o o o o b-artist i-artist
+I want to hear Nokko 's songs from the twenties#!#PlayMusic#!#o o o o b-artist o o o o b-year
+Play thirties  concerto music on Google Music#!#PlayMusic#!#o b-year b-music_item o o b-service i-service
+play Netflix tunes from 2003 on an album#!#PlayMusic#!#o b-service o o b-year o o b-music_item
+Play cheerful playlist#!#PlayMusic#!#o b-playlist o
+play some Kansas Joe Mccoy#!#PlayMusic#!#o o b-artist i-artist i-artist
+Play some theme songs from the fourties#!#PlayMusic#!#o o b-music_item o o o b-year
+Play some folk-rock music#!#PlayMusic#!#o o b-genre o
+Play the latest  1973  album by Peter Derose .#!#PlayMusic#!#o o b-sort b-year b-music_item o b-artist i-artist o
+Play some Sabah from the eighties#!#PlayMusic#!#o o b-artist o o b-year
+Play the greatest  soundtrack by Jesse Harms .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o
+Use the service Zvooq to play merengue music#!#PlayMusic#!#o o o b-service o o b-genre o
+Can you play some music on Youtube#!#PlayMusic#!#o o o o o o b-service
+Play a sound track from 1952 .#!#PlayMusic#!#o o b-music_item i-music_item o b-year o
+Play a song of I Myself And Me on Youtube#!#PlayMusic#!#o o b-music_item o b-album i-album i-album i-album o b-service
+Can you play me the latest  theme song by Warren Vache#!#PlayMusic#!#o o o o o b-sort b-music_item i-music_item o b-artist i-artist
+play Sivamani#!#PlayMusic#!#o b-artist
+Can you play the greatest  sarah brightman  song#!#PlayMusic#!#o o o o b-sort b-artist i-artist b-music_item
+Play Techno on Lastfm#!#PlayMusic#!#o b-genre o b-service
+play new music by Elmore James with google music#!#PlayMusic#!#o b-sort o o b-artist i-artist o b-service i-service
+play the song  Shine A Light#!#PlayMusic#!#o o b-music_item b-track i-track i-track
+Play music on Spotify .#!#PlayMusic#!#o o o b-service o
+Play me a song by Avispa Music from 1965#!#PlayMusic#!#o o o b-music_item o b-artist i-artist o b-year
+Play the top twenty  chant by Wise .#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist o
+Please play Jim Martin on Vimeo .#!#PlayMusic#!#o o b-artist i-artist o b-service o
+play ep by Arjen Anthony Lucassen#!#PlayMusic#!#o b-music_item o b-artist i-artist i-artist
+Play my Ãxitos EspaÃ±a playlist#!#PlayMusic#!#o o b-playlist i-playlist o
+play zvooq  Southern Gothic#!#PlayMusic#!#o b-service b-playlist i-playlist
+I want to hear a Joel Hastings  melody .#!#PlayMusic#!#o o o o o b-artist i-artist b-music_item o
+play a Morton Downey  record with Slacker#!#PlayMusic#!#o o b-artist i-artist b-music_item o b-service
+play Frankie Laine#!#PlayMusic#!#o b-artist i-artist
+Play my Frescura Indie playlist#!#PlayMusic#!#o o b-playlist i-playlist o
+play the top five songs by Gad Elbaz#!#PlayMusic#!#o o b-sort i-sort o o b-artist i-artist
+Use Youtube to play music from Dorothy Ashby from the year 2002#!#PlayMusic#!#o b-service o o o o b-artist i-artist o o o b-year
+Play some alternative music on Vimeo#!#PlayMusic#!#o o b-genre o o b-service
+play Chance Of A Lifetime on Zvooq#!#PlayMusic#!#o b-track i-track i-track i-track o b-service
+Play some chant music from 2008 .#!#PlayMusic#!#o o b-music_item o o b-year o
+play Fill Yourself With Music by Ray Manzarek#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist
+Play Contigo En La Distancia#!#PlayMusic#!#o b-track i-track i-track i-track
+play some dream music#!#PlayMusic#!#o o b-genre o
+I want to hear music on my Slacker app#!#PlayMusic#!#o o o o o o o b-service o
+play an eighties  song by Ler Lalonde#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+Play the next ep by Video Game Pianist on netflix#!#PlayMusic#!#o o o b-music_item o b-artist i-artist i-artist o b-service
+Play a music theme by Anna Nikolajewna Jessipowa#!#PlayMusic#!#o o o b-music_item o b-artist i-artist i-artist
+I want to play music off Deezer#!#PlayMusic#!#o o o o o o b-service
+Play some chanson music.#!#PlayMusic#!#o o b-genre o
+Play my Trabajo Relax playlist#!#PlayMusic#!#o o b-playlist i-playlist o
+Play the latest music by Martin Luther Mccoy#!#PlayMusic#!#o o b-sort o o b-artist i-artist i-artist
+I want to hear some twenties music from Billy Sheehan#!#PlayMusic#!#o o o o o b-year o o b-artist i-artist
+Play some songs from 1958#!#PlayMusic#!#o o o o b-year
+Play some Don Ho on Netflix#!#PlayMusic#!#o o b-artist i-artist o b-service
+play a new  soundtrack by Benjamin Darvill on Groove Shark#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service i-service
+Play some music on Slacker#!#PlayMusic#!#o o o o b-service
+play the top twenty  tracks of Ron Jarzombek#!#PlayMusic#!#o o b-sort i-sort b-playlist o b-artist i-artist
+Play the Late Night Jazz  soundtrack on Zvooq .#!#PlayMusic#!#o o b-playlist i-playlist i-playlist b-music_item o b-service o
+Play me a tune by john clayton#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+I want to hear some music from Spotify#!#PlayMusic#!#o o o o o o o b-service
+Open Deezer and play InyecciÃ³n Musical#!#PlayMusic#!#o b-service o o b-playlist i-playlist
+can you play some weird music from the noise genre#!#PlayMusic#!#o o o o o o o o b-genre o
+Play Russell Morris 's The Singer And The Song on Netflix .#!#PlayMusic#!#o b-artist i-artist o b-album i-album i-album i-album i-album o b-service o
+Play Larry Graham  sound track#!#PlayMusic#!#o b-artist i-artist b-music_item i-music_item
+Play my Women of Rock playlist.#!#PlayMusic#!#o o b-playlist i-playlist i-playlist o
+play Roland Alphonso tunes that are most popular#!#PlayMusic#!#o b-artist i-artist o o o b-sort i-sort
+Play Ramakadha by Karl Davydov please#!#PlayMusic#!#o b-track o b-artist i-artist o
+Can you play a sound track from 1963 ?#!#PlayMusic#!#o o o o b-music_item i-music_item o b-year o
+Play a tune by Mc Hawking#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Would you please play me a symphony from 1995#!#PlayMusic#!#o o o o o o b-music_item o b-year
+play Google Music tunes#!#PlayMusic#!#o b-service i-service o
+Play a melody by Shada Hassoun#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+play the Ocelot  record using Zvooq#!#PlayMusic#!#o o b-artist b-music_item o b-service
+Open Lastfm and start playing whatever#!#PlayMusic#!#o b-service o o o o
+Play a 1958  soundtrack by Rudolf Schenker on Netflix .#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service o
+Lets hear some Dawood Sarkhosh from their The Power Of Your Love  album from Groove Shark#!#PlayMusic#!#o o o b-artist i-artist o o b-album i-album i-album i-album i-album b-music_item o b-service i-service
+Play a popular  ballad by Amanda#!#PlayMusic#!#o o b-sort b-music_item o b-artist
+Play While We Were Waiting by Sippie Wallace on Vimeo#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist o b-service
+Play andrew lloyd webber 's good  tune on zvooq .#!#PlayMusic#!#o b-artist i-artist i-artist o b-sort b-music_item o b-service o
+Please play something on Last Fm#!#PlayMusic#!#o o o o b-service i-service
+play 1960  chant music by Hermann Baumann#!#PlayMusic#!#o b-year b-music_item o o b-artist i-artist
+play Bill Evans  album  The Best Of The 12" Mixes#!#PlayMusic#!#o b-artist i-artist b-music_item b-album i-album i-album i-album i-album i-album
+Play play Lodge by Alkabli on lastfm .#!#PlayMusic#!#o o b-album o b-artist o b-service o
+play a sixties  song by George Sanger#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+Play Deezer#!#PlayMusic#!#o b-service
+Play a melody from the nineties on Google Music#!#PlayMusic#!#o o b-music_item o o b-year o b-service i-service
+Play Still Life 1 #!#PlayMusic#!#o b-album i-album i-album
+Play a song by Alasdair Roberts from 1996#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-year
+Play the album  Axum#!#PlayMusic#!#o o b-music_item b-album
+I want to hear the Jody Williams  sound track#!#PlayMusic#!#o o o o o b-artist i-artist b-music_item i-music_item
+Play Ik Hou Van Jou by Elena Temnikova#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+play some Stephen Jones on Youtube#!#PlayMusic#!#o o b-artist i-artist o b-service
+Play the most popular  Johnny Clarke on Deezer .#!#PlayMusic#!#o o b-sort i-sort b-artist i-artist o b-service o
+Play some tango .#!#PlayMusic#!#o o b-genre o
+Play Eddie Meduza from the thirties#!#PlayMusic#!#o b-artist i-artist o o b-year
+play satire music#!#PlayMusic#!#o b-genre o
+I'd like to hear one of Eric Clapton 's most popular  melody on Pandora .#!#PlayMusic#!#o o o o o o b-artist i-artist o b-sort i-sort b-music_item o b-service o
+Please play a song by Ahmad Jamal#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+play Vivian Stanshall from 1962#!#PlayMusic#!#o b-artist i-artist o b-year
+Play a nineties  tune by Sugar Minott on Netflix#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service
+Play music from 1977#!#PlayMusic#!#o o o b-year
+Play some music by Frayser Boy .#!#PlayMusic#!#o o o o b-artist i-artist o
+Use Itunes to play a soundtrack from the year 1954#!#PlayMusic#!#o b-service o o o b-music_item o o o b-year
+play Deezer tunes Are & Be#!#PlayMusic#!#o b-service o b-playlist i-playlist i-playlist
+Please play a song off the Curtis Lee  album  Rough Diamonds#!#PlayMusic#!#o o o b-music_item o o b-artist i-artist b-music_item b-album i-album
+play a chant by Mike Jones#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play me a Patrick Cowley  ballad#!#PlayMusic#!#o o o b-artist i-artist b-music_item
+Play Elastic Love by Junior Marvin#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play some music from 2011 on lastfm #!#PlayMusic#!#o o o o b-year o b-service
+Play These Four Walls by Yummy Bingham .#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist o
+Can you play something from 1966 by Mc Ren on Spotify#!#PlayMusic#!#o o o o o b-year o b-artist i-artist o b-service
+play the album by Paul Barker playing the greatest from 1978#!#PlayMusic#!#o o b-music_item o b-artist i-artist o o b-sort o b-year
+Can I listen to Dj Vibe 's top 10 ?#!#PlayMusic#!#o o o o b-artist i-artist o b-sort i-sort o
+play a concerto from sam sparro#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Lets hear some booty bass#!#PlayMusic#!#o o o b-genre i-genre
+Play me a 1974  tune on Slacker#!#PlayMusic#!#o o o b-year b-music_item o b-service
+Play a top five  Linda Strawberry  ep#!#PlayMusic#!#o o b-sort i-sort b-artist i-artist b-music_item
+Play Henrie Mutuku  album from 1957#!#PlayMusic#!#o b-artist i-artist b-music_item o b-year
+Play the newest  ballad from Chad Urmston#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist
+play some 2002 music#!#PlayMusic#!#o o b-year o
+I want to hear that track from 1991#!#PlayMusic#!#o o o o o b-music_item o b-year
+Play me a Chris Needham  song on Vimeo#!#PlayMusic#!#o o o b-artist i-artist b-music_item o b-service
+Play some House music#!#PlayMusic#!#o o b-genre o
+play Piano Ballads on Netflix#!#PlayMusic#!#o b-playlist i-playlist o b-service
+Play me some Goa#!#PlayMusic#!#o o o b-genre
+Play slow rock music on Vimeo#!#PlayMusic#!#o b-genre i-genre o o b-service
+Play Murder The Mountains by Mana on Netflix#!#PlayMusic#!#o b-album i-album i-album o b-artist o b-service
+Play the top five  melody from 2000#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-year
+play Courting The Squall on Slacker#!#PlayMusic#!#o b-album i-album i-album o b-service
+Play a ballad from 1997 .#!#PlayMusic#!#o o b-music_item o b-year o
+Play symphony by Josh Gracin on Slacker .#!#PlayMusic#!#o b-music_item o b-artist i-artist o b-service o
+I want to hear a symphony from Kano#!#PlayMusic#!#o o o o o b-music_item o b-artist
+Play a song off Ian Stuart Donaldson 's Nature Nurture  album on Itunes#!#PlayMusic#!#o o b-music_item o b-artist i-artist i-artist o b-album i-album b-music_item o b-service
+play Joshua Homme  Belle And Sebastian Write About Love#!#PlayMusic#!#o b-artist i-artist b-album i-album i-album i-album i-album i-album
+Play theme music from the twenties by Tata Young#!#PlayMusic#!#o b-music_item o o o b-year o b-artist i-artist
+Can you play a song off an album by Shirley Horn#!#PlayMusic#!#o o o o b-music_item o o b-music_item o b-artist i-artist
+play top-twenty  song from 2015#!#PlayMusic#!#o b-sort b-music_item o b-year
+Play music from 1976 on Deezer#!#PlayMusic#!#o o o b-year o b-service
+Play the greatest from Win Stracke on Groove Shark .#!#PlayMusic#!#o o b-sort o b-artist i-artist o b-service i-service o
+I want to hear something by Joe Dolce on Google Music#!#PlayMusic#!#o o o o o o b-artist i-artist o b-service i-service
+Play me a popular  song by Koichi Domoto#!#PlayMusic#!#o o o b-sort b-music_item o b-artist i-artist
+Play Saturday Nights & Sunday Mornings#!#PlayMusic#!#o b-album i-album i-album i-album i-album
+Play the album  Have Another Ball#!#PlayMusic#!#o o b-music_item b-album i-album i-album
+Play music from Clark Kent in the year 1987#!#PlayMusic#!#o o o b-artist i-artist o o o b-year
+Play Seasons In The Sun by Rosco Gordon on iheart#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist o b-service
+play some Origa on Google Music#!#PlayMusic#!#o o b-artist o b-service i-service
+Play Brian Clifton off Groove Shark .#!#PlayMusic#!#o b-artist i-artist o b-service i-service o
+play Neutrons by Seun Kuti#!#PlayMusic#!#o b-album o b-artist i-artist
+Play some music from 1985 by Rolf Harris#!#PlayMusic#!#o o o o b-year o b-artist i-artist
+Play the album  Will Rap Over Hard Rock For Food#!#PlayMusic#!#o o b-music_item b-album i-album i-album i-album i-album i-album i-album
+Play Donna Summer#!#PlayMusic#!#o b-artist i-artist
+Please use pandora to play a record from 1993#!#PlayMusic#!#o o b-service o o o b-music_item o b-year
+Play a record from the year 1979#!#PlayMusic#!#o o b-music_item o o o b-year
+play playlist The Realest Down South#!#PlayMusic#!#o o b-playlist i-playlist i-playlist i-playlist
+Play some steve boyett  chant music#!#PlayMusic#!#o o b-artist i-artist b-music_item o
+play a track from 2004#!#PlayMusic#!#o o b-music_item o b-year
+play Vimeo  2009 by Desmond Dekker#!#PlayMusic#!#o b-service b-year o b-artist i-artist
+Play music by Raheem Devaughn .#!#PlayMusic#!#o o o b-artist i-artist o
+Play some 1999  symphony from Minami Takahashi#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+Use Groove Shark to play the Today And Tomorrow  album#!#PlayMusic#!#o b-service i-service o o o b-album i-album i-album b-music_item
+Play some Mark Tremonti from the thirties .#!#PlayMusic#!#o o b-artist i-artist o o b-year o
+play the greatest  1972  album by Wes Dakus#!#PlayMusic#!#o o b-sort b-year b-music_item o b-artist i-artist
+Play a 2013  song on Groove Shark#!#PlayMusic#!#o o b-year b-music_item o b-service i-service
+Play some theme songs from 1974#!#PlayMusic#!#o o b-music_item o o b-year
+Play the top  caleigh peters .#!#PlayMusic#!#o o b-sort b-artist i-artist o
+Play new  Teo Macero#!#PlayMusic#!#o b-sort b-artist i-artist
+play a Karin Dreijer Andersson  soundtrack on Groove Shark#!#PlayMusic#!#o o b-artist i-artist i-artist b-music_item o b-service i-service
+Play my Mellow Beats playlist please#!#PlayMusic#!#o o b-playlist i-playlist o o
+Play me the greatest  track of 1966#!#PlayMusic#!#o o o b-sort b-music_item o b-year
+Play me a Frank Farian  ep#!#PlayMusic#!#o o o b-artist i-artist b-music_item
+Play music from Art Porter Junior movie sound track using Vimeo#!#PlayMusic#!#o o o b-artist i-artist i-artist o b-music_item i-music_item o b-service
+Play a theme from Walerij Leontjew#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+I want to listen to Merrily We Roll Along by Marko Desantis .#!#PlayMusic#!#o o o o o b-track i-track i-track i-track o b-artist i-artist o
+play Asia Nitollano using itunes#!#PlayMusic#!#o b-artist i-artist o b-service
+Play top  Martin Solveig on deezer#!#PlayMusic#!#o b-sort b-artist i-artist o b-service
+Play any song from Rebecca Hewitt#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play the Mister Music Man by Gene De Paul .#!#PlayMusic#!#o o b-track i-track i-track o b-artist i-artist i-artist o
+Let me hear the top  album by the artist, Skin .#!#PlayMusic#!#o o o o b-sort b-music_item o o o b-artist o
+Play Harel Skaat#!#PlayMusic#!#o b-artist i-artist
+Play some John Oates on Youtube .#!#PlayMusic#!#o o b-artist i-artist o b-service o
+Play me an ep from 2005 .#!#PlayMusic#!#o o o b-music_item o b-year o
+Please play me a top  nineties  theme song#!#PlayMusic#!#o o o o b-sort b-year b-music_item i-music_item
+play the track  Asleep In The Deep#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track
+Can you play a melody from the fifties on Last Fm ?#!#PlayMusic#!#o o o o b-music_item o o b-year o b-service i-service o
+play some Deezer  oldies music#!#PlayMusic#!#o o b-service b-genre o
+Play my Masters of Metal playlist on Spotify#!#PlayMusic#!#o o b-playlist i-playlist i-playlist o o b-service
+play Are & Be#!#PlayMusic#!#o b-playlist i-playlist i-playlist
+Plays some akb48 on Youtube#!#PlayMusic#!#b-album o o o b-service
+Play music from the track  My Friend on Google Music by Steve Sholes#!#PlayMusic#!#o o o o b-music_item b-track i-track o b-service i-service o b-artist i-artist
+Play teri meri by Josh White#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+play some Nastya Kamenskih on Zvooq#!#PlayMusic#!#o o b-artist i-artist o b-service
+play a 1999  track by Pete Seeger on Youtube#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service
+use Lastfm to play Attack Of The Planet Smashers#!#PlayMusic#!#o b-service o o b-album i-album i-album i-album i-album
+Play Shinehead 's music from the twenties on Slacker .#!#PlayMusic#!#o b-artist o o o o b-year o b-service o
+Play the last  sound track by Soko from around 1975#!#PlayMusic#!#o o b-sort b-music_item i-music_item o b-artist o o b-year
+Play 1958 music on Iheart#!#PlayMusic#!#o b-year o o b-service
+play Isham Jones#!#PlayMusic#!#o b-artist i-artist
+Can you play me some britpop music#!#PlayMusic#!#o o o o o b-genre o
+Play a song from 1973 .#!#PlayMusic#!#o o b-music_item o b-year o
+turn on Last Fm to listen to Chara  ballad from 1988#!#PlayMusic#!#o o b-service i-service o o o b-artist b-music_item o b-year
+Please play music off the soundtrack by Beau Jocque#!#PlayMusic#!#o o o o o b-music_item o b-artist i-artist
+Play a new  song from 1976 .#!#PlayMusic#!#o o b-sort b-music_item o b-year o
+Play the greatest  melody from Paul Wright on Pandora#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+Play Eternally by Marko Desantis on zvooq .#!#PlayMusic#!#o b-track o b-artist i-artist o b-service o
+Play The Galway Races on Netflix .#!#PlayMusic#!#o b-track i-track i-track o b-service o
+play Pandora tunes from the fourties#!#PlayMusic#!#o b-service o o o b-year
+Play top-50  Peter Frampton songs#!#PlayMusic#!#o b-sort b-artist i-artist o
+Play music off Itunes .#!#PlayMusic#!#o o o b-service o
+Play me a song from 2016#!#PlayMusic#!#o o o b-music_item o b-year
+Start playing something off Spotify#!#PlayMusic#!#o o o o b-service
+play Tom Baxter tracks#!#PlayMusic#!#o b-artist i-artist o
+Play music on the playlist Urban Hits#!#PlayMusic#!#o o o o o b-playlist i-playlist
+Play The Monkeys Have No Tails In Zamboanga on Google Music .#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track i-track o b-service i-service o
+I want to hear music from 1975#!#PlayMusic#!#o o o o o o b-year
+Play Kim Wilde by Mike Scott on Slacker#!#PlayMusic#!#o b-album i-album o b-artist i-artist o b-service
+Play anything from Hiromitsu Agatsuma off iHeart .#!#PlayMusic#!#o o o b-artist i-artist o b-service o
+play a top-fifty  1965  album by Ski#!#PlayMusic#!#o o b-sort b-year b-music_item o b-artist
+Play  music from the thirties .#!#PlayMusic#!#o o o o b-year o
+Play me the new  King Curtis music on Google Music .#!#PlayMusic#!#o o o b-sort b-artist i-artist o o b-service i-service o
+Ply best  1973  sound track#!#PlayMusic#!#o b-sort b-year b-music_item i-music_item
+Play music by Daddy Yankee#!#PlayMusic#!#o o o b-artist i-artist
+I would like to hear music from 1993#!#PlayMusic#!#o o o o o o o b-year
+Play me track  September, Gouden Roos by artist daedelus#!#PlayMusic#!#o o b-music_item b-track i-track i-track o o b-artist
+Play a concerto from the nineties#!#PlayMusic#!#o o b-music_item o o b-year
+I want to hear Major Harris 's songs from the fifties#!#PlayMusic#!#o o o o b-artist i-artist o o o o b-year
+Play me a nineties  ep#!#PlayMusic#!#o o o b-year b-music_item
+Please anything good by Chieko Ochi#!#PlayMusic#!#o o b-sort o b-artist i-artist
+Play Kk on Zvooq .#!#PlayMusic#!#o b-artist o b-service o
+Play Apbl98 by Alden Penner .#!#PlayMusic#!#o b-album o b-artist i-artist o
+Use Vimeo to play a Mark King  record from 1993#!#PlayMusic#!#o b-service o o o b-artist i-artist b-music_item o b-year
+use Deezer to play music by Junior Brown#!#PlayMusic#!#o b-service o o o o b-artist i-artist
+Play some Erin Harkes from the fifties on Lastfm .#!#PlayMusic#!#o o b-artist i-artist o o b-year o b-service o
+Play Verjamem  track by Hong Junyang .#!#PlayMusic#!#o b-track b-music_item o b-artist i-artist o
+Play music by Otis Redding .#!#PlayMusic#!#o o o b-artist i-artist o
+Please play some music for me on Netflix#!#PlayMusic#!#o o o o o o o b-service
+Play Tad Kinchla  soundtrack#!#PlayMusic#!#o b-artist i-artist b-music_item
+Play Kisaki on Pandora#!#PlayMusic#!#o b-artist o b-service
+Can you play a song from the fourties by George Martin#!#PlayMusic#!#o o o o b-music_item o o b-year o b-artist i-artist
+Play me a song by Saki Nakajima#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+Play some 1970  Antero Manninen on zvooq .#!#PlayMusic#!#o o b-year b-artist i-artist o b-service o
+Play a top  track by Janamanchi Seshadri Sarma#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist i-artist
+Use Itunes to play artist Ringo Shiina  track  In Heaven#!#PlayMusic#!#o b-service o o o b-artist i-artist b-music_item b-track i-track
+Play music by Sha Money Xl sort by good .#!#PlayMusic#!#o o o b-artist i-artist i-artist o o b-sort o
+I want to listen to the album  going back to the blue ridge mountains on iheart#!#PlayMusic#!#o o o o o o b-music_item b-album i-album i-album i-album i-album i-album i-album o b-service
+Play Someday Soon by fiona#!#PlayMusic#!#o b-track i-track o b-artist
+Play the most popular  sound track from the 2006#!#PlayMusic#!#o o b-sort i-sort b-music_item i-music_item o o b-year
+Play tuomas holopainen 's The 21 Project .#!#PlayMusic#!#o b-artist i-artist o b-album i-album i-album o
+Play Tenerife Sea by Daniel Salomon on Lastfm#!#PlayMusic#!#o b-track i-track o b-artist i-artist o b-service
+Play a top twenty sort by Akinyele .#!#PlayMusic#!#o o b-sort i-sort o o b-artist o
+Play nineties#!#PlayMusic#!#o b-year
+Play a track by Ishmon Bracey on Iheart .#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-service o
+Can you play the latest  faust  soundtrack from 1967 ?#!#PlayMusic#!#o o o o b-sort b-artist b-music_item o b-year o
+Play me the greatest  chant by Laurel Aitken on lastfm #!#PlayMusic#!#o o o b-sort b-music_item o b-artist i-artist o b-service
+Play the most popular  Coti songs on Pandora#!#PlayMusic#!#o o b-sort i-sort b-artist o o b-service
+Play some noise music on Netflix .#!#PlayMusic#!#o o b-genre o o b-service o
+Play Rob Mills  album  The Golden Archipelago .#!#PlayMusic#!#o b-artist i-artist b-music_item b-album i-album i-album o
+play melody music from the thirties#!#PlayMusic#!#o b-music_item o o o b-year
+Play some tune from 2011 on Youtube#!#PlayMusic#!#o o b-music_item o b-year o b-service
+play melody and sort the newest in Dj Format#!#PlayMusic#!#o b-music_item o o o b-sort o b-artist i-artist
+Play a record from 2010 .#!#PlayMusic#!#o o b-music_item o b-year o
+Play a melody by Adassa from the twenties#!#PlayMusic#!#o o b-music_item o b-artist o o b-year
+play 1988  chant music on Itunes#!#PlayMusic#!#o b-year b-music_item o o b-service
+play Glenn Yarbrough tunes#!#PlayMusic#!#o b-artist i-artist o
+Play Llegando a Casa playlist#!#PlayMusic#!#o b-playlist i-playlist i-playlist o
+Play me a tune by Mick Brown#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+play The Insoc Ep#!#PlayMusic#!#o b-album i-album i-album
+Play some music from the sixties#!#PlayMusic#!#o o o o o b-year
+I need to hear the new Kevin Fowler  album#!#PlayMusic#!#o o o o o o b-artist i-artist b-music_item
+Play me the newest  fourties  symphony#!#PlayMusic#!#o o o b-sort b-year b-music_item
+play Latin Dinner#!#PlayMusic#!#o b-playlist i-playlist
+Play Stefon Harris 's song .#!#PlayMusic#!#o b-artist i-artist o b-music_item o
+Play a song from 2013 .#!#PlayMusic#!#o o b-music_item o b-year o
+play 1951 tunes#!#PlayMusic#!#o b-year o
+Play Step Up Your Game by Marc Cohn .#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist o
+Play any nineties music#!#PlayMusic#!#o o b-year o
+Play the greatest  ballad from the seventies#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+Play a track by Yui on Vimeo#!#PlayMusic#!#o o b-music_item o b-artist o b-service
+Play the top five songs from Robert Lockwood Junior .#!#PlayMusic#!#o o b-sort i-sort o o b-artist i-artist i-artist o
+Play some latin music.#!#PlayMusic#!#o o b-genre o
+Plkay some sixties  movement songs from Itunes#!#PlayMusic#!#o o b-year b-music_item o o b-service
+Play me Hier Encore by greydon square#!#PlayMusic#!#o o b-track i-track o b-artist i-artist
+play In Your Eyes by gareth gates on Netflix#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+Play some music on Itunes#!#PlayMusic#!#o o o o b-service
+Play Dj Shadow 's A Love Hate Masquerade .#!#PlayMusic#!#o b-artist i-artist o b-album i-album i-album i-album o
+play Seven Steps To Heaven by Wikluh Sky#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+Play some music from Victor Kunonga .#!#PlayMusic#!#o o o o b-artist i-artist o
+play fourties  chant music on Last Fm#!#PlayMusic#!#o b-year b-music_item o o b-service i-service
+Play some 1959 songs on Iheart#!#PlayMusic#!#o o b-year o o b-service
+Play March Of The Soviet Tankmen from Gloria Gaither#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-artist i-artist
+Play music from the album  Evolution Of A Man by Joey Ramone#!#PlayMusic#!#o o o o b-music_item b-album i-album i-album i-album o b-artist i-artist
+Can you play fifties  theme music by Mohsen Chavoshi#!#PlayMusic#!#o o o b-year b-music_item o o b-artist i-artist
+play the album  Pressure Cracks with Netflix#!#PlayMusic#!#o o b-music_item b-album i-album o b-service
+Play the best  Sebastian Karlsson  melody on Youtube#!#PlayMusic#!#o o b-sort b-artist i-artist b-music_item o b-service
+Play some Oleg Anofriyev from 1960 .#!#PlayMusic#!#o o b-artist i-artist o b-year o
+Play some Joeri Basjmet .#!#PlayMusic#!#o o b-artist i-artist o
+Play Elliot Easton 's album  Beautiful#!#PlayMusic#!#o b-artist i-artist o b-music_item b-album
+use Vimeo to play De Camino a Clase playlist#!#PlayMusic#!#o b-service o o b-playlist i-playlist i-playlist i-playlist o
+Please play playlist TODO REGGAETON#!#PlayMusic#!#o o o b-playlist i-playlist
+Play me some Badass Women on Groove Shark#!#PlayMusic#!#o o o b-playlist i-playlist o b-service i-service
+Play some Antony Harding songs from the eighties#!#PlayMusic#!#o o b-artist i-artist o o o b-year
+I want to hear a nineties  track by stat quo on Deezer#!#PlayMusic#!#o o o o o b-year b-music_item o b-artist i-artist o b-service
+Play music from the seventies#!#PlayMusic#!#o o o o b-year
+play The New Timer by Augustus Pablo with Itunes#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+Play How Does It Work by Helen Carter .#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist o
+Play music from 1968 on Vimeo .#!#PlayMusic#!#o o o b-year o b-service o
+I want to hear something from Post-punk Revival#!#PlayMusic#!#o o o o o o b-genre i-genre
+Play music from the artist Joe Sample#!#PlayMusic#!#o o o o o b-artist i-artist
+Play Dave Joyal#!#PlayMusic#!#o b-artist i-artist
+Open groove shark and play Jason Mizell#!#PlayMusic#!#o b-service i-service o o b-artist i-artist
+I want to hear something from the top-fifty by Jose Pasillas#!#PlayMusic#!#o o o o o o o b-sort o b-artist i-artist
+Use service Vimeo the genre slow rock#!#PlayMusic#!#o o b-service o o b-genre i-genre
+Open Zvooq and play the best songs from Device#!#PlayMusic#!#o b-service o o o b-sort o o b-artist
+play something from 1971 by John Bonham#!#PlayMusic#!#o o o b-year o b-artist i-artist
+play primus #!#PlayMusic#!#o b-genre
+Play symphony music from 1991 by Irvin Mayfield#!#PlayMusic#!#o b-music_item o o b-year o b-artist i-artist
+play Going Down To The River on Pandora#!#PlayMusic#!#o b-album i-album i-album i-album i-album o b-service
+play 1977  good  track tunes#!#PlayMusic#!#o b-year b-sort b-music_item o
+Play the album  Jack Takes The Floor by Tom Lehrer on netflix#!#PlayMusic#!#o o b-music_item b-album i-album i-album i-album o b-artist i-artist o b-service
+Use Netflix to play music#!#PlayMusic#!#o b-service o o o
+play Sunshine Reggae on youtube#!#PlayMusic#!#o b-playlist i-playlist o b-service
+play Realization by Randy Jackson#!#PlayMusic#!#o b-album o b-artist i-artist
+Please play some Bill Evans music.#!#PlayMusic#!#o o o b-artist i-artist o
+play Safe Rock And Roll Sucks on Lastfm#!#PlayMusic#!#o b-album i-album i-album i-album i-album o b-service
+Can you play the greatest songs by Mauro Picotto#!#PlayMusic#!#o o o o b-sort o o b-artist i-artist
+Play music by Deenanath Mangeshkar#!#PlayMusic#!#o o o b-artist i-artist
+Play the best sort by Jan Robbe on pandora#!#PlayMusic#!#o o b-sort o o b-artist i-artist o b-service
+Play track  Real Talk#!#PlayMusic#!#o b-music_item b-track i-track
+Use Netflix to play In The Arms Of A Woman playlist#!#PlayMusic#!#o b-service o o b-playlist i-playlist i-playlist i-playlist i-playlist i-playlist o
+Play some 1993  concerto off of Slacker#!#PlayMusic#!#o o b-year b-music_item o o b-service
+Open Spotify and play a song from the twenties by Richard Harvey#!#PlayMusic#!#o b-service o o o b-music_item o o b-year o b-artist i-artist
+listen to Vertexguy  track#!#PlayMusic#!#o o b-artist b-music_item
+Play the most popular stuff by Tina Dico#!#PlayMusic#!#o o b-sort i-sort o o b-artist i-artist
+Play any song from 2006#!#PlayMusic#!#o o b-music_item o b-year
+Play some Sonu Niigaam from the fifties#!#PlayMusic#!#o o b-artist i-artist o o b-year
+Play a 1983  ballad on Groove Shark .#!#PlayMusic#!#o o b-year b-music_item o b-service i-service o
+Play the artist Tei  last concert on Netflix#!#PlayMusic#!#o o o b-artist b-sort o o b-service
+play 1981 tunes by Jiles Perry Richardson on Lastfm for theme music#!#PlayMusic#!#o b-year o o b-artist i-artist i-artist o b-service o b-music_item o
+Can you play some music from my road trip  album#!#PlayMusic#!#o o o o o o o b-playlist i-playlist b-music_item
+Play me a song from the fourties  movement#!#PlayMusic#!#o o o b-music_item o o b-year b-music_item
+play pandora#!#PlayMusic#!#o b-service
+Play Oj, Jelena, Jelena, Jabuka Zelena by Ler Lalonde .#!#PlayMusic#!#o b-track i-track i-track i-track i-track o b-artist i-artist o
+Play a new  ballad by Valy on Iheart#!#PlayMusic#!#o o b-sort b-music_item o b-artist o b-service
+Play Grabsteinland I by Doctor Fink on slacker radio#!#PlayMusic#!#o b-album i-album o b-artist i-artist o b-service o
+I want to hear Rock Bottom by Playa Fly on Slacker#!#PlayMusic#!#o o o o b-track i-track o b-artist i-artist o b-service
+Play an Alla Pougatcheva  ballad on Pandora#!#PlayMusic#!#o o b-artist i-artist b-music_item o b-service
+Play Pledge by Markus Grosskopf#!#PlayMusic#!#o b-album o b-artist i-artist
+Play music from 1999#!#PlayMusic#!#o o o b-year
+Play classic rock on Groove Shark#!#PlayMusic#!#o b-genre i-genre o b-service i-service
+I wish to listen to good  symphony music by mi lu bing .#!#PlayMusic#!#o o o o o b-sort b-music_item o o b-artist i-artist i-artist o
+I wish to listen to some fifties music.#!#PlayMusic#!#o o o o o o b-year o
+Play some James Cleveland .#!#PlayMusic#!#o o b-artist i-artist o
+Can you play some Synthpop music on Youtube#!#PlayMusic#!#o o o o b-genre o o b-service
+play the album  Wayning Moments by Rabbit Brown#!#PlayMusic#!#o o b-music_item b-album i-album o b-artist i-artist
+Can you play a Sammy Fain  ep#!#PlayMusic#!#o o o o b-artist i-artist b-music_item
+Use Groove Shark to play music from the eighties#!#PlayMusic#!#o b-service i-service o o o o o b-year
+Play a 2001  sound track on Deezer .#!#PlayMusic#!#o o b-year b-music_item i-music_item o b-service o
+Play the top  movement music from 1997 .#!#PlayMusic#!#o o b-sort b-music_item o o b-year o
+Play a popular  melody by Lindsay Lohan on Youtube .#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service o
+play chant music by David Cook#!#PlayMusic#!#o b-music_item o o b-artist i-artist
+Play music off Youtube .#!#PlayMusic#!#o o o b-service o
+play some Mike Porcaro#!#PlayMusic#!#o o b-artist i-artist
+I want to hear something off Fist For Fight by Rushton Moreve on Youtube#!#PlayMusic#!#o o o o o o b-album i-album i-album o b-artist i-artist o b-service
+Play the playlist Tropical Morning on Pandora#!#PlayMusic#!#o o o b-playlist i-playlist o b-service
+Play music from Hide#!#PlayMusic#!#o o o b-artist
+Play top-five  concerto music from 1992#!#PlayMusic#!#o b-sort b-music_item o o b-year
+I want to hear something eclectic#!#PlayMusic#!#o o o o o b-playlist
+Play me a Felix Kubin from No Light on Spotify#!#PlayMusic#!#o o o b-artist i-artist o b-album i-album o b-service
+Play me a track by Steve Souza#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+play Itunes  album  mondovisione#!#PlayMusic#!#o b-service b-music_item b-album
+play Punk Essentials on Zvooq#!#PlayMusic#!#o b-playlist i-playlist o b-service
+Play me a song by Hank Thompson from Moa Anbessa#!#PlayMusic#!#o o o b-music_item o b-artist i-artist o b-album i-album
+Use Spotify to play music#!#PlayMusic#!#o b-service o o o
+Play Me Against The World from Glukoza#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist
+Play some music from 1962 from Adeyto#!#PlayMusic#!#o o o o b-year o b-artist
+I want to hear Jimmy James from the thirties , play a song on Groove Shark .#!#PlayMusic#!#o o o o b-artist i-artist o o b-year o o o b-music_item o b-service i-service o
+Play any song from the eighties#!#PlayMusic#!#o o b-music_item o o b-year
+Play some movement music by Perez Prado on Iheart#!#PlayMusic#!#o o b-music_item o o b-artist i-artist o b-service
+play Ebony Bones on Itunes#!#PlayMusic#!#o b-artist i-artist o b-service
+play Innovations by Kokia#!#PlayMusic#!#o b-album o b-artist
+I Need rave  Slacker to play#!#PlayMusic#!#o o b-genre b-service o o
+play Fernando Olvera#!#PlayMusic#!#o b-artist i-artist
+Can you play something off Johan Larsson 's Travelers And Thieves#!#PlayMusic#!#o o o o o b-artist i-artist o b-album i-album i-album
+list to the most popular  Muireann Nic Amhlaoibh  song#!#PlayMusic#!#o o o b-sort i-sort b-artist i-artist i-artist b-music_item
+Open my music playlist on Youtube#!#PlayMusic#!#o o o o o b-service
+Play the top  chant music from 2014 .#!#PlayMusic#!#o o b-sort b-music_item o o b-year o
+Play music from Lastfm .#!#PlayMusic#!#o o o b-service o
+Play me a 1990  sound track#!#PlayMusic#!#o o o b-year b-music_item i-music_item
+Play the song  Long Live Love#!#PlayMusic#!#o o b-music_item b-track i-track i-track
+Play me a ballad by Dres on groove shark#!#PlayMusic#!#o o o b-music_item o b-artist o b-service i-service
+Play the top of emil de cou#!#PlayMusic#!#o o b-sort o b-artist i-artist i-artist
+play Barry Manilow from the twenties#!#PlayMusic#!#o b-artist i-artist o o b-year
+Play a seventies  Tom Thacker  ballad#!#PlayMusic#!#o o b-year b-artist i-artist b-music_item
+listen to ballad songs from the twenties#!#PlayMusic#!#o o b-music_item o o o b-year
+Play the music of melody of 1997 in Itunes#!#PlayMusic#!#o o o o b-music_item o b-year o b-service
+Can you play a chant by Butch Trucks on Spotify#!#PlayMusic#!#o o o o b-music_item o b-artist i-artist o b-service
+I want to hear music off my Indie Festival playlist#!#PlayMusic#!#o o o o o o o b-playlist i-playlist o
+Play instrumental pop#!#PlayMusic#!#o b-genre i-genre
+Play some Hong Junyang .#!#PlayMusic#!#o o b-artist i-artist o
+Play mere lapsed by Marilyn Moore .#!#PlayMusic#!#o b-track i-track o b-artist i-artist o
+Please play the most popular  ep from 1998 by Mc Frontalot #!#PlayMusic#!#o o o b-sort i-sort b-music_item o b-year o b-artist i-artist
+play some Spotify by Danni Bassan#!#PlayMusic#!#o o b-service o b-artist i-artist
+play the best  album from the seventies#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+Play music from 2016 .#!#PlayMusic#!#o o o b-year o
+I want to hear jon sholle 's stuff from 2009 on Groove Shark#!#PlayMusic#!#o o o o b-artist i-artist o o o b-year o b-service i-service
+play music by Rodney Whitaker#!#PlayMusic#!#o o o b-artist i-artist
+Please play a movement by Rupam Islam#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+play the latest  Thelma Aoyama#!#PlayMusic#!#o o b-sort b-artist i-artist
+Play some music by Karl Blau .#!#PlayMusic#!#o o o o b-artist i-artist o
+Open pandora and play the top five  melody by Hanna Sjedokowa#!#PlayMusic#!#o b-service o o o b-sort i-sort b-music_item o b-artist i-artist
+play Phil Spalding  soundtrack from the seventies#!#PlayMusic#!#o b-artist i-artist b-music_item o o b-year
+Play Dancing Through Life by Ronald Isley on spotify#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+Play a top  symphony sort form 1959 by Stuart Garrard .#!#PlayMusic#!#o o b-sort b-music_item o o b-year o b-artist i-artist o
+I want to listen to seventies music.#!#PlayMusic#!#o o o o o b-year o
+Play something by Holly Cole on lastfm #!#PlayMusic#!#o o o b-artist i-artist o b-service
+Play rhythmic#!#PlayMusic#!#o b-playlist
+Play Punk Essentials on google music#!#PlayMusic#!#o b-playlist i-playlist o b-service i-service
+Play the top-20 best  Chicane songs on Deezer#!#PlayMusic#!#o o b-sort i-sort b-artist o o b-service
+Play Songs Of Heaven by ami koshimizu#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist
+Play Dj Subroc on Itunes#!#PlayMusic#!#o b-artist i-artist o b-service
+Play a song by Tim Finn on Last Fm#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-service i-service
+Play music from the sixties#!#PlayMusic#!#o o o o b-year
+Play Oliver on pandora .#!#PlayMusic#!#o b-track o b-service o
+Play some 2011  chant music, new first, by Shaggy .#!#PlayMusic#!#o o b-year b-music_item o b-sort o o b-artist o
+play the top  song from Damon Albarn using Slacker#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+Play sixties music by giovanni battista guadagnini .#!#PlayMusic#!#o b-year o o b-artist i-artist i-artist o
+Play some music from the last album of 1988 on Lastfm#!#PlayMusic#!#o o o o o o b-music_item o b-year o b-service
+Please start playing some thirties  theme music.#!#PlayMusic#!#o o o o b-year b-music_item o
+Can I hear Anna Vissi 's new music on Pandora ?#!#PlayMusic#!#o o o b-artist i-artist o b-sort o o b-service o
+Play music by artist mark ashley#!#PlayMusic#!#o o o o b-artist i-artist
+Play the top  Maynard James Keenan .#!#PlayMusic#!#o o b-sort b-artist i-artist i-artist o
+I want to hear a top-20  chant from the twenties#!#PlayMusic#!#o o o o o b-sort b-music_item o o b-year
+Play the most popular  song by espen lind#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist
+Play Yuauea by Rick Ross#!#PlayMusic#!#o b-album o b-artist i-artist
+Play The Tyranny Of Distance by Willy Mason .#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist o
+Play a top  song by Carson Parks on Groove Shark#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service i-service
+Use Deezer to play the last  song from Lee Dorrian#!#PlayMusic#!#o b-service o o o b-sort b-music_item o b-artist i-artist
+Play some seventies music on netflix .#!#PlayMusic#!#o o b-year o o b-service o
+Play fourties  record#!#PlayMusic#!#o b-year b-music_item
+Play Chad I Ginsburg#!#PlayMusic#!#o b-artist i-artist i-artist
+Can you pull up a track on Zvooq by Graham Mcpherson#!#PlayMusic#!#o o o o o b-music_item o b-service o b-artist i-artist
+Play 1993  theme music#!#PlayMusic#!#o b-year b-music_item o
+Play something off Google Music#!#PlayMusic#!#o o o b-service i-service
+Open youtube#!#PlayMusic#!#o b-service
+Play some music on spotify#!#PlayMusic#!#o o o o b-service
+Play the song  Drifting On A Reed by Bobby G#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track o b-artist i-artist
+Play new  movement from Mike Oldfield on Vimeo#!#PlayMusic#!#o b-sort b-music_item o b-artist i-artist o b-service
+Play Foundling by Jean Grae on Vimeo .#!#PlayMusic#!#o b-album o b-artist i-artist o b-service o
+Play some acapella music on Iheart#!#PlayMusic#!#o o b-genre o o b-service
+Play some sixties music by gaudi on last fm#!#PlayMusic#!#o o b-year o o b-artist o b-service i-service
+Play a tune or two from Kansas City, Missouri#!#PlayMusic#!#o o b-music_item o o o b-artist i-artist i-artist
+play some songs from the fourties by yoshiki fukuyama#!#PlayMusic#!#o o o o o b-year o b-artist i-artist
+play Angela Winbush  ep that is popular#!#PlayMusic#!#o b-artist i-artist b-music_item o o b-sort
+play To Be Still#!#PlayMusic#!#o b-album i-album i-album
+I want to hear Gloryhole from Mani off of Lastfm#!#PlayMusic#!#o o o o b-album o b-artist o o b-service
+play music by Charlie Adams from 1954#!#PlayMusic#!#o o o b-artist i-artist o b-year
+play the It Could Only Happen With You  album by Lawrence#!#PlayMusic#!#o o b-album i-album i-album i-album i-album i-album b-music_item o b-artist
+Play Moondog 's Chupacabra .#!#PlayMusic#!#o b-artist o b-album o
+I'd like to hear some trip-hop#!#PlayMusic#!#o o o o o b-genre
+Play a 2001  tune#!#PlayMusic#!#o o b-year b-music_item
+Can you pull up and play something on Itunes#!#PlayMusic#!#o o o o o o o o b-service
+I want to hear some theme music by Edsel Dope#!#PlayMusic#!#o o o o o b-music_item o o b-artist i-artist
+Play some music from 1993 on Itunes .#!#PlayMusic#!#o o o o b-year o b-service o
+I want to hear the new Vasilis Tsitsanis  ep#!#PlayMusic#!#o o o o o o b-artist i-artist b-music_item
+play a sound track by Vegard Sverre Tveitan#!#PlayMusic#!#o o b-music_item i-music_item o b-artist i-artist i-artist
+Play Crucifixion on Deezer .#!#PlayMusic#!#o b-track o b-service o
+I want to hear the album  Suites & Sweets#!#PlayMusic#!#o o o o o b-music_item b-album i-album i-album
+Play Adrian Borland 's music on Zvooq .#!#PlayMusic#!#o b-artist i-artist o o o b-service o
+Open The Second Adventure  album by Hans Nilsson#!#PlayMusic#!#o b-album i-album i-album b-music_item o b-artist i-artist
+Play something off Rage Radio#!#PlayMusic#!#o o o b-playlist i-playlist
+I want to hear This Is The Night from Proof#!#PlayMusic#!#o o o o b-track i-track i-track i-track o b-artist
+Play Classical X#!#PlayMusic#!#o b-playlist i-playlist
+Play me a song by Michael Diamond#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+play Kurt Cobain  ballad tunes#!#PlayMusic#!#o b-artist i-artist b-music_item o
+Play some Eddie Vinson on Deezer#!#PlayMusic#!#o o b-artist i-artist o b-service
+Play the greatest  record by Leroi Moore#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist
+Play Dawn Richard  song  White Summer#!#PlayMusic#!#o b-artist i-artist b-music_item b-track i-track
+Play some Ray Williams music from the nineties on spotify#!#PlayMusic#!#o o b-artist i-artist o o o b-year o b-service
+play chant on groove shark from 1996#!#PlayMusic#!#o b-music_item o b-service i-service o b-year
+Play the top fifty  record from Alan Jardine#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist
+play newest  Robert Palmer  sound track#!#PlayMusic#!#o b-sort b-artist i-artist b-music_item i-music_item
+Play music on my Itunes#!#PlayMusic#!#o o o o b-service
+Play something by Daisy Voisin on google music#!#PlayMusic#!#o o o b-artist i-artist o b-service i-service
+Play some Dj Qbert .#!#PlayMusic#!#o o b-artist i-artist o
+Play Supernaut by Armand Van Helden#!#PlayMusic#!#o b-track o b-artist i-artist i-artist
+Can I hear a Da Brat  ep ?#!#PlayMusic#!#o o o o b-artist i-artist b-music_item o
+play symphony music from the fourties with google music#!#PlayMusic#!#o b-music_item o o o b-year o b-service i-service
+Play got to be free by Madeleine Peyroux#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+Play music in the genre soundtrack#!#PlayMusic#!#o o o o o b-genre
+play some fifties tunes by Mike Mccready#!#PlayMusic#!#o o b-year o o b-artist i-artist
+Play music from Carina Round#!#PlayMusic#!#o o o b-artist i-artist
+I want to hear the new  movement from Richard Harvey#!#PlayMusic#!#o o o o o b-sort b-music_item o b-artist i-artist
+Play a song off The Best Of Siouxsie & The Banshees by Faustino Oramas#!#PlayMusic#!#o o b-music_item o b-album i-album i-album i-album i-album i-album i-album o b-artist i-artist
+Play the album , Dance Hall At Louse Point .#!#PlayMusic#!#o o b-music_item o b-album i-album i-album i-album i-album o
+play Lighter by Pamela Jintana Racine#!#PlayMusic#!#o b-track o b-artist i-artist i-artist
+Play the top-ten  soundtrack from Kiara .#!#PlayMusic#!#o o b-sort b-music_item o b-artist o
+play the last  chant from the fourties#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+Play Gary Chapman music from the fifties#!#PlayMusic#!#o b-artist i-artist o o o b-year
+Play some Armik from the fourties#!#PlayMusic#!#o o b-artist o o b-year
+play a popular sort of fifties  tune music#!#PlayMusic#!#o o b-sort o o b-year b-music_item o
+I'd like to hear Helen Baylor#!#PlayMusic#!#o o o o b-artist i-artist
+Play music from 1989 by Maya .#!#PlayMusic#!#o o o b-year o b-artist o
+Play Kool Keith Presents Thee Undatakerz by John Mccrea .#!#PlayMusic#!#o b-album i-album i-album i-album i-album o b-artist i-artist o
+play Piano 100#!#PlayMusic#!#o b-playlist i-playlist
+Play some music on Lastfm#!#PlayMusic#!#o o o o b-service
+Play a concerto  top ten sort by Lloyd .#!#PlayMusic#!#o o b-music_item b-sort i-sort o o b-artist o
+Play Arif music from the fourties .#!#PlayMusic#!#o b-artist o o o b-year o
+Play music off Netflix .#!#PlayMusic#!#o o o b-service o
+Open Pandora and play music from the fifties .#!#PlayMusic#!#o b-service o o o o o b-year o
+have Zvooq play songs from the fifties#!#PlayMusic#!#o b-service o o o o b-year
+Play some chant music by Kevin Jonas on deezer .#!#PlayMusic#!#o o b-music_item o o b-artist i-artist o b-service o
+Play paul ortiz music from 1990#!#PlayMusic#!#o b-artist i-artist o o b-year
+Play some Glenn Stetson music on Spotify#!#PlayMusic#!#o o b-artist i-artist o o b-service
+Open Groove Shark and play sound track from Dj Cameo#!#PlayMusic#!#o b-service i-service o o b-music_item i-music_item o b-artist i-artist
+Play music on Iheart#!#PlayMusic#!#o o o b-service
+Play my Top Gaming Tracks .#!#PlayMusic#!#o o b-playlist i-playlist i-playlist o
+something on Spotify please#!#PlayMusic#!#o o b-service o
+Play BurhÃ¸ns by Ernie C .#!#PlayMusic#!#o b-album o b-artist i-artist o
+Let me hear an ep from the thirties era of music.#!#PlayMusic#!#o o o o b-music_item o o b-year o o o
+Proceed with music from 2003 .#!#PlayMusic#!#o o o o b-year o
+Play Elkie Brooks  seventies  sound track#!#PlayMusic#!#o b-artist i-artist b-year b-music_item i-music_item
+Open Vimeo and play music.#!#PlayMusic#!#o b-service o o o
+play a top twenty  symphony of 2010#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-year
+Play music from the artist Taktloss from the record in the thirties#!#PlayMusic#!#o o o o o b-artist o o b-music_item o o b-year
+I want to listen to some Aaliyah#!#PlayMusic#!#o o o o o o b-artist
+Play my New Indie Mix on Google Music .#!#PlayMusic#!#o o b-playlist i-playlist i-playlist o b-service i-service o
+Can you use Pandora to play a soundtrack from 1999 by David Sitek ?#!#PlayMusic#!#o o o b-service o o o b-music_item o b-year o b-artist i-artist o
+play Deezer form 2010  tune by Dave Grohl#!#PlayMusic#!#o b-service o b-year b-music_item o b-artist i-artist
+Play some caribou from the sixties#!#PlayMusic#!#o o b-artist o o b-year
+Play drum & bass music#!#PlayMusic#!#o b-genre i-genre i-genre o
+Use netflix to play a record by Emil Gilels from year 2015#!#PlayMusic#!#o b-service o o o b-music_item o b-artist i-artist o o b-year
+play Steven Reineke  greatest  soundtrack on Youtube#!#PlayMusic#!#o b-artist i-artist b-sort b-music_item o b-service
+turn on Google Music to play 1991#!#PlayMusic#!#o o b-service i-service o o b-year
+Open iheart and play TÃ© Para Tres#!#PlayMusic#!#o b-service o o b-playlist i-playlist i-playlist
+play some fourties  Andrew Lloyd Webber on Groove Shark#!#PlayMusic#!#o o b-year b-artist i-artist i-artist o b-service i-service
+play music by Ryan Malcolm from Sympathy For The Devil on Pandora#!#PlayMusic#!#o o o b-artist i-artist o b-track i-track i-track i-track o b-service
+Play some Instrumental music on the service Lastfm#!#PlayMusic#!#o o b-genre o o o o b-service
+Play the song  vodka by Kunal Ganjawala on Itunes#!#PlayMusic#!#o o b-music_item b-track o b-artist i-artist o b-service
+Play all music Alan released in 1997#!#PlayMusic#!#o o o b-artist o o b-year
+Play Dansevise by Ebi on Groove Shark .#!#PlayMusic#!#o b-track o b-artist o b-service i-service o
+I want to hear some The Roches#!#PlayMusic#!#o o o o o b-album i-album
+Play me something Miles Davis did with a symphony#!#PlayMusic#!#o o o b-artist i-artist o o o b-music_item
+Play music off Youtube .#!#PlayMusic#!#o o o b-service o
+play some sixties music#!#PlayMusic#!#o o b-year o
+play Soheila Zaland#!#PlayMusic#!#o b-artist i-artist
+Play music year 2016 by artist Michiru Yamane#!#PlayMusic#!#o o o b-year o o b-artist i-artist
+play Lastfm tunes from 1997#!#PlayMusic#!#o b-service o o b-year
+listen to Westbam alumb Allergic on Google Music#!#PlayMusic#!#o o b-artist o b-album o b-service i-service
+Play ecstatic#!#PlayMusic#!#o b-playlist
+Play some music on groove shark .#!#PlayMusic#!#o o o o b-service i-service o
+I need some ambient music.#!#PlayMusic#!#o o o b-genre o
+Play a song by Nash The Slash#!#PlayMusic#!#o o b-music_item o b-artist i-artist i-artist
+Play me a symphony by Ricky Bell#!#PlayMusic#!#o o o b-music_item o b-artist i-artist
+Play the energic  Itunes#!#PlayMusic#!#o o b-playlist b-service
+play the best  Elizaveta Khripounova#!#PlayMusic#!#o o b-sort b-artist i-artist
+Play 2006  chant music.#!#PlayMusic#!#o b-year b-music_item o
+I'd like to hear Ami Suzuki 's latest  record#!#PlayMusic#!#o o o o b-artist i-artist o b-sort b-music_item
+Play Crazy=genius by The Alchemist#!#PlayMusic#!#o b-track o b-artist i-artist
+Can I listen to merengue style music?#!#PlayMusic#!#o o o o b-genre o o
+turn on Last Fm#!#PlayMusic#!#o o b-service i-service
+play the last  Chris Douglas on Slacker#!#PlayMusic#!#o o b-sort b-artist i-artist o b-service
+play eighties  track#!#PlayMusic#!#o b-year b-music_item
+Wish to hear music from the year 1996#!#PlayMusic#!#o o o o o o o b-year
+Play Soldier Boy from Melody Gardot#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play new  melody by Kenji Ito on Itunes .#!#PlayMusic#!#o b-sort b-music_item o b-artist i-artist o b-service o
+Please play Bitch Please Ii#!#PlayMusic#!#o o b-track i-track i-track
+Could you play the album  B Men GahÅ by Nathaniel Shilkret#!#PlayMusic#!#o o o o b-music_item b-album i-album i-album o b-artist i-artist
+Does Netflix have music released in 1991 by You Yokoyama#!#PlayMusic#!#o b-service o o o o b-year o b-artist i-artist
+play robin hood and the bishop of hereford by Jon Mayer#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track i-track o b-artist i-artist
+Play Slow Rock on Lastfm .#!#PlayMusic#!#o b-genre i-genre o b-service o
+Play some nineties music on Zvooq#!#PlayMusic#!#o o b-year o o b-service
+Play Stereo by Jonathan Davis on Deezer .#!#PlayMusic#!#o b-track o b-artist i-artist o b-service o
+Play Pacific Ocean Blues by John Doe on Lastfm#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+Play some Paul Stookey from the sixties#!#PlayMusic#!#o o b-artist i-artist o o b-year
+Play the song  American Patrol by lauryn hill#!#PlayMusic#!#o o b-music_item b-track i-track o b-artist i-artist
+I want to hear some sixties  melody from Mark Mcentee off of Google Music#!#PlayMusic#!#o o o o o b-year b-music_item o b-artist i-artist o o b-service i-service
+Play Junun by Noam Kaniel .#!#PlayMusic#!#o b-album o b-artist i-artist o
+Please play anything by george formby jr#!#PlayMusic#!#o o o o b-artist i-artist i-artist
+play In The Arms Of God on Zvooq by Nimal Mendis#!#PlayMusic#!#o b-album i-album i-album i-album i-album o b-service o b-artist i-artist
+Play some Jungle music on iheart#!#PlayMusic#!#o o b-genre o o b-service
+I want to hear a track from the fourties .#!#PlayMusic#!#o o o o o b-music_item o o b-year o
+Play me a 2015  soundtrack on Netflix#!#PlayMusic#!#o o o b-year b-music_item o b-service
+give me some Hank Shermann from 1975 on Lastfm#!#PlayMusic#!#o o o b-artist i-artist o b-year o b-service
+Can you play an ep by Tatjana Iwanowna Bulanowa#!#PlayMusic#!#o o o o b-music_item o b-artist i-artist i-artist
+Play the top ten  theme music from 1975 by Tom Baxter#!#PlayMusic#!#o o b-sort i-sort b-music_item o o b-year o b-artist i-artist
+Let me use netflix to listen to the last  soundtrack from Out Of Eden .#!#PlayMusic#!#o o o b-service o o o o b-sort b-music_item o b-artist i-artist i-artist o
+Play El Cant Dels Ocells by vini lopez .#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist o
+Play me a Cinder Block  movement#!#PlayMusic#!#o o o b-artist i-artist b-music_item
+Play a melody by Colin Blunstone#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play a song from 1990 on Netflix#!#PlayMusic#!#o o b-music_item o b-year o b-service
+Want to play Christina Schollin  Lastfm#!#PlayMusic#!#o o o b-artist i-artist b-service
+Play top-twenty  fourties  movement music by Mohammad Reza Lotfi .#!#PlayMusic#!#o b-sort b-year b-music_item o o b-artist i-artist i-artist o
+play the top  nineties  melody by Gus G#!#PlayMusic#!#o o b-sort b-year b-music_item o b-artist i-artist
+Play my Pandora app#!#PlayMusic#!#o o b-service o
+Play the album  Remember Shakti â The Believer .#!#PlayMusic#!#o o b-music_item b-album i-album i-album i-album i-album o
+Play Halid 08 by video game pianist on Pandora#!#PlayMusic#!#o b-album i-album o b-artist i-artist i-artist o b-service
+Play breed the killers on Itunes#!#PlayMusic#!#o b-album i-album i-album o b-service
+Play some seventies  track from top  Rie Tomosaka#!#PlayMusic#!#o o b-year b-music_item o b-sort b-artist i-artist
+Play Geddy Lee music on Spotify sort by top#!#PlayMusic#!#o b-artist i-artist o o b-service o o b-sort
+Use the service Lastfm to play artist keren peles from the most popular  symphony#!#PlayMusic#!#o o o b-service o o o b-artist i-artist o o b-sort i-sort b-music_item
+Play any track by Flame#!#PlayMusic#!#o o b-music_item o b-artist
+Play a sixties  track by Noam Pikelny on iheart .#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service o
+Please play a song for me from 1959#!#PlayMusic#!#o o o b-music_item o o o b-year
+Play me something from the thirties by Candi Staton on Vimeo#!#PlayMusic#!#o o o o o b-year o b-artist i-artist o b-service
+Can I hear a movement by rookantha gunathilake on the Vimeo service?#!#PlayMusic#!#o o o o b-music_item o b-artist i-artist o o b-service o
+play music on netflix#!#PlayMusic#!#o o o b-service
+Play me a fifties  song#!#PlayMusic#!#o o o b-year b-music_item
+Play my Acoustic Covers playlist on Spotify .#!#PlayMusic#!#o o b-playlist i-playlist o o b-service o
+Play Lenny Kaye music.#!#PlayMusic#!#o b-artist i-artist o
+play Ngola Ritmos  top-ten songs#!#PlayMusic#!#o b-artist i-artist b-sort o
+Play the Charlie Hunter  theme off of Last Fm#!#PlayMusic#!#o o b-artist i-artist b-music_item o o b-service i-service
+Use Google Music to play some songs by Dr John#!#PlayMusic#!#o b-service i-service o o o o o b-artist i-artist
+play a tune by Margaret Kelly on Iheart#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-service
+Play the album  Cara De Dios .#!#PlayMusic#!#o o b-music_item b-album i-album i-album o
+Play track music from Peter Finestone on Netflix sort by newest#!#PlayMusic#!#o b-music_item o o b-artist i-artist o b-service o o b-sort
+Play Adieu by Al Arsenault#!#PlayMusic#!#o b-track o b-artist i-artist
+Play ExpresiÃ³n from Mickey Finn#!#PlayMusic#!#o b-album o b-artist i-artist
+play music by Bonobo#!#PlayMusic#!#o o o b-artist
+Play the most popular  chant song by Hossein Alizadeh from around 2009#!#PlayMusic#!#o o b-sort i-sort b-music_item i-music_item o b-artist i-artist o o b-year
+Play music from Youtube .#!#PlayMusic#!#o o o b-service o
+Play Miami 2017 by Rodney Whitaker#!#PlayMusic#!#o b-track i-track o b-artist i-artist
+Play good  Pure Soul on netflix #!#PlayMusic#!#o b-sort b-artist i-artist o b-service
+Can you play Halloween by Ajinoam Nini#!#PlayMusic#!#o o o b-track o b-artist i-artist
+Play playlist funtime#!#PlayMusic#!#o o b-playlist
+play Angelo Amorevoli#!#PlayMusic#!#o b-artist i-artist
+play a ballad by Giorgio Moroder#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Please use Itunes to play something from 1986#!#PlayMusic#!#o o b-service o o o o b-year
+play Calico Skies by John Feinstein with Netflix#!#PlayMusic#!#o b-track i-track o b-artist i-artist o b-service
+Play artist Vlada Divljan from something he did that is good#!#PlayMusic#!#o o b-artist i-artist o o o o o o b-sort
+Play the track  Pocahontas  John Farnham#!#PlayMusic#!#o o b-music_item b-track b-artist i-artist
+play some popular  bryan gregory songs#!#PlayMusic#!#o o b-sort b-artist i-artist o
+play a seventies  ballad by Annunzio Paolo Mantovani on Groove Shark#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist i-artist o b-service i-service
+play good  Classified songs on Vimeo#!#PlayMusic#!#o b-sort b-artist o o b-service
+Play my Femme Fatale playlist on Vimeo#!#PlayMusic#!#o o b-playlist i-playlist o o b-service
+I wish to listen to eighties music by Mike Dean .#!#PlayMusic#!#o o o o o b-year o o b-artist i-artist o
+Play some Techno#!#PlayMusic#!#o o b-genre
+I wish to hear the playlist Estado de Ã¡nimo on Last Fm .#!#PlayMusic#!#o o o o o o b-playlist i-playlist i-playlist o b-service i-service o
+play Fereydoun Farrokhzad  best  track#!#PlayMusic#!#o b-artist i-artist b-sort b-music_item
+Can I listen to music from the Easy Listening genre?#!#PlayMusic#!#o o o o o o o b-genre i-genre o
+Play a 1991  song by Anila Mirza#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+play the top-20  Rita Macneil songs#!#PlayMusic#!#o o b-sort b-artist i-artist o
+Play a 1974  sound track on Vimeo .#!#PlayMusic#!#o o b-year b-music_item i-music_item o b-service o
+Play me music from the twenties on Itunes .#!#PlayMusic#!#o o o o o b-year o b-service o
+Play a sound track by Mac Dre .#!#PlayMusic#!#o o b-music_item i-music_item o b-artist i-artist o
+play a 1977  record by Bitty Mclean on Google Music#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist o b-service i-service
+Play The Wizard And I on Zvooq#!#PlayMusic#!#o b-track i-track i-track i-track o b-service
+Play some 2011 music by Dan Healy .#!#PlayMusic#!#o o b-year o o b-artist i-artist o
+Play the best music from Klaus Badelt .#!#PlayMusic#!#o o b-sort o o b-artist i-artist o
+Can I hear Jeremy Taggart 's newest  chant on Deezer ?#!#PlayMusic#!#o o o b-artist i-artist o b-sort b-music_item o b-service o
+Listen to music from 1975#!#PlayMusic#!#o o o o b-year
+play Latina#!#PlayMusic#!#o b-playlist
+play a top  Ryuichi Kawamura  chant on Groove Shark#!#PlayMusic#!#o o b-sort b-artist i-artist b-music_item o b-service i-service
+play a tune from 2000 by Bronislau Kaper#!#PlayMusic#!#o o b-music_item o b-year o b-artist i-artist
+Play a song from 1994 .#!#PlayMusic#!#o o b-music_item o b-year o
+I'd like to hear the last  song fro Willa Ford .#!#PlayMusic#!#o o o o o b-sort b-music_item o b-artist i-artist o
+Play my playlist springtime#!#PlayMusic#!#o o o b-playlist
+Open Lastfm and play Hot Lips Page from the sixties#!#PlayMusic#!#o b-service o o b-artist i-artist i-artist o o b-year
+Use the service Itunes to play melody from 1998#!#PlayMusic#!#o o o b-service o o b-music_item o b-year
+Play music from the punk genre on Last Fm .#!#PlayMusic#!#o o o o b-genre o o b-service i-service o
+play Techno music#!#PlayMusic#!#o b-genre o
+play shara worden#!#PlayMusic#!#o b-artist i-artist
+Play a top-50  tune from 1982 .#!#PlayMusic#!#o o b-sort b-music_item o b-year o
+I want to hear some Boris Grebenchtchikov on Zvooq#!#PlayMusic#!#o o o o o b-artist i-artist o b-service
+play chant music from 1993#!#PlayMusic#!#o b-music_item o o b-year
+play melody music from 1988#!#PlayMusic#!#o b-music_item o o b-year
+play the music track of 1998#!#PlayMusic#!#o o o b-music_item o b-year
+Play some music by Jody Williams from 2001#!#PlayMusic#!#o o o o b-artist i-artist o b-year
+I want to hear a Silvia Night  ep from the sixties#!#PlayMusic#!#o o o o o b-artist i-artist b-music_item o o b-year
+play a Samira Said  ballad from the nineties#!#PlayMusic#!#o o b-artist i-artist b-music_item o o b-year
+Play Shoo on iheart from greatest  record#!#PlayMusic#!#o b-artist o b-service o b-sort b-music_item
+Play some music on Netflix#!#PlayMusic#!#o o o o b-service
+Play Metal Crash Course playlist.#!#PlayMusic#!#o b-playlist i-playlist i-playlist o
+play Khujo  eighties  track song#!#PlayMusic#!#o b-artist b-year b-music_item i-music_item
+Play Goldie Hill 's record on Google Music .#!#PlayMusic#!#o b-artist i-artist o b-music_item o b-service i-service o
+Play music from Lastfm#!#PlayMusic#!#o o o b-service
+I'm looking for the last  track by Fei Yu Ching from the fourties#!#PlayMusic#!#o o o o b-sort b-music_item o b-artist i-artist i-artist o o b-year
+Open pandora and play udhreko choli from Chowdiah#!#PlayMusic#!#o b-service o o b-track i-track o b-artist
+Play a top  symphony from the fourties#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+play a Keith Richards  album#!#PlayMusic#!#o o b-artist i-artist b-music_item
+Play the track  Fight On, State by Yuvan Shankar Raja#!#PlayMusic#!#o o b-music_item b-track i-track i-track o b-artist i-artist i-artist
+play the newest  ep from the sixties#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+Play a song from 1950#!#PlayMusic#!#o o b-music_item o b-year
+Play Moris Tepper#!#PlayMusic#!#o b-artist i-artist
+play a new  song from the seventies#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+play music using Groove Shark#!#PlayMusic#!#o o o b-service i-service
+Play Entre Raices Y Antenas by Lynn & Wade Llp .#!#PlayMusic#!#o b-album i-album i-album i-album o b-artist i-artist i-artist i-artist o
+Play some acapella music#!#PlayMusic#!#o o b-genre o
+Play a Paolo Gregoletto  song#!#PlayMusic#!#o o b-artist i-artist b-music_item
+play Zvooq  Night Rider list#!#PlayMusic#!#o b-service b-playlist i-playlist o
+play The Edge by Deezer on Vans Warped Tour Compilation 2003#!#PlayMusic#!#o b-artist i-artist o b-service o b-album i-album i-album i-album i-album
+Play Always Pop Punk .#!#PlayMusic#!#o b-playlist i-playlist i-playlist o
+Play some ivy anderson from around 1967#!#PlayMusic#!#o o b-artist i-artist o o b-year
+play the newest  sound track from the thirties#!#PlayMusic#!#o o b-sort b-music_item i-music_item o o b-year
+Play some seventies music on Netflix .#!#PlayMusic#!#o o b-year o o b-service o
+Play Who Knows Where The Time Goes ? by Grigory Leps#!#PlayMusic#!#o b-track i-track i-track i-track i-track i-track o o b-artist i-artist
+Open Vimeo and play Lee Mellor  good songs#!#PlayMusic#!#o b-service o o b-artist i-artist b-sort o
+play some sad songs from the fifties#!#PlayMusic#!#o o o o o o b-year
+Play music on groove shark#!#PlayMusic#!#o o o b-service i-service
+play 1990 tunes on Groove Shark#!#PlayMusic#!#o b-year o o b-service i-service
+Play me a popular  Ronnie Wood  soundtrack#!#PlayMusic#!#o o o b-sort b-artist i-artist b-music_item
+Play Elitsa Todorova music#!#PlayMusic#!#o b-artist i-artist o
+Play something off my New Boots playlist#!#PlayMusic#!#o o o o b-playlist i-playlist o
+Can you play Deezer from 2007 ?#!#PlayMusic#!#o o o b-service o b-year o
+Please play some Black Metal music#!#PlayMusic#!#o o o b-genre i-genre o
+play twenties tunes#!#PlayMusic#!#o b-year o
+Play some music on Last Fm#!#PlayMusic#!#o o o o b-service i-service
+Play twenties  chant from Lagaylia Frazier on Itunes#!#PlayMusic#!#o b-year b-music_item o b-artist i-artist o b-service
+Play music from 1959 by Lenny Leblanc on Pandora .#!#PlayMusic#!#o o o b-year o b-artist i-artist o b-service o
+Play some fourties music on vimeo #!#PlayMusic#!#o o b-year o o b-service
+Play chant music by pappu venugopala rao on Slacker .#!#PlayMusic#!#o b-music_item o o b-artist i-artist i-artist o b-service o
+I want to hear Aki Nawaz , play the song  fair annie .#!#PlayMusic#!#o o o o b-artist i-artist o o o b-music_item b-track i-track o
+Play music from 1958#!#PlayMusic#!#o o o b-year
+Use Spotify to play Who Was In My Room Last Night ?#!#PlayMusic#!#o b-service o o b-track i-track i-track i-track i-track i-track i-track o
+Play the most popular music from Nat Stuckey on Itunes .#!#PlayMusic#!#o o b-sort i-sort o o b-artist i-artist o b-service o
+Play some chanson style music.#!#PlayMusic#!#o o b-genre o o
+Play Socialism Is Good by terje bakken on Spotify .#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service o
+Play music from 1964 .#!#PlayMusic#!#o o o b-year o
+play a record from 1982#!#PlayMusic#!#o o b-music_item o b-year
+Play a track by Titiyo#!#PlayMusic#!#o o b-music_item o b-artist
+play Lastfm by Steampunk#!#PlayMusic#!#o b-service o b-playlist
+Play a record from 2005 by Ruslana Lyschytschko .#!#PlayMusic#!#o o b-music_item o b-year o b-artist i-artist o
+Play Is This My World ? by Leo Arnaud#!#PlayMusic#!#o b-album i-album i-album i-album o o b-artist i-artist
+Play While The Gate Is Open .#!#PlayMusic#!#o b-album i-album i-album i-album i-album o
+Can you play a song from the newest  movement by prince on Lastfm#!#PlayMusic#!#o o o o b-music_item o o b-sort b-music_item o b-artist o b-service
+Play some Rui Da Silva .#!#PlayMusic#!#o o b-artist i-artist i-artist o
+Play The Cherry-tree Carol by Edwin Mccain#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist
+Play Tomtegubben Som Hade Snuva#!#PlayMusic#!#o b-track i-track i-track i-track
+Play my Sophisticated Dinner playlist on Slacker#!#PlayMusic#!#o o b-playlist i-playlist o o b-service
+Play the song  domino by Luca Turilli#!#PlayMusic#!#o o b-music_item b-track o b-artist i-artist
+Play a rock  track from 1984#!#PlayMusic#!#o o b-genre b-music_item o b-year
+play the newest  Martin Solveig  sound track#!#PlayMusic#!#o o b-sort b-artist i-artist b-music_item i-music_item
+Listen to Power Gaming playlist#!#PlayMusic#!#o o b-playlist i-playlist o
+Play some chant from 1974#!#PlayMusic#!#o o b-music_item o b-year
+play Mohammed Abdu from top 20#!#PlayMusic#!#o b-artist i-artist o b-sort i-sort
+Play the top ten by Andrea Del Rosario .#!#PlayMusic#!#o o b-sort i-sort o b-artist i-artist i-artist o
+Play a 2007  track from Adam Jones#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist
+use Netflix to play Michael White  tune from 1955#!#PlayMusic#!#o b-service o o b-artist i-artist b-music_item o b-year
+listen to ballad songs from 1999#!#PlayMusic#!#o o b-music_item o o b-year
+I want ohear the 1996  soundtrack from deezer#!#PlayMusic#!#o o o o b-year b-music_item o b-service
+Play a soundtrack by musical artist Jimmy James#!#PlayMusic#!#o o b-music_item o o o b-artist i-artist
+Play music on youtube#!#PlayMusic#!#o o o b-service
+play the last  Rocko music with deezer#!#PlayMusic#!#o o b-sort b-artist o o b-service
+Play rie fu music sorted by the best .#!#PlayMusic#!#o b-artist i-artist o o o o b-sort o
+Play Noche de chicas playlist#!#PlayMusic#!#o b-playlist i-playlist i-playlist o
+Can you play some fifties music by lavern baker#!#PlayMusic#!#o o o o b-year o o b-artist i-artist
+Please play something that's freak folk on Google Music#!#PlayMusic#!#o o o o b-genre i-genre o b-service i-service
+play anything from 1970#!#PlayMusic#!#o o o b-year
+I wish to enjoy some fifties music by Johnny Paycheck .#!#PlayMusic#!#o o o o o b-year o o b-artist i-artist o
+play steve harris  False Gestures For A Devious Public  album#!#PlayMusic#!#o b-artist i-artist b-album i-album i-album i-album i-album i-album b-music_item
+Play me a seventies  song#!#PlayMusic#!#o o o b-year b-music_item
+I want to hear a good  album from Toni Cottura .#!#PlayMusic#!#o o o o o b-sort b-music_item o b-artist i-artist o
+use Iheart to listen to retro#!#PlayMusic#!#o b-service o o o b-genre
+Open Youtube and play Iron Mountain Depot from John Lomax#!#PlayMusic#!#o b-service o o b-album i-album i-album o b-artist i-artist
+I want to listen to a popular  melody by David Bazan#!#PlayMusic#!#o o o o o o b-sort b-music_item o b-artist i-artist
+Play a Ladyhawke  record#!#PlayMusic#!#o o b-artist b-music_item
+Play the newest  melody from Corey Clark on Lastfm#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service
+Play music from Gavin Koppell  movement#!#PlayMusic#!#o o o b-artist i-artist b-music_item
+Play best  fourties from david izquierdo on album#!#PlayMusic#!#o b-sort b-year o b-artist i-artist o b-music_item
+I need some Hardcore Hip Hop#!#PlayMusic#!#o o o b-genre i-genre i-genre
+Play Fais Les Backs by Sarah Geronimo on Youtube#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+Play a fifties  theme on lastfm #!#PlayMusic#!#o o b-year b-music_item o b-service
+play Women of Jazz#!#PlayMusic#!#o b-playlist i-playlist i-playlist
+play Dj Ozma  top songs#!#PlayMusic#!#o b-artist i-artist b-sort o
+PLay a track by deeyah khan .#!#PlayMusic#!#o o b-music_item o b-artist i-artist o
+Play some seventies songs from Joseph Genaro on Google Music#!#PlayMusic#!#o o b-year o o b-artist i-artist o b-service i-service
+Play a ballad by Heath#!#PlayMusic#!#o o b-music_item o b-artist
+Play 1952  Yusef Lateef on Netflix#!#PlayMusic#!#o b-year b-artist i-artist o b-service
+Play eighties music on Groove Shark .#!#PlayMusic#!#o b-year o o b-service i-service o
+Play Paul Landers , O Rio, A Cidade, A Ãrvore on slacker#!#PlayMusic#!#o b-artist i-artist o b-album i-album i-album i-album i-album i-album o b-service
+Let me hear the Rave Tapes  album from Yuki Koyanagi .#!#PlayMusic#!#o o o o b-album i-album b-music_item o b-artist i-artist o
+Play the top-five  ballad sort from 2004#!#PlayMusic#!#o o b-sort b-music_item o o b-year
+Play sixties  theme music#!#PlayMusic#!#o b-year b-music_item o
+Play the song  Two Suns In The Sunset by Airi Suzuki#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track i-track o b-artist i-artist
+Play music from 2015#!#PlayMusic#!#o o o b-year
+Play the greatest music by Phoebe Snow#!#PlayMusic#!#o o b-sort o o b-artist i-artist
+Play me a song by Carol Arnauld from 2003#!#PlayMusic#!#o o o b-music_item o b-artist i-artist o b-year
+Play me a song from Movies For The Blind on Pandora#!#PlayMusic#!#o o o b-music_item o b-album i-album i-album i-album o b-service
+Play 2012  symphony music by Nardwuar The Human Serviette on Netflix .#!#PlayMusic#!#o b-year b-music_item o o b-artist i-artist i-artist i-artist o b-service o
+Please play me a popular  track from 1984 .#!#PlayMusic#!#o o o o b-sort b-music_item o b-year o
+Play track  Ai Se Eu Te Pego on google music from artist Maestro#!#PlayMusic#!#o b-music_item b-track i-track i-track i-track i-track o b-service i-service o o b-artist
+Play Lil Hardin Armstrong from Itunes .#!#PlayMusic#!#o b-artist i-artist i-artist o b-service o
+Turn on Spotify to Tiny Tim  ep#!#PlayMusic#!#o o b-service o b-artist i-artist b-music_item
+Play a 1969  ballad by beth nielsen chapman , new first.#!#PlayMusic#!#o o b-year b-music_item o b-artist i-artist i-artist o b-sort o
+play a ballad by Chick Corea#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play music off the track  Child Maurice#!#PlayMusic#!#o o o o b-music_item b-track i-track
+Play me a song from Voices & Images#!#PlayMusic#!#o o o b-music_item o b-album i-album i-album
+play robert fripp  sound track on Pandora#!#PlayMusic#!#o b-artist i-artist b-music_item i-music_item o b-service
+play them by Guy-manuel De Homem-christo#!#PlayMusic#!#o b-music_item o b-artist i-artist i-artist
+Play some rock & roll by Deezer .#!#PlayMusic#!#o o b-genre i-genre i-genre o b-service o
+I'd like to hear a track by Theo Keating .#!#PlayMusic#!#o o o o o b-music_item o b-artist i-artist o
+Play some theme based music from the thirties .#!#PlayMusic#!#o o b-music_item o o o o b-year o
+I wish to listen to some instrumental music.#!#PlayMusic#!#o o o o o o b-playlist o
+Play chant from Freddy Fender on iheart#!#PlayMusic#!#o b-music_item o b-artist i-artist o b-service
+Can you play some music from 1999#!#PlayMusic#!#o o o o o o b-year
+Play music from the list Indie Electronics#!#PlayMusic#!#o o o o o b-playlist i-playlist
+play some King Tubby from the eighties#!#PlayMusic#!#o o b-artist i-artist o o b-year
+Play music on Netflix .#!#PlayMusic#!#o o o b-service o
+Play Randy Castillo 's music from 1952 .#!#PlayMusic#!#o b-artist i-artist o o o b-year o
+play ambient music#!#PlayMusic#!#o b-genre o
+Play the last  song by Goldie#!#PlayMusic#!#o o b-sort b-music_item o b-artist
+Play Pride Of The Prairie from Johnny Burke#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist i-artist
+Play them the greatest music by Chris Frantz .#!#PlayMusic#!#o b-music_item o b-sort o o b-artist i-artist o
+Play the song  Le Renouveau#!#PlayMusic#!#o o b-music_item b-track i-track
+I want to listen to Swing music on Iheart#!#PlayMusic#!#o o o o o b-genre o o b-service
+play the latest  Thelma Aoyama#!#PlayMusic#!#o o b-sort b-artist i-artist
+I'd like to listen to Tom Cochrane 's 1990  ep on Zvooq .#!#PlayMusic#!#o o o o o b-artist i-artist o b-year b-music_item o b-service o
+Play a Herbie Fields  record from the sixties#!#PlayMusic#!#o o b-artist i-artist b-music_item o o b-year
+Play the most popular sort by ep by Brooke Fraser#!#PlayMusic#!#o o b-sort i-sort o o b-music_item o b-artist i-artist
+Play me a 1986  Jim Root#!#PlayMusic#!#o o o b-year b-artist i-artist
+Play my Still Got the Blues playlist.#!#PlayMusic#!#o o b-playlist i-playlist i-playlist i-playlist o
+I would like to hear a song by Tim Reynolds#!#PlayMusic#!#o o o o o o b-music_item o b-artist i-artist
+play Fey 's album  Diamond Head on Zvooq#!#PlayMusic#!#o b-artist o b-music_item b-album i-album o b-service
+play a chant by Marina Verenikina#!#PlayMusic#!#o o b-music_item o b-artist i-artist
+Play Stevan Faddy on Google Music .#!#PlayMusic#!#o b-artist i-artist o b-service i-service o
+Play some sixties on netflix#!#PlayMusic#!#o o b-year o b-service
+play a tune from 1973#!#PlayMusic#!#o o b-music_item o b-year
+Play me Benjamin Kowalewicz 's top hits#!#PlayMusic#!#o o b-artist i-artist o b-sort o
+Find Mahalakshmi Iyer music on Netflix#!#PlayMusic#!#o b-artist i-artist o o b-service
+Play some music by Mark Heard .#!#PlayMusic#!#o o o o b-artist i-artist o
+Play Inventions For The New Season#!#PlayMusic#!#o b-album i-album i-album i-album i-album
+I want to hear some freestyle music.#!#PlayMusic#!#o o o o o b-genre o
+play Yusef Lateef songs from the fifties#!#PlayMusic#!#o b-artist i-artist o o o b-year
+Play sweet shanghai devil by Teddy Diaz .#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist o
+play paul riley on Youtube#!#PlayMusic#!#o b-artist i-artist o b-service
+Play some rock music on Youtube#!#PlayMusic#!#o o b-genre o o b-service
+Play music from negerpunk#!#PlayMusic#!#o o o b-genre
+play music by Odd Nosdam#!#PlayMusic#!#o o o b-artist i-artist
+Play music by Susumu Hirasawa .#!#PlayMusic#!#o o o b-artist i-artist o
+Can you play something off my Kids Workout playlist on Groove Shark#!#PlayMusic#!#o o o o o o b-playlist i-playlist o o b-service i-service
+play My Back Pages by Paul Young on vimeo #!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+Play me the greatest  Doctor Fink  song on zvooq#!#PlayMusic#!#o o o b-sort b-artist i-artist b-music_item o b-service
+Use Deezer to play music#!#PlayMusic#!#o b-service o o o
+Play Bitch Please Ii from Julee Cruise on Iheart#!#PlayMusic#!#o b-track i-track i-track o b-artist i-artist o b-service
+I want to hear music from the Lotus Flower  album by Andy Mccoy#!#PlayMusic#!#o o o o o o o b-album i-album b-music_item o b-artist i-artist
+Play a symphony from the thirties .#!#PlayMusic#!#o o b-music_item o o b-year o
+Play the song  Jingle Bells#!#PlayMusic#!#o o b-music_item b-track i-track
+Please play me some Satire music#!#PlayMusic#!#o o o o b-genre o
+Play a popular  song by Willie Dixon on Groove Shark#!#PlayMusic#!#o o b-sort b-music_item o b-artist i-artist o b-service i-service
+Let me listen to The Music Of Nature  album by Paul Draper .#!#PlayMusic#!#o o o o b-album i-album i-album i-album b-music_item o b-artist i-artist o
+I want to hear music from the sixties .#!#PlayMusic#!#o o o o o o o b-year o
+I want to hear a soundtrack by dj ozma from the sixties .#!#PlayMusic#!#o o o o o b-music_item o b-artist i-artist o o b-year o
+play Hanging Out and Relaxing#!#PlayMusic#!#o b-playlist i-playlist i-playlist i-playlist
+Play Within You Without You by Distance on zvooq .#!#PlayMusic#!#o b-track i-track i-track i-track o b-artist o b-service o
+play some Industrial music on Lastfm#!#PlayMusic#!#o o b-genre o o b-service
+Play me a song from 1968 on Spotify#!#PlayMusic#!#o o o b-music_item o b-year o b-service
+Play the music of Aphex Twin 's good  Album#!#PlayMusic#!#o o o o b-artist i-artist o b-sort b-music_item
+Play me some music from 1999#!#PlayMusic#!#o o o o o b-year
+I want to hear Richard Falomir 's best  song on Pandora#!#PlayMusic#!#o o o o b-artist i-artist o b-sort b-music_item o b-service
+Let's play the album Handover on Deezer#!#PlayMusic#!#o o o o b-album o b-service
+I want to hear Choice on Last Fm from the twenties .#!#PlayMusic#!#o o o o b-artist o b-service i-service o o b-year o
+Play a 1964  symphony on Netflix .#!#PlayMusic#!#o o b-year b-music_item o b-service o
+play the last  song from the thirties by Airto Moreira#!#PlayMusic#!#o o b-sort b-music_item o o b-year o b-artist i-artist
+Play Rob Dougan on youtube#!#PlayMusic#!#o b-artist i-artist o b-service
+play the top jazz record from 1951#!#PlayMusic#!#o o b-sort o b-music_item o b-year
+Play music on Netflix by Don Kikas#!#PlayMusic#!#o o o b-service o b-artist i-artist
+Play the last  Jonny Wickersham  song#!#PlayMusic#!#o o b-sort b-artist i-artist b-music_item
+play Luis Alfonzo Larrain from 1995#!#PlayMusic#!#o b-artist i-artist i-artist o b-year
+play a track by Alpha Blondy with Deezer#!#PlayMusic#!#o o b-music_item o b-artist i-artist o b-service
+I want to hear La Jaula De Oro by Mc Ren on Google Music .#!#PlayMusic#!#o o o o b-track i-track i-track i-track o b-artist i-artist o b-service i-service o
+Play HÃ¦ttuleg HljÃ³msveit & GlÃ¦pakvendiÃ° Stella by Kaori Iida#!#PlayMusic#!#o b-album i-album i-album i-album i-album o b-artist i-artist
+play some music from the thirties#!#PlayMusic#!#o o o o o b-year
+Play the track  Goodbye Alexander, Goodbye Honey Boy from Ehsaan Noorani#!#PlayMusic#!#o o b-music_item b-track i-track i-track i-track i-track o b-artist i-artist
+play me a Mel Draisey  tune from the fourties with vimeo #!#PlayMusic#!#o o o b-artist i-artist b-music_item o o b-year o b-service
+Play the best  chant of 1975#!#PlayMusic#!#o o b-sort b-music_item o b-year
+I want to hear secrets on parade from Tommy Walter#!#PlayMusic#!#o o o o b-album i-album i-album o b-artist i-artist
+Play the most popular  twenties  record from Leland Sklar#!#PlayMusic#!#o o b-sort i-sort b-year b-music_item o b-artist i-artist
+Play the last  1954  ep by Povel Ramel .#!#PlayMusic#!#o o b-sort b-year b-music_item o b-artist i-artist o
+play music by Christian Bautista#!#PlayMusic#!#o o o b-artist i-artist
+Play 2004 on pandora#!#PlayMusic#!#o b-year o b-service
+I'd like to hear Infinite Indie Folk on Slacker .#!#PlayMusic#!#o o o o b-playlist i-playlist i-playlist o b-service o
+Play some contemporary christian on Groove Shark .#!#PlayMusic#!#o o b-genre i-genre o b-service i-service o
+Play some music from 1989 by Sanjeev Abhyankar .#!#PlayMusic#!#o o o o b-year o b-artist i-artist o
+Let me hear the Live From The Ghetto  album by Beau Jocque .#!#PlayMusic#!#o o o o b-album i-album i-album i-album b-music_item o b-artist i-artist o
+Play Turbulence Wild Streetdanz from Jeff Buckley#!#PlayMusic#!#o b-album i-album i-album o b-artist i-artist
+play music from the year 1979#!#PlayMusic#!#o o o o o b-year
+Play the greatest  Ricky Bell music#!#PlayMusic#!#o o b-sort b-artist i-artist o
+Play some 1982  movement music on Slacker#!#PlayMusic#!#o o b-year b-music_item o o b-service
+Play music by Sarah Connor#!#PlayMusic#!#o o o b-artist i-artist
+Play movement by Duane Allman .#!#PlayMusic#!#o b-music_item o b-artist i-artist o
+Play music from Alison Sudol#!#PlayMusic#!#o o o b-artist i-artist
+Play Odessa by Maartin Allcock .#!#PlayMusic#!#o b-track o b-artist i-artist o
+Play music from 1954#!#PlayMusic#!#o o o b-year
+I want to hear a 1976  symphony by Jam Master Jay#!#PlayMusic#!#o o o o o b-year b-music_item o b-artist i-artist i-artist
+Play the most popular  track from Valery Alexandrovich Kipelov#!#PlayMusic#!#o o b-sort i-sort b-music_item o b-artist i-artist i-artist
+Play some good  movement music by Brian Littrell from around 2001#!#PlayMusic#!#o o b-sort b-music_item o o b-artist i-artist o o b-year
+play 2007 tunes by Bunny Berigan#!#PlayMusic#!#o b-year o o b-artist i-artist
+Play a ballad form 2014 by Double on Google Music#!#PlayMusic#!#o o b-music_item o b-year o b-artist o b-service i-service
+play Roy Orbison tunes now#!#PlayMusic#!#o b-artist i-artist o o
